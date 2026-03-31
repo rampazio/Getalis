@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Getalis - Marcas e Nevoas</title>
+    <style>
+        /* Variáveis de Tema */
+        :root {
+            --bg-color: #ffffff;
+            --text-color: #2c2c2c;
+            --bar-bg: #f8f9fa;
+            --bar-border: #e9ecef;
+            --primary: #0056b3;
+            --menu-overlay: rgba(0, 0, 0, 0.5);
+            --font-main: 'Georgia', serif;
+        }
+
+        [data-theme="dark"] {
+            --bg-color: #121212;
+            --text-color: #e0e0e0;
+            --bar-bg: #1e1e1e;
+            --bar-border: #333333;
+            --primary: #4da3ff;
+            --menu-overlay: rgba(0, 0, 0, 0.7);
+        }
+
+        [data-theme="sepia"] {
+            --bg-color: #f4ecd8;
+            --text-color: #5b4636;
+            --bar-bg: #e8dcb8;
+            --bar-border: #d4c599;
+            --primary: #8b5a2b;
+            --menu-overlay: rgba(91, 70, 54, 0.5);
+        }
+
+        [data-font="sans"] {
+            --font-main: 'Helvetica Neue', Arial, sans-serif;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: var(--font-main);
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.8;
+            transition: background-color 0.3s, color 0.3s;
+            overflow-x: hidden;
+        }
+
+        /* Barra de Ferramentas */
+        .toolbar {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 60px;
+            background-color: var(--bar-bg);
+            border-bottom: 1px solid var(--bar-border);
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 0 15px; z-index: 1000;
+            transition: transform 0.3s;
+        }
+        
+        .toolbar.hidden {
+            transform: translateY(-100%);
+        }
+
+        .tools button, .menu-btn {
+            background: none; border: none;
+            color: var(--text-color);
+            font-size: 14px; cursor: pointer;
+            padding: 8px 12px; border-radius: 5px;
+            font-weight: bold; transition: background 0.2s;
+        }
+        .tools button:hover, .menu-btn:hover { background-color: rgba(128, 128, 128, 0.15); }
+
+        /* Barra de Progresso do Capítulo Atual */
+        .progress-container {
+            position: fixed; top: 60px; left: 0; width: 100%; height: 4px;
+            background: var(--bar-border); z-index: 999;
+            transition: top 0.3s;
+        }
+        .toolbar.hidden + .progress-container { top: 0; }
+        .progress-bar { height: 100%; background: var(--primary); width: 0%; }
+
+        /* Container Principal do Livro */
+        .book-container {
+            max-width: 700px; margin: 100px auto 60px auto;
+            padding: 0 20px; font-size: 18px; transition: font-size 0.2s;
+        }
+
+        /* Capítulos (Ocultos por padrão) */
+        .capitulo {
+            display: none;
+            animation: fadeIn 0.4s ease;
+        }
+        .capitulo.ativo { display: block; }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+        /* Tipografia do Texto */
+        h1, h2 { font-family: 'Helvetica Neue', Arial, sans-serif; text-align: center; }
+        h1 { font-size: 2.2em; margin-bottom: 5px; }
+        .author { text-align: center; font-style: italic; color: gray; margin-bottom: 40px; }
+        h2 { font-size: 1.8em; margin-top: 20px; margin-bottom: 10px; }
+        .read-time { text-align: center; font-size: 0.85em; color: gray; margin-bottom: 40px; font-style: italic; }
+        
+        p { margin-bottom: 20px; text-indent: 30px; text-align: justify; }
+
+        /* Navegação de Rodapé (Botões Anterior/Próximo) */
+        .chapter-nav {
+            display: flex; justify-content: space-between;
+            margin-top: 50px; padding-top: 20px;
+            border-top: 1px solid var(--bar-border);
+            padding-bottom: 40px; /* Espaço extra para não colar no rodapé global */
+        }
+        .chapter-nav button {
+            background-color: var(--bar-bg); border: 1px solid var(--bar-border);
+            color: var(--text-color); padding: 12px 20px;
+            border-radius: 8px; cursor: pointer; font-size: 16px;
+            transition: background 0.2s;
+        }
+        .chapter-nav button:hover { background-color: var(--primary); color: #fff; border-color: var(--primary); }
+
+        /* Rodapé de Status Global */
+        .status-footer {
+            position: fixed; bottom: 0; left: 0; width: 100%;
+            background-color: var(--bar-bg); border-top: 1px solid var(--bar-border);
+            text-align: center; padding: 5px; font-size: 12px; color: gray; z-index: 998;
+        }
+
+        /* Menu Lateral (Sumário) */
+        .sidebar {
+            position: fixed; top: 0; left: -320px; width: 320px; height: 100%;
+            background-color: var(--bar-bg); border-right: 1px solid var(--bar-border);
+            z-index: 1001; overflow-y: auto; transition: left 0.3s ease; padding: 20px;
+        }
+        .sidebar.active { left: 0; }
+        .sidebar h3 { margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid var(--bar-border); }
+        .sidebar ul { list-style: none; }
+        .sidebar li { margin-bottom: 12px; }
+        .sidebar a {
+            text-decoration: none; color: var(--text-color);
+            font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 15px;
+            display: block; padding: 8px; border-radius: 5px; transition: background 0.2s;
+        }
+        .sidebar a:hover, .sidebar a.current { background-color: rgba(128, 128, 128, 0.1); color: var(--primary); font-weight: bold; }
+        
+        .overlay {
+            display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: var(--menu-overlay); z-index: 1000;
+        }
+        .overlay.active { display: block; }
+
+      /* Mobile Adjustments */
+        @media (max-width: 600px) {
+            .book-container { margin: 80px auto 60px auto; padding: 0 15px; font-size: 17px; }
+            
+            /* A correção principal está nas duas linhas abaixo */
+            .sidebar { width: 85%; left: -100%; } 
+            
+            p { text-align: left; }
+            .tools button { padding: 8px 8px; font-size: 13px; }
+            .chapter-nav button { padding: 10px 15px; font-size: 14px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="toolbar" id="toolbar">
+        <button class="menu-btn" onclick="toggleMenu()">☰ Sumário</button>
+        <div class="tools">
+            <button onclick="toggleFontFamily()">Aa</button>
+            <button onclick="changeFontSize(-1)">A-</button>
+            <button onclick="changeFontSize(1)">A+</button>
+            <button onclick="cycleTheme()">🌓 Tema</button>
+        </div>
+    </div>
+    <div class="progress-container"><div class="progress-bar" id="progressBar"></div></div>
+
+    <div class="sidebar" id="sidebar">
+        <button onclick="toggleMenu()" style="float: right; font-size: 20px; background:none; border:none; color:var(--text-color); cursor:pointer;">×</button>
+        <h3>Índice</h3>
+        <ul id="toc-list"></ul>
+    </div>
+    <div class="overlay" id="overlay" onclick="toggleMenu()"></div>
+
+    <div class="book-container" id="book-content">
+        <h1>Getalis - Sombras e Nevoas</h1>
+        <div class="author">Livro 1</div>
+        
+        </div>
+
+    <div class="status-footer" id="statusFooter">Carregando...</div>
+
+    <script src="livro.js"></script>
+
+    <script>
+        // 1. Variáveis Globais
+        let capitulos = [];
+        let currentChapter = parseInt(localStorage.getItem('savedChapter')) || 0;
+        let currentFontSize = 18;
+        let startX = 0;
+
+        // 2. PARSER: Transforma o texto bruto de livro.js em HTML formatado
+        function compilarLivro() {
+            const container = document.getElementById('book-content');
+            
+            // Verifica se a variável textoDoLivro existe (carregada do livro.js)
+            if (typeof textoDoLivro === 'undefined') {
+                container.innerHTML += '<p style="color:red; text-align:center;">Erro: Arquivo livro.js não encontrado ou variável textoDoLivro não definida.</p>';
+                return;
+            }
+
+            const linhas = textoDoLivro.split('\n');
+            let htmlCompilado = '';
+            let capituloAberto = false;
+
+            linhas.forEach(linha => {
+                const texto = linha.trim();
+                
+                if (!texto) return; // Ignora linhas vazias
+
+                if (texto.startsWith('#')) {
+                    if (capituloAberto) {
+                        htmlCompilado += '</section>'; // Fecha o anterior
+                    }
+                    
+                    const titulo = texto.substring(1).trim();
+                    htmlCompilado += `<section class="capitulo"><h2>${titulo}</h2>`;
+                    capituloAberto = true;
+                } else {
+                    if (capituloAberto) {
+                        htmlCompilado += `<p>${texto}</p>`;
+                    }
+                }
+            });
+
+            if (capituloAberto) {
+                htmlCompilado += '</section>';
+            }
+
+            // Injeta no container sem apagar o <h1> e a <div class="author">
+            container.insertAdjacentHTML('beforeend', htmlCompilado);
+            
+            // Atualiza a lista de elementos DOM
+            capitulos = document.querySelectorAll('.capitulo');
+            
+            if(currentChapter >= capitulos.length || currentChapter < 0) {
+                currentChapter = 0;
+            }
+        }
+
+        // 3. Preparar Capítulos (Tempo de leitura e Botões de Navegação)
+        function prepararCapitulos() {
+            capitulos.forEach((cap, index) => {
+                const texto = cap.innerText;
+                const numPalavras = texto.split(/\s+/).length;
+                const minutos = Math.ceil(numPalavras / 250);
+                
+                const titulo = cap.querySelector('h2');
+                if(titulo) {
+                    const tempoSpan = document.createElement('div');
+                    tempoSpan.className = 'read-time';
+                    tempoSpan.textContent = `Tempo estimado: ${minutos} min de leitura`;
+                    titulo.after(tempoSpan);
+                }
+
+                const navDiv = document.createElement('div');
+                navDiv.className = 'chapter-nav';
+                
+                let btnHtml = '';
+                if(index > 0) {
+                    btnHtml += `<button onclick="mudarCapitulo(${index - 1})">← Anterior</button>`;
+                } else {
+                    btnHtml += `<div></div>`; 
+                }
+                
+                if(index < capitulos.length - 1) {
+                    btnHtml += `<button onclick="mudarCapitulo(${index + 1})">Próximo →</button>`;
+                } else {
+                    btnHtml += `<button disabled>Fim do Livro</button>`;
+                }
+                
+                navDiv.innerHTML = btnHtml;
+                cap.appendChild(navDiv);
+            });
+        }
+
+        // 4. Lógica de Navegação
+        function mostrarCapitulo(index) {
+            if (capitulos.length === 0) return;
+
+            capitulos.forEach(c => c.classList.remove('ativo'));
+            capitulos[index].classList.add('ativo');
+            
+            currentChapter = index;
+            localStorage.setItem('savedChapter', currentChapter);
+            
+            document.getElementById('statusFooter').textContent = `Capítulo ${currentChapter + 1} de ${capitulos.length}`;
+            atualizarMarcacaoSumario();
+            
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            document.getElementById('progressBar').style.width = "0%";
+        }
+
+        function mudarCapitulo(index) {
+            if(index >= 0 && index < capitulos.length) {
+                mostrarCapitulo(index);
+            }
+        }
+
+        // 5. Sumário Automático
+        function gerarSumario() {
+            const tocList = document.getElementById('toc-list');
+            capitulos.forEach((cap, index) => {
+                const titulo = cap.querySelector('h2');
+                const nome = titulo ? titulo.textContent : `Capítulo ${index + 1}`;
+                
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                a.href = "#";
+                a.textContent = nome;
+                a.id = `toc-link-${index}`;
+                a.onclick = (e) => {
+                    e.preventDefault();
+                    mudarCapitulo(index);
+                    toggleMenu();
+                };
+                li.appendChild(a);
+                tocList.appendChild(li);
+            });
+        }
+
+        function atualizarMarcacaoSumario() {
+            document.querySelectorAll('#toc-list a').forEach(a => a.classList.remove('current'));
+            const currentLink = document.getElementById(`toc-link-${currentChapter}`);
+            if(currentLink) currentLink.classList.add('current');
+        }
+
+        // 6. Ferramentas Visuais
+        function cycleTheme() {
+            const body = document.body;
+            let currentTheme = body.getAttribute('data-theme') || 'light';
+            let newTheme = 'light';
+            
+            if(currentTheme === 'light') newTheme = 'sepia';
+            else if(currentTheme === 'sepia') newTheme = 'dark';
+            
+            if(newTheme === 'light') body.removeAttribute('data-theme');
+            else body.setAttribute('data-theme', newTheme);
+            
+            localStorage.setItem('theme', newTheme);
+        }
+
+        function toggleFontFamily() {
+            const body = document.body;
+            if(body.getAttribute('data-font') === 'sans') {
+                body.removeAttribute('data-font');
+                localStorage.setItem('fontFamily', 'serif');
+            } else {
+                body.setAttribute('data-font', 'sans');
+                localStorage.setItem('fontFamily', 'sans');
+            }
+        }
+
+        function changeFontSize(step) {
+            currentFontSize += step * 2;
+            if (currentFontSize < 14) currentFontSize = 14;
+            if (currentFontSize > 28) currentFontSize = 28;
+            document.getElementById('book-content').style.fontSize = currentFontSize + 'px';
+            localStorage.setItem('fontSize', currentFontSize);
+        }
+
+        function carregarConfiguracoes() {
+            const savedTheme = localStorage.getItem('theme');
+            if(savedTheme && savedTheme !== 'light') document.body.setAttribute('data-theme', savedTheme);
+            
+            const savedFont = localStorage.getItem('fontFamily');
+            if(savedFont === 'sans') document.body.setAttribute('data-font', 'sans');
+            
+            const savedSize = localStorage.getItem('fontSize');
+            if(savedSize) {
+                currentFontSize = parseInt(savedSize);
+                document.getElementById('book-content').style.fontSize = currentFontSize + 'px';
+            }
+        }
+
+        function toggleMenu() {
+            document.getElementById('sidebar').classList.toggle('active');
+            document.getElementById('overlay').classList.toggle('active');
+        }
+
+        // 7. Eventos de Rolagem (Progresso e Esconder Toolbar)
+        let lastScrollTop = 0;
+        window.addEventListener('scroll', () => {
+            let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+            
+            let height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            let scrolled = (scrollTop / height) * 100;
+            document.getElementById('progressBar').style.width = scrolled + "%";
+
+            const toolbar = document.getElementById('toolbar');
+            if (scrollTop > 100 && scrollTop > lastScrollTop) {
+                toolbar.classList.add('hidden');
+            } else {
+                toolbar.classList.remove('hidden');
+            }
+            lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
+        });
+
+    
+
+        // 9. Inicialização do Sistema
+        function initBook() {
+            compilarLivro();
+            carregarConfiguracoes();
+            prepararCapitulos();
+            gerarSumario();
+            mostrarCapitulo(currentChapter);
+        }
+
+        // Executa ao carregar
+        window.onload = initBook;
+
+    </script>
+</body>
+</html>

@@ -30,13 +30,13 @@ Três homens entraram. Uniformes escuros, molhados da chuva, com o símbolo do B
 A taverna silenciou por reflexo.
 Valen não se virou. Mas o ar ao redor dele ficou denso. O tipo de silêncio que precede tempestades.
 
-— Este lugar fede a gente fraca. — disse o primeiro, alto, com a pele marcada por queimaduras ritualísticas. — Alguém aqui cheira a... desistência.
+— Este lugar fede a covarde. — disse o primeiro, alto, com a pele marcada por queimaduras ritualísticas. — Alguém aqui cheira a... desistência.
 
 O segundo riu, passando a mão por uma tatuagem de runas partidas na nuca.
-— O que você espera de Kaelyndor? Um ninho de ratos, todos encharcados, todos sonhando com oceanos que não navegam mais.
+— O que você espera de Kaelyndor? Um ninho de ratos, todos encharcados, todos sonhando com oceanos.
 
 O terceiro olhou diretamente para Valen.
-— Você. O do braço. Onde conseguiu esse presente, traidor de guerra?
+— Você. O do braço. Onde conseguiu esse maquinario, desertor de guerra?
 
 Valen terminou o rum num único gole.
 
@@ -91,8 +91,8 @@ O taverneiro hesitou. O tom mudou. Engoliu seco.
 
 — Ele ainda está por aqui...
 — Dorme no andar de cima. O último quarto. — fez uma pausa, olhando para o sangue seco na luva metálica de Valen. — Vai gostar de saber que você voltou.
+—  Bem vindo de volta Capitão.
 
-**
 
 A escada rangeu como se reclamasse de memórias.
 
@@ -101,13 +101,13 @@ No corredor, um feixe de vela escapava sob a última porta. Valen bateu duas vez
 Silêncio.
 
 Então a voz:
-— Só entre se for um idiota, um assassino... ou um capitão sem navio.
+— Só entre se for um idiota, um assassino... ou um capitão triste e sem navio.
 
 Valen empurrou a porta.
 
 O quarto era um santuário de mapas, livros e instrumentos náuticos espalhados como constelações desmontadas. No centro, sentado com a coluna reta e o semblante atento, Gilbert não se virou.
 
-— Qual deles você é hoje?
+— Qual deles você é hoje Capitão?
 
 — Um pouco dos três. — respondeu Valen.
 
@@ -133,7 +133,7 @@ Gilbert fechou os olhos. As mãos pousaram sobre o medalhão como quem fecha um 
 
 — Três dias. — respondeu Valen. — Preciso de rotas que evitem Sulheim, tempestade política e qualquer lembrança de quem já fomos.
 
-— Três dias, então. — Gilbert se levantou, ajeitando o sobretudo com símbolos estelares costurados à mão. — E quando isso tudo afundar de novo... quero afundar sabendo para onde estou indo.
+— Três dias, então. — Gilbert se levantou, ajeitando o sobretudo com símbolos estelares costurados à mão. — E quando isso tudo afundar de novo... dessa vez, quero estar junto.
 
 Valen riu.
 Foi a primeira vez naquela noite.
@@ -142,7 +142,6 @@ Foi a primeira vez naquela noite.
 
 — Só se aceitar silêncio como companhia.
 
-**
 
 Na porta, Gilbert parou.
 Olhou para fora — a cidade de Kaelyndor se estendia úmida, viva e indiferente, com lampiões tremeluzindo e gritos distantes de alguma briga de marinheiros.
@@ -160,8 +159,6 @@ Gilbert fez uma careta sutil.
 Mas caminhou ao lado dele — sem perguntar mais nada.
 
 
-—
-
 
 #Capítulo 3 – Sombras de Kaelyndor
 
@@ -169,13 +166,13 @@ Gilbert ajeitou o colarinho do sobretudo enquanto os dois atravessavam a rua est
 
 — Vai chamar atenção. — comentou em voz baixa.
 
-— Que chame. Quero ver quem responde. — murmurou Valen.
+— Objetivo é esse. — murmurou Valen.
 
 Desceram por uma ladeira com cheiro de peixe fermentado e metal oxidado. O vapor das caldeiras industriais começava a escapar pelas grades das calçadas, e as primeiras carruagens de carga já cruzavam os trilhos centrais da rua.
 
-— E onde exatamente começa uma tripulação? — Gilbert puxou um grimório pequeno do bolso e abriu com um estalar do polegar. — Por acaso há um capítulo chamado “recrutando fantasmas”?
+— E onde exatamente vai arrumar uma tripulação? — Gilbert puxou um grimório pequeno do bolso e abriu com um estalar do polegar. — Por acaso há um capítulo chamado “recrutando fantasmas”?
 
-— Começa onde a cidade sussurra mais alto. — Valen fez sinal com o queixo. — Mercado Flutuante.
+— Procurar onde a cidade sussurra mais alto. — Valen fez sinal com o queixo. — Mercado Flutuante.
 
 Seguiram até o cais inferior, onde tábuas velhas ligavam balsas adaptadas em lojas ambulantes. Um mosaico caótico de vozes, trapaças e bandeiras rasgadas que flutuavam com o vento do mar.
 
@@ -224,8 +221,6 @@ Ele virou o rosto, e um sorriso breve lhe escapou pela primeira vez desde o meda
 — O garoto sabe correr. Vamos ver se sabe escolher pra onde.
 
 
-—
-
 #Capítulo 4 – O Escolhido da Rua
 
 O garoto havia desaparecido entre as barracas, mas Valen não tirava os olhos da última direção onde ele estivera. O vento do mar empurrava odores de peixe, ferrugem e fermentação por entre os becos, como se a cidade respirasse em baforadas sujas.
@@ -240,13 +235,12 @@ Gilbert deu meia-volta, já consultando um mapa mental invisível.
 
 — Cortiços do Distrito Sombreado, passagens internas no Arco Norte e um contato nos mercados flutuantes. Se ele estiver em qualquer lugar onde as botas não entram, vai ser lá.
 
-**
 
 Em outro canto de Kaelyndor, acima de uma velha padaria abandonada, Runner se debruçava sobre uma laje coberta de fuligem. Observava o mar, a cidade, e abaixo dele, os dois homens que o caçavam — ou testavam. Ainda não sabia ao certo.
 
 Na boca, mascava tâmaras secas que roubara de uma banca há duas ruas. No peito, um incômodo lento.
 
-> “Braço de ferro. Olhos de chumbo. E mesmo assim… não me quebrou.”
+> “Braço de ferro. Olhos de chumbo. E mesmo assim… me deixou fugir.”
 
 
 
@@ -262,15 +256,11 @@ Tantas vezes fora pego. Tantas vezes teve de fugir antes que os punhos caíssem.
 > Ninguém nunca me procurou sem querer algo em troca.
 E ninguém nunca me chamou pra nada... sem me cobrar depois.
 
-
-
 Guardou o mapa, irritado com o próprio pensamento.
 
 — Idiota. Foi atrás do medalhão. Devia ter só pego a moeda.
 
-Mas o toque… foi estranho. Como se tivesse encostado em algo antigo. Algo que não estava caçando ele — mas o vendo.
-
-**
+Mas o toque… foi estranho. Como se tivesse encostado em algo antigo. A
 
 Três horas depois, o sol já se escondia atrás das torres irregulares de Kaelyndor. Valen e Gilbert haviam vasculhado três zonas marcadas, feito contato com dois informantes, e comprado um nome.
 
@@ -278,11 +268,10 @@ Três horas depois, o sol já se escondia atrás das torres irregulares de Kaely
 
 — E agora?
 
-— Agora você espera. Ele te viu. Te sentiu. Se ele estiver em dúvida, vai querer te testar.
+— Agora você espera. Ele te viu. Te percebeu. Se ele estiver em dúvida, vai querer te testar.
 
 — Que tente. — murmurou Valen. — A dúvida é o começo do sim.
 
-**
 
 Naquela noite, Valen entrou sozinho na Taverna Asas de Ferro — um antro com cheiro de bebida velha, suor e decepções baratas. Sentou no fundo. Pediu rum. Esperou.
 
@@ -331,9 +320,8 @@ O garoto não respondeu. Apenas virou as costas. Parou no terceiro degrau.
 
 Valen não se moveu. Apenas soltou a resposta como lâmina embainhada:
 
-— Me roube. Mas não me subestime.
+— Tente. Mas não me subestime.
 
-**
 
 Runner desapareceu de novo.
 
@@ -341,8 +329,6 @@ Mas desta vez, deixou um rastro. Pequeno, quase imperceptível. Um bilhete escon
 
 "Ainda não."
 
-
-—
 
 #Capítulo 5 – A Oferta que Pesa
 
@@ -358,7 +344,7 @@ Gilbert segurava o pedaço de papel com dois dedos, como quem analisa uma pista 
 
 — É quase um sim. — retrucou Valen.
 
-**
+
 
 Dois dias se passaram. Valen não o procurou. Gilbert também não.
 
@@ -428,7 +414,6 @@ Runner olhou para ela.
 E apertou.
 Pela primeira vez sem tentar pegar nada.
 
-**
 
 Horas depois, sentaram-se os três no parapeito do cais de Kaelyndor, observando os navios indo e vindo.
 Runner contou histórias desconexas de infância, de um irmão que sumiu, de um homem que tentou adotá-lo e foi preso. Contou da primeira vez que fugiu, aos oito, e da última, aos dezesseis. Contou tudo sem emoção.
@@ -447,11 +432,11 @@ Algo que corria — e desta vez, em direção a algo.
 
 #Capítulo 6 – A Força dos Silêncios
 
-**
+
 
 Valen caminhava à frente, mãos nos bolsos, cabeça levemente abaixada. Gilbert vinha ao lado, silencioso, lendo mentalmente as estrelas que começavam a aparecer. Runner, alguns passos atrás, equilibrava uma pedra pequena na ponta do dedo.
 
-— Esse silêncio é confortável ou só velho? — perguntou o garoto.
+— Esse silêncio é confortável velho? — perguntou o garoto.
 
 — É o tipo de silêncio que os tolos preenchem com perguntas. — respondeu Gilbert.
 
@@ -467,7 +452,6 @@ Ele olhou para a direita.
 
 — Por isso é bom pra observar quem sobrevive. — disse Valen.
 
-**
 
 Descendo uma escadaria oculta entre duas construções velhas, chegaram a um corredor úmido, onde paredes descascadas carregavam inscrições antigas apagadas com fuligem. Mais adiante, uma porta com dois guardas, que nem perguntaram nada ao verem Valen. Um deles apenas bateu no ombro do outro.
 
@@ -486,8 +470,6 @@ Caminharam pelas arquibancadas improvisadas até acharem um canto de sombra. A m
 Valen ficou parado, apenas observando. O ringue estava vazio. Mas algo no ar indicava que a próxima luta se aproximava.
 
 E então ela entrou.
-
-**
 
 Mina.
 
@@ -543,7 +525,6 @@ Ela seguiu.
 
 — Eu notei ela antes. — respondeu Valen.
 
-**
 
 Ao deixarem o subnível, já do lado de fora, a noite os envolvia com sal, fumaça e brisa cortante.
 Ninguém disse nada por um tempo.
@@ -554,7 +535,6 @@ Eles a tinham visto.
 E ela, a eles.
 
 
-—
 
 #Capítulo 7 – Chamas Não Ditas
 
@@ -571,7 +551,7 @@ Ela parou num ponto cego da rua.
 
 Valen virou primeiro a esquina. Sozinho. Gilbert e Runner ficaram mais atrás.
 
-— Pensei que fosse difícil de encontrar. — disse ele.
+— Pensei que fosse difícil de te encontrar. — disse ele.
 
 — E eu pensei que você soubesse respeitar espaço.
 
@@ -608,15 +588,13 @@ O olhar dela era direto. Ardente.
 
 Valen sustentou. A voz saiu baixa. Precisa.
 
-— Eu quero você na tripulação. Com tudo o que é.
-— Mas se confundir isso com algo que ainda não existe…
-— Vai acabar quebrando o que poderia se tornar real.
+— Eu quero você na minha tripulação. Com tudo o que você é.
 
 Os olhos de Mina cintilaram.
 Ela sorriu de novo. Mas dessa vez, mais lento. Quase desafiador.
 
 — Você é bom com palavras, Capitão.
-— Mas não sei se gosto mais do homem ou do papel que ele finge usar.
+— Mas não sei se gosto mais do homem ou do papel que ele finge ser.
 
 — Eu não finjo. Eu comando. — respondeu, direto.
 
@@ -680,8 +658,6 @@ Virou-se no fim do beco, ainda andando de costas.
 E sumiu na neblina das docas como quem escolhe desaparecer antes de se permitir ficar.
 
 
-—
-
 #Capítulo 8 – O Porto e o Silêncio
 
 O amanhecer de Kaelyndor era pálido e úmido, como se o próprio sol hesitasse em se levantar sobre aquela cidade.
@@ -734,7 +710,7 @@ Runner riu.
 Mina ignorou.
 Virou o rosto para o mar.
 
-— Mas, por alguma razão... não era esse o navio.
+— Mas, por alguma razão... não era esse o capitão.
 
 Valen deu um passo à frente.
 Não estendeu a mão. Não falou em convite.
@@ -860,7 +836,6 @@ Valen observou a estrutura. O som do martelo ecoando lá dentro parecia chamar m
 — E ver quem responde.
 
 
-—
 
 #Capítulo 10 – Forja e Lembrança
 
@@ -967,7 +942,7 @@ Kael sustentou o olhar como quem martela.
 — Mas você não é qualquer um.
 — É um teimoso idiota com senso de direção e uma maldita bússola brilhando no peito.
 
-— Você sonha com esse navio desde o dia que montou a quilha. — disse Valen. — Vai mesmo me fazer implorar?
+— Nós sonhamos com esse navio desde o dia que te conheci. — disse Valen. — Vai mesmo me fazer implorar?
 
 Ela se aproximou até quase encostar o rosto no dele.
 
@@ -1001,9 +976,8 @@ Gilbert apenas anotava algo num pergaminho.
 Valen caminhava à frente.
 O som da chave no bolso pesava menos do que a lembrança daquele olhar.
 
-Kael entrara.
+Kael estava dentro.
 E com ela, o navio também.
-
 
 
 
@@ -1054,7 +1028,7 @@ Mina o encarou de lado.
 
 — Você já tinha esse nome na cabeça, não tinha?
 
-— Sempre tive. — respondeu ele. — Só estava esperando o navio certo.
+— Sempre tive. — respondeu ele. — Só estava esperando o momento certo.
 
 
 As próximas horas foram trabalho.
@@ -1190,7 +1164,7 @@ Valen olhou nos olhos dela.
 
 — Não.
 — É por justiça.
-— E porque ainda há um pedaço de mim lá dentro... que não voltou.
+— E porque existe algo maior na névoa que faz tudo valer a pena. 
 
 
 O grupo nada disse por um tempo.
@@ -1203,11 +1177,11 @@ E naquela noite, sob um céu pesado, o peso da missão passou a ser real. Não c
 O tipo que só os vivos podem carregar.
 
 
-Capítulo 13 – O Peso da Madeira
+#Capítulo 13 – O Peso da Madeira
 
 O terceiro dia começou com o ranger do casco recém-fixado e o cheiro inconfundível de serragem molhada.
 
-Kael passou os olhos pela estrutura inferior do navio e franziu o cenho.
+Kael passou os olhos pela estrutura inferior do navio e franziu a sobrancelha .
 — Ainda falta. E não é pouco.
 
 Valen se aproximou, seguido por Gilbert e Mina.
@@ -1329,7 +1303,6 @@ E foi embora.
 Mas a ideia… já estava fincada.
 
 
-—
 
 #Capítulo 14 – O Que Fica
 
@@ -1402,7 +1375,7 @@ Mina congelou com uma ferramenta na mão.
 
 — Pronto pra...?
 
-— Pra partir, ué! — respondeu Brutus, animado. — Você disse ontem: “a viagem é depois de amanhã”! E ontem já foi! E hoje é depois!
+— Pra partir, ué! — respondeu Brutus, animado. — Você disse ontem: “Ele seria bom no convés”! E ontem já foi! E hoje é depois!
 
 Runner caiu de joelhos, rindo.
 
@@ -1535,7 +1508,7 @@ Tocou o braço dele — o de carne, não o de ferro.
 
 — Eles têm coragem. — respondeu Valen.
 
-— Coragem morre.
+— Coragem mata.
 — O que você precisa agora... é alguém que lembre o que te destruiu.
 
 Valen baixou a cabeça.
@@ -1683,9 +1656,9 @@ Valen se aproximou da mesa.
 
 Valen puxou do casaco a bússola sagrada.
 
-— Eles ainda acham que podem dominar isso.
+— Eles ainda estão atraz disso.
 — Como se fosse uma chave.
-— Como se a Névoa respondesse a eles.
+— Como se a Névoa fosse deles.
 
 Gilbert sorriu de forma amarga.
 — Fanáticos com mapa na mão. A pior raça.
@@ -1726,7 +1699,6 @@ A tripulação estava viva. Mas o mundo lá fora começava a reagir.
 E Valen sabia: quanto mais a bússola brilhava, mais escura ficaria a água à frente.
 
 
-—
 
 #Capítulo 18 – A Boca do Labirinto
 
@@ -1931,7 +1903,7 @@ Olhou para o vazio.
 Seu punho tremeu.
 
 — Nós vamos atrás.
-— Por ele...
+
 — E por aquilo que eles acham que podem controlar.
 
 Sombra se ergueu.
@@ -1960,8 +1932,6 @@ Eles só voltariam com Valen.
 Ou não voltariam.
 
 
-—
-
 #Capítulo 20 – Ecos do Comando 
 
 A Coruja Eclipse ainda flutuava.
@@ -1983,7 +1953,7 @@ Esperando.
 
 Gilbert assentiu, já ajustando o astrolábio e mapas secundários.
 
-— Sombra identificou ressonância incomum na direção sudoeste. Há ruído mágico nas trilhas da água. Vamos seguir a curva do penhasco submerso.
+— Sombra identificou ressonância incomum na direção sudoeste. Há ruído nas trilhas da água. Vamos seguir a curva do penhasco submerso.
 
 Kael então apontou com o dedo.
 
@@ -2031,7 +2001,7 @@ Um pedaço rasgado do tecido do capitão.
 Dobrado. Com uma pequena marca de sangue.
 E um bilhete escrito com tinta escura, quase seca:
 
-> “Não deixem o navio parar. Eu não vou.”
+> “Não deixem o navio parar. Já volto”
 
 
 
@@ -2070,8 +2040,6 @@ Navegavam por honra.
 Por nome.
 Por retomar o coração.
 
-
----
 
 #Capítulo 21 – Sangue Ancestral
 
@@ -2193,7 +2161,7 @@ Kael firmou os pés no solo.
 
 Ele apontou. No lado exposto da pele de Sombra, algo brilhou por baixo da lama:
 um brasão prateado.
-Duas serpentes entrelaçadas em torno de uma gota.
+A marca de Lua.
 
 — Sangreal. — completou ele, assustado.
 
@@ -2229,7 +2197,6 @@ E todos, por mais que não entendessem o que haviam visto…
 …seguiram.
 
 
-—
 
 #Capítulo 22 – Corrente Partida
 
@@ -2261,7 +2228,7 @@ Mina foi a primeira a se mover.
 — Capitão... — a voz dela falhou.
 
 Sombra já se ajoelhava ao lado do altar, examinando as travas.
-— Forjadas com encantamento rudimentar. Consigo quebrar.
+— Forjadas com correntes  rudimentares. Consigo quebrar.
 
 Kael avançou com um pé de cabra de metal escuro, preso às costas.
 
@@ -2344,7 +2311,7 @@ O mar não cantava.
 O céu pesava.
 
 Runner seguia em silêncio, à retaguarda.
-Gilbert andava cabisbaixo, analisando cada marca nas rochas como se procurasse uma saída que não dependesse de magia ou destino.
+Gilbert andava cabisbaixo, analisando cada marca nas rochas como se procurasse uma saída que não dependesse do destino.
 
 Brutus foi o primeiro a quebrar o silêncio.
 
@@ -2476,24 +2443,24 @@ Valen baixou a cabeça por um segundo.
 Ele ergueu os olhos.
 
 — E mesmo assim... eu não me arrependi.
-— Porque aquela bússola levava à Névoa Negra.
+— Porque aquela bússola levava à Névoa Sagrada.
 
-— E a Névoa... transforma.
+— E a Névoa... transforma a pessoa que a atravessa em lendas.
 
 Todos o escutavam, imóveis.
 
 — As histórias... vocês já ouviram.
 — Dizem que quem passa por ela volta marcado.
 — Mudado.
-— Mais do que homem. Menos do que humano.
+— Mais do que homem. Volta como lendas.
 
 — Eu não sabia se era verdade.
 
 Ele se virou levemente.
-Olhou para Sombra.
+Olhou para a Sombra.
 
 — Até ela.
-— Ela é a prova de que a lenda é real.
+— Ela é a prova de que as lendas são reais.
 
 Sombra não reagiu.
 Mas o brilho nos olhos dela — violeta, vivo — era suficiente.
@@ -2681,7 +2648,7 @@ Todos a olharam.
 — Você ouviu o que ele disse. — ela continuou. — Atravessar a névoa muda quem passa.
 — E ela nasceu disso.
 
-— Não foi escolha dela. — pontuou Gilbert. — Isso é sangue herdado. Antigo. Uma linhagem talvez extinta — mas viva nela.
+— Não foi escolha dela. — pontuou Gilbert. — Isso é sangue herdado. Marca de uma linhagem antiga. — mas viva nela.
 
 — E por isso ele se deita com ela? — disparou Mina, antes de pensar.
 
@@ -2693,7 +2660,7 @@ Runner assobiou, disfarçando o constrangimento.
 
 — Não estamos falando de deitar. — murmurou Gilbert, desconfortável.
 
-— Estamos sim. — Mina respondeu, firme. — Ninguém passa tanto tempo em silêncio numa banheira com alguém... sem dizer tudo.
+— Estamos sim. — Mina respondeu, firme. — Ninguém passa tanto tempo em silêncio numa banheira com alguém... 
 
 Brutus franziu a testa.
 
@@ -2718,7 +2685,7 @@ Ele silenciou.
 Kael cortou a tensão:
 
 — A questão não é com quem ele deita.
-— É pra onde ele vai nos levar.
+— É pra onde ele vai nos levar. Queremos virar lendas? A que custo?
 
 Todos se calaram.
 
@@ -2767,7 +2734,7 @@ Kael apontou direto.
 
 — Temos fôlego. E sobra sangue. — respondeu Mina, de lado.
 Olhou para Sombra.
-Sorriu, fina.
+Sorriu.
 — Alguns até bebem o próprio.
 
 Sombra apenas respondeu com um olhar firme, cortante.
@@ -2828,7 +2795,7 @@ Sombra veio ao lado, carregando duas adagas, as marcas quase invisíveis no pesc
 
 Valen olhou para os dois grupos.
 
-— Ninguém toca em ninguém que não volte.
+— Vamos recuperar nossa bússola.
 
 E assim…
 a Coruja Eclipse entrou em formação.
@@ -2867,7 +2834,7 @@ A lança ainda cravada. O sangue escorrendo devagar.
 
 — Brutus! — gritou Mina, tentando segurar o corpo enorme dele.
 
-— Tá... tudo bem. — disse ele entre dentes. — Foi só... a carne.
+— Tá... tudo bem. — disse ele entre dentes. — Foi só um machucadinho.
 
 Valen se ajoelhou ao lado, avaliando rapidamente.
 
@@ -2877,7 +2844,7 @@ Valen se ajoelhou ao lado, avaliando rapidamente.
 
 Sombra já cortava o cabo da lança com uma lâmina curva, puxando com precisão e controlando a hemorragia.
 
-— Ele vai sobreviver. Mas não por muito se ficarmos aqui.
+— Ele vai sobreviver. Mas não por muito tempo se ficarmos aqui.
 
 Mina olhou ao redor.
 O som de passos já voltava.
@@ -2889,7 +2856,7 @@ Valen se ergueu, respirando fundo.
 
 — Eu vou com você. — disse Mina, seca.
 
-— Você segura ele. Ou perde os dois. — respondeu Valen, firme.
+— Você segura ele. Ou perco os dois. — respondeu Valen, firme.
 
 Ela não discutiu. Mas o olhar queimava.
 
@@ -3025,7 +2992,6 @@ Mais calados.
 E agora… com novo respeito no peito.
 
 
----
 
 #Capítulo 30 – O Cego que Vê
 
@@ -3082,12 +3048,12 @@ Ele a sentiu.
 Girou em torno do próprio eixo.
 Defendeu o ataque com o antebraço, torcendo o corpo com uma precisão não humana.
 
-Runner disparou duas flechas.
+Runner disparou duas Adagas.
 Ambas desviadas no giro de um bastão cerimonial retirado do chão.
 
 — Isso não é instinto. — disse Kael entre dentes, derrubando um dos guardas.
 
-— Isso é marca. — respondeu Valen, firme, ao cravar a lâmina no flanco de um Klaen.
+— Isso é a marca. — respondeu Valen, firme, ao cravar a lâmina no flanco de um Klaen.
 — Marca da Onda.
 
 Todos entenderam.
@@ -3103,10 +3069,7 @@ Sombra recuou, ofegante.
 
 Valen cambaleou, apoiando-se na parede.
 
-— Quantos?
 
-— Doze. — disse Mina, limpando sangue do rosto.
-— E ele vale por vinte.
 
 Kael arremessou uma corrente.
 Ele desviou como se a tivesse visto.
@@ -3133,7 +3096,6 @@ E assim, pela primeira vez, a Coruja Eclipse enfrentava um verdadeiro Marcado.
 E entendia o que era estar dentro da Névoa... mesmo sem atravessá-la.
 
 
----
 
 #Capítulo 31 – A Fera no Véu
 
@@ -3142,13 +3104,13 @@ E entendia o que era estar dentro da Névoa... mesmo sem atravessá-la.
 A voz de Sombra cortou o ar entre gritos, metal e sangue.
 
 Valen a olhou, ofegante.
-— Sozinha?
+— Espere…
 
-Ela não respondeu. Já avançava.
+Ela não esperou. Já avançava.
 
 — Sombra! — gritou Mina, mas a guerreira já tinha sumido na neblina de poeira e fogo.
 
-Os doze Klaen que protegiam o altar se voltaram ao mesmo tempo.
+Os  Klaen que protegiam o altar se voltaram ao mesmo tempo.
 Como cães ao cheiro de presa.
 
 Mas não foi Sombra que recuou.
@@ -3170,7 +3132,7 @@ Mas os olhos dela… brilhavam em violeta vivo.
 
 A marca — em sua clavícula, agora visível — acendeu como brasão antigo.
 
-**
+
 
 — O que ela está fazendo? — murmurou Runner, ao longe.
 
@@ -3213,7 +3175,7 @@ E ainda assim… ela não parava.
 
 Brutus, ao longe, apertava o punho com força.
 — Ela não tá lutando.
-— Ela tá mostrando.
+— Ela tá massacrando.
 
 Valen apertou os olhos, sussurrando:
 
@@ -3224,7 +3186,7 @@ Gilbert murmurou:
 — É isso que acontece… quando a lenda não está mais dormindo.
 
 
-Os últimos cinco Klaen tentaram cercá-la.
+Os últimos Klaen tentaram cercá-la.
 
 Ela ergueu os olhos.
 
@@ -3266,7 +3228,7 @@ Desperta.
 
 #Capítulo 32 – Contra a Onda
 
-Enquanto os gritos dos doze morriam atrás das colunas, abafados pelas lâminas de Sombra, o restante da tripulação cercava o verdadeiro abismo no centro do templo.
+Enquanto os gritos dos Klen morriam atrás das colunas, abafados pelas lâminas de Sombra, o restante da tripulação cercava o verdadeiro abismo no centro do templo.
 
 O líder dos Klaen estava parado.
 Calmo.
@@ -3375,7 +3337,7 @@ Sombra surgiu.
 
 Silenciosa.
 Encharcada.
-E com sangue dos doze nos olhos.
+E com sangue nos olhos.
 
 — Saiam. — disse ela.
 
@@ -3391,8 +3353,6 @@ A primeira vez que se mexia sem reagir.
 — Ah…
 — A outra marca.
 
-
-—
 
 #Capítulo 33 – Entre Marcas
 
@@ -3430,7 +3390,6 @@ Pela primeira vez.
 
 Ela não respondeu.
 
-**
 
 O segundo golpe foi na clavícula.
 O terceiro, na lateral do rosto.
@@ -3457,40 +3416,31 @@ violeta intenso, como sangue lunar.
 Ela girava como fera.
 Saltava.
 Rasgava.
-
-O líder caiu de joelhos.
-
-Tocou o chão com a mão trêmula.
-Tentou girar mais uma vez o bastão.
-
-Mas Sombra já estava nas costas dele.
-E com um movimento seco —
-cravou as lâminas em seus ombros e o puxou para trás.
-
-Ele caiu.
-A marca azul da Onda pulsando uma última vez... antes de apagar.
+O líder caiu de joelhos. Tocou o chão com a mão trêmula. Tentou girar mais uma vez o bastão.
+Sombra já estava nas costas dele. Ela ergueu as lâminas para o golpe final, mas o limite chegou. O preço do próprio sangue cobrou a conta. Sombra engasgou e desabou pesadamente, o corpo finalmente cedendo a todos os ferimentos.
+O Marcado viu a brecha. Com um sorriso úmido e desesperado, ergueu o bastão para esmagá-la.
+O golpe nunca chegou. Mina surgiu do ponto cego, fria e invisível. Um único movimento perfeito de sua adaga rasgou a garganta do líder antes que ele pudesse piscar.
+Ele caiu. A marca azul da Onda pulsando uma última vez... antes de apagar.
 
 
 Silêncio.
 
-A sala inteira sentiu quando o peso da presença dele se dissipou.
+A sala inteira sentiu quando o peso da presença dele que se dissipou.
 
-Sombra permaneceu de pé.
+Sombra se levantou.
 Respirando devagar.
 
-O sangue escorria das laterais do rosto, mas os cortes… fechavam enquanto ela andava.
+O sangue escorria das laterais do rosto, mas os cortes… fechavam mais devagar enquanto ela andava.
 
 Ela não gritou.
-Não declarou vitória.
+
 
 Apenas olhou para os companheiros feridos no chão.
 
 E disse, com a voz calma e firme:
 
-— A bússola... está limpa.
+— A bússola... 
 
-
-—
 
 #Capítulo 34 – O Peso da Escolha
 
@@ -3523,7 +3473,7 @@ Mas era o bastante.
 
 Kael se apoiava no cabo do martelo.
 Brutus, com o braço amarrado, sangrava em silêncio.
-Mina mordia o lábio inferior, ainda com o gosto de derrota na garganta.
+Mina mordia o lábio inferior, ainda com o gosto de sangue na garganta.
 Runner tentava se manter em pé sem mostrar que tremia.
 Gilbert ajeitava os óculos com a mão ensanguentada.
 
@@ -3546,17 +3496,15 @@ Silêncio.
 — Isso é o que sobrou. — disse Valen.
 — Não temos um exército.
 — Não temos aliados.
-— E agora sabemos... que um Marcado sozinho quase nos destruiu.
+— E agora sabemos... O que um Marcado é capaz de fazer.
 
 Ele olhou para cada um.
 
-— Se outro como ele aparecer… sem atravessar a Névoa…
-— Não teremos resposta.
 
 Gilbert apertou os olhos.
 
 — Não é só mapa.
-— Essa bússola agora... é armadura.
+— Essa bússola agora... é poder.
 
 Kael firmou o pé.
 
@@ -3666,12 +3614,12 @@ Atravessar.
 Ou ser engolido pelo que virá.
 
 
-—
 
 #Capítulo 36 – À Beira do Abismo
 
 O horizonte sumia.
 O mar tornava-se mais escuro a cada milha.
+Se passaram 36 dias.
 
 A Coruja Eclipse avançava entre ondas altas e céu em guerra.
 O vento, antes aliado, agora gritava nos mastros como fera presa.
@@ -3720,7 +3668,7 @@ As ondas batiam contra o casco, fazendo a madeira ranger.
 
 Sombra descia pelas cordas com os olhos fixos na linha da Névoa.
 
-— Ela sente. — murmurou. — A bússola… ela sente que chegou perto.
+— Ela sente. — murmurou. — A bússola… ela sente que estamos perto.
 
 Gilbert apoiava o cotovelo sobre a mesa de navegação interna.
 As cartas de mar, já molhadas, estavam sendo redesenhadas com base no vento.
@@ -3754,7 +3702,6 @@ A Névoa… chamava.
 E atrás deles… Broaken os caçava.
 
 
-—
 
 #Capítulo 37 – Travessia e Caçada
 
@@ -3781,7 +3728,7 @@ Valen apoiava-se com dificuldade na amurada. O braço mecânico travado pelo sal
 — Sem hesitação.
 
 Sombra estava acima, nas cordas.
-Ela não falava.
+
 Ela ouvia a Névoa como quem escuta a respiração de um predador do outro lado da porta.
 
 — Ela está faminta. — disse, enfim. — E não gosta de navios.
@@ -3854,7 +3801,7 @@ Mina se colocou entre eles.
 Broaken ergueu o braço.
 
 No convés do navio inimigo, quatro batedores correram com arpéus.
-Um tiro cortou o ar — longo eluminoso.
+Um tiro cortou o ar — longo e luminoso.
 
 A onda de impacto bateu contra o flanco da Coruja Eclipse, jogando Runner no chão.
 
@@ -3875,7 +3822,6 @@ E a partir daquele instante, o mundo…
 não seria mais o mesmo.
 
 
-—
 
 #Capítulo 38 – As Garras da Névoa
 
@@ -4018,7 +3964,7 @@ O impacto a ergueu meio metro do chão.
 O corpo travou no ar.
 E só parou quando a madeira gemeu ao receber o ferro.
 
-Silêncio.
+
 
 Ela não gritou.
 
@@ -4072,7 +4018,6 @@ E a haste de ferro tremia…
 como se o sangue recusasse aceitar o fim.
 
 
----
 
 #Capítulo 40 – Quando o Convés Sangra
 
@@ -4326,9 +4271,8 @@ E nem mesmo Broaken…
 conseguiria sair agora.
 
 
----
 
-#Capítulo 42 – Corrida pelo Fio (Versão Revisada)
+#Capítulo 42 – Corrida pelo Fio 
 
 A Névoa estremecia o mundo.
 
@@ -4367,7 +4311,6 @@ Veio de dentro.
 
 > “Hora de correr, garoto.
 Você prometeu.”
-
 
 
 As palavras de Valen.
@@ -4613,7 +4556,6 @@ Valen assentiu, quase imperceptível.
 
 — Então talvez estejam lidando com o mesmo vazio que a gente.
 
-Silêncio.
 
 O vento empurrava grãos de sal seco pela superfície dura do chão.
 O som era semelhante a cinzas sendo sopradas por cima de pedra.
@@ -4804,7 +4746,7 @@ A tripulação estava reunida. Os batedores, separados e confusos.
 Mina e Runner olhavam para Valen — suados, trêmulos, assustados.
  Como ele sabia?
 Nash limpou a orelha ferida. A arrogância evaporou, substituída por uma fúria controlada. Ele desembainhou as duas cimitarras curtas, feitas de um metal negro e oleoso que parecia beber a luz do sol. Azarion.
-— Mas que truque foi esse, capitão? — rosnou. — Você não é um náufrago comum.
+— Mas que truque foi esse? — rosnou. — Você não é um náufrago comum.
 — Eu disse... chega.
 A voz veio firme e feminina.
  Era a mesma de antes — agora próxima.
@@ -5622,9 +5564,6 @@ Gilbert não se virou. Ele apenas ergueu a mão esquerda, revelando um envelope 
 — Preciso que você viaje para Olira antes do amanhecer — instruiu Gilbert, entregando a carta sem olhar diretamente para ela. — Entregue isso aos nossos contatos na capital. Em mãos.
 Zara pegou o envelope, arqueando uma sobrancelha perfeitamente desenhada. — As bestas não serão suficientes para lidar com os rebeldes?
 — A matemática da guerra não admite apostas únicas, Zara — Gilbert finalmente virou o rosto. Ele ajeitou os óculos, a luz das tochas refletindo no vidro e escondendo seus olhos calculistas. — Considere isso o nosso plano B. Já tentei matar esse homem uma vez e falhei. Não vou falhar novamente.
-
-
-
 
 
 

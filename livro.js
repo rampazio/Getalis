@@ -1,5581 +1,1054 @@
 const textoDoLivro = `
 
-Inicio 
 
 
-#Capítulo 1 – O Último Horizonte
-
+#Parte 1 – Inicio
 Chovia em Kaelyndor.
-Mas não era uma chuva que lavava — era daquelas que afogavam lentamente, como promessas antigas que voltam para cobrar o que restou.
-
-A Taverna do Gancho Cego rangia sob cada passo, um amontoado de tábuas malditas sobre as docas esquecidas. O teto pingava mais do que cobria. O ar tinha gosto de salmoura, ferrugem e histórias que ninguém ousava contar.
-
-No canto mais escuro, Valen Draxor bebia como quem vela um corpo.
-
-Sentado com o casaco ainda molhado sobre os ombros largos, ele girava o copo com a mão direita, enquanto a esquerda — metálica, negra, esculpida com runas apagadas — permanecia imóvel sobre a mesa, como um túmulo fechado.
-
-Os olhos castanhos encaravam o reflexo trêmulo no fundo do copo. E por um momento, viu rostos que não estavam mais ali. Vozes que o tempo não apagava, apenas abafava — como gritos sob o mar.
-
-> “Ficamos só nós dois, não é?”
-
-
-
-Do bolso interno, puxou um medalhão antigo. Girou entre os dedos, sem pressa.
-Havia sete nomes nele. Cinco riscados com traço firme. Dois restantes. O dele... e o dela.
-
-Atrás dele, a porta da taverna abriu. A madeira rangeu como se também tivesse medo.
-
-Três homens entraram. Uniformes escuros, molhados da chuva, com o símbolo do Brasão de Sulheim bordado sobre os ombros: uma serpente dourada enrolada num tridente negro. Um deles usava um capuz com máscara de batalha, os olhos vazios como de um cadáver em pé. No pescoço, carregava um colar com dentes humanos polidos.
-
-A taverna silenciou por reflexo.
-Valen não se virou. Mas o ar ao redor dele ficou denso. O tipo de silêncio que precede tempestades.
-
-— Este lugar fede a covarde. — disse o primeiro, alto, com a pele marcada por queimaduras ritualísticas. — Alguém aqui cheira a... desistência.
-
-O segundo riu, passando a mão por uma tatuagem de runas partidas na nuca.
-— O que você espera de Kaelyndor? Um ninho de ratos, todos encharcados, todos sonhando com oceanos.
-
-O terceiro olhou diretamente para Valen.
-— Você. O do braço. Onde conseguiu esse maquinario, desertor de guerra?
-
-Valen terminou o rum num único gole.
-
-Depois pousou o copo.
-Depois levantou.
-E quando falou, sua voz não era alta — mas era ferro no gelo.
-
-— Esse braço? Foi o que sobrou... do dia em que um dos seus queimou meu navio. E matou todos que eu chamava de irmãos.
-
-O da tatuagem partiu primeiro.
-Valen se virou como um raio — o braço metálico estalou ao travar o punho do inimigo no ar e o atirou contra a parede com força suficiente para fazer a madeira sangrar.
-
-O segundo tentou sacar uma faca curva com inscrições do Brasão. Valen chutou o joelho dele, e antes que caísse, girou o corpo e usou o cotovelo de ferro para apagar a consciência do terceiro com um golpe seco no queixo.
-
-Três segundos. Três homens no chão.
-
-A taverna voltou a respirar — em silêncio.
-
-Foi então que ele a viu.
-
-Sombra. Parada nas escadas, envolta no próprio capuz.
-Os olhos violetas o observavam — serenos, indecifráveis. Nem surpresa, nem julgamento. Apenas presença.
-
-Valen não disse nada.
-Ela também não.
-
-Ele respirou fundo, limpou o sangue da boca com as costas da mão de carne, e voltou a sentar.
-
-Na mesa, o mapa antigo encharcado tremia com o impacto recente. As anotações estavam quase apagadas... mas uma permanecia:
-
-> “Tudo recomeça no mar.”
-
-
-
-Valen encarou aquilo por longos segundos.
-Então, fitou o velho dono do bar, que tremia atrás do balcão.
-
-— Preciso de um navio.
-— ...E de uma tripulação.
-
-
-#Capítulo 2 – O Navegador
-
-— Navio? — repetiu o dono da taverna, rindo como quem escarra — Ninguém entrega madeira viva pra um homem com cheiro de luto fresco... ainda mais um que fala em montar tripulação sozinho.
-
-Valen Draxor não sorriu.
-
-Apenas inclinou o corpo devagar, o olhar castanho fixo como uma âncora.
-— Eu não pedi opinião. Pedi um nome.
-
-O taverneiro hesitou. O tom mudou. Engoliu seco.
-
-— Ele ainda está por aqui...
-— Dorme no andar de cima. O último quarto. — fez uma pausa, olhando para o sangue seco na luva metálica de Valen. — Vai gostar de saber que você voltou.
-—  Bem vindo de volta Capitão.
-
-
-A escada rangeu como se reclamasse de memórias.
-
-No corredor, um feixe de vela escapava sob a última porta. Valen bateu duas vezes. Depois uma terceira, com a articulação metálica.
-
-Silêncio.
-
-Então a voz:
+Mas não era uma chuva que lavava — era daquelas que afogavam lentamente, como promessas antigas que voltam para cobrar o que restou. O céu sobre o porto parecia um manto de chumbo a esmagar as docas, e a água que desabava ininterruptamente trazia consigo o gosto amargo da salmoura, da fuligem das caldeiras e de histórias que ninguém ousava contar em voz alta.
+A Taverna do Gancho Cego rangia sob cada rajada de vento que subia do mar. O edifício não passava de um amontoado de tábuas apodrecidas e pregos oxidados, erguido sobre palafitas tortas, que resistia à maré por pura teimosia. O teto pingava mais do que cobria, formando poças escuras no chão de madeira irregular. O ar no interior era espesso, saturado pelo cheiro de tabaco barato, suor frio e desespero. Nos cantos mal iluminados, marinheiros de rostos encovados, contrabandistas e desertores afogavam as suas misérias em copos lascados, evitando o contato visual com quem quer que fosse.
+A pesada porta de carvalho inchado abriu-se com um gemido fúnebre, deixando a tempestade invadir o ambiente por uma fração de segundo.
+Valen Draxor cruzou a soleira.
+Ele usava um casaco de couro escuro e pesado, encharcado pela tempestade, que fazia os seus ombros largos parecerem ainda mais imponentes. A água escorria pelos seus cabelos úmidos e pingava no assoalho. Ao seu lado esquerdo, pendendo imóvel e silencioso, repousava o seu braço mecânico. Não era uma obra de arte divina, mas uma prótese rústica de metal escurecido, cheia de engrenagens expostas e esculpida com runas de ferro que há muito haviam perdido o seu brilho. Era um maquinário denso e pragmático, forjado para substituir o que lhe fora arrancado, mas que nunca deixava de ser um lembrete físico da sua perda.
+Valen caminhou até o balcão. O som das suas botas pesadas contra a madeira fez alguns dos clientes encolherem-se instintivamente nas suas cadeiras.
+Atrás do balcão, a esfregar um pano imundo no fundo de um copo, estava Vander. O dono da taverna era um homem cuja vida no mar lhe havia cobrado um preço alto: o rosto era um mapa de rugas e cicatrizes de escorbuto, e a perna direita fora substituída por um pedaço de mastro lascado. Ao levantar os olhos cansados e reconhecer a figura parada à sua frente, Vander paralisou. O pano escorregou-lhe das mãos.
+— Pelas marés negras... — sussurrou o velho taverneiro, a voz rouca falhando por um momento. — Capitão Draxor. Eu... eu ouvi os boatos no cais, mas achei que fossem apenas delírios de bêbados. Achei que o mar o tivesse engolido de vez.
+Valen não sorriu. A sua expressão era de uma frieza inabalável, os olhos castanhos fixos no velho conhecido.
+— O mar tentou, Vander. Mas eu sou péssimo a afogar-me — respondeu Valen, a voz grave e calma. Ele deslizou uma moeda de prata manchada sobre a madeira úmida do balcão. — Uma garrafa do seu melhor rum. Não que eu acredite que você tenha algo bom aqui.
+Vander soltou uma risada curta e sem humor, apanhando a moeda rapidamente. Ele virou-se para a prateleira atrás de si, pegando uma garrafa de vidro escuro e destampando-a.
+— Os tempos estão difíceis, Capitão. Piores do que quando você partiu — desabafou o taverneiro, enchendo um copo até a borda e empurrando-o na direção de Valen. Vander olhou ao redor, baixando o tom de voz para um sussurro conspiratório. — Sulheim está a sufocar a cidade. As serpentes douradas estão por toda a parte. Multiplicaram as patrulhas, triplicaram as taxas de atracação. Eles não estão apenas a dominar o comércio; estão a exigir a alma de Kaelyndor. Se pudessem, cobrariam impostos sobre a própria chuva que cai lá fora.
+Valen pegou o copo. O líquido queimou-lhe a garganta, mas não aqueceu o vazio no seu peito. Ele apenas assentiu levemente, conhecendo bem a máquina de moer carne que era o império de Sulheim.
+O velho taverneiro hesitou, os olhos varrendo o espaço vazio ao redor de Valen. A ausência era gritante e barulhenta.
+— Capitão... — começou Vander, a voz carregada de uma cautela dolorosa. — Onde estão os outros? Onde está o Thom? O Kaer? Aquela tripulação barulhenta que quase destruiu este balcão da última vez que estiveram aqui?
+Os dedos de Valen apertaram o copo de vidro com tanta força que os nós dos seus dedos de carne embranqueceram. A menção aos nomes trouxe o cheiro de madeira queimada e carne chamuscada de volta às suas narinas. O som do seu navio a estalar sob as chamas negras de Sulheim ecoou na sua mente. Ele olhou para o próprio braço de metal, as engrenagens silenciosas como a lápide de um cemitério que ele carregava no próprio corpo.
+Valen não respondeu. Ele não precisava. A rigidez do seu maxilar e o abismo absoluto nos seus olhos castanhos disseram a Vander tudo o que o velho precisava saber. Fogo. Cinzas. Morte.
+Vander engoliu em seco e desviou o olhar para o balcão, respeitando o luto silencioso de um capitão que voltara sozinho.
+— Eu sinto muito, Valen — murmurou o taverneiro, a voz pesada de remorso. Ele limpou a garganta, tentando oferecer algo que não fosse apenas pena. — Escute... se você está à procura dos fantasmas daquele navio, saiba que não foi o único que a maré devolveu.
+Valen parou de girar o copo. O seu olhar cravou-se em Vander.
+— Aquele navegador... o homem engravatado que falava com as estrelas e calculava os ventos — continuou Vander, apontando discretamente com a cabeça para o teto da taverna. — Ele ainda está por aqui. Aluga o quarto do último andar. Faz semanas que ele não sai para ver a luz do sol, só paga a diária e pede para não ser incomodado.
+Gilbert. O estrategista sobreviveu.
+A informação foi como uma faísca solitária lançada na escuridão. Valen não demonstrou a euforia que uma alma comum sentiria. Ele absorveu o dado taticamente. Com a mão de carne, apanhou a garrafa de rum e o seu copo.
+— Mantenha o bico fechado sobre a minha presença, Vander — instruiu Valen, virando as costas para o balcão.
+Ele caminhou até o canto mais escuro e afastado da taverna, longe das janelas e do alcance da luz das lamparinas a óleo. Sentou-se numa cadeira de madeira que rangeu sob o seu peso. Pousou o braço de ferro sobre a mesa riscada e recostou-se.
+Enfiando a mão no bolso interno do seu casaco encharcado, Valen puxou um objeto que pesava muito mais do que o seu próprio tamanho. Um medalhão antigo, fosco pelo tempo e pela água salgada.
+Ele abriu a pequena tampa circular. Dentro, gravados no metal com uma precisão que agora parecia cruel, havia sete nomes. A sua antiga família. A sua tripulação.
+Valen passou o polegar sobre o relevo das letras. Cinco daqueles nomes estavam riscados com traços firmes e profundos. Os rostos que o tempo não apagava, apenas abafava como gritos debaixo de água.
+Restavam apenas tres nomes intactos. O dela... e o de Gilbert.
+Valen serviu-se de mais um copo de rum, os olhos fixos no medalhão. Ele estava sozinho no fim do mundo, afogado em luto, mas a engrenagem da vingança acabara de encontrar o seu primeiro ponto de apoio.
+#Parte 2 – Os Cães do Império
+O som da tempestade lá fora foi subitamente afogado por um estrondo muito mais violento. As pesadas portas de carvalho da Taverna do Gancho Cego foram abertas com um pontapé brutal, escancarando-se de tal forma que as dobradiças oxidadas gritaram em protesto. O vento frio invadiu o ambiente, apagando duas das lamparinas mais próximas e mergulhando parte do salão na penumbra.
+O murmúrio das conversas, o tilintar dos copos e até mesmo as respirações no interior da taverna cessaram no mesmo milésimo de segundo. O silêncio que se instalou não era de surpresa; era o silêncio lúgubre de presas encurraladas.
+Três homens cruzaram a soleira.
+Eles vestiam uniformes táticos de um negro profundo, compostos por couro fervido e placas de metal fosco, encharcados pela chuva inclemente de Kaelyndor. Mas o que paralisava a espinha de qualquer habitante da cidade não eram as espadas pesadas que carregavam na cintura, e sim o símbolo bordado com fios de ouro e ébano sobre os seus ombros: uma serpente dourada enrolada num tridente negro. O Brasão de Sulheim.
+A arrogância com que caminhavam era palpável. O líder do trio, um homem alto cuja pele do rosto e do pescoço estava marcada por horríveis queimaduras ritualísticas, avançou pelo centro da taverna. Os seus passos pesados faziam a madeira apodrecida gemer. Atrás dele, caminhava um soldado ligeiramente mais magro, com o pescoço e a nuca cobertos por uma tatuagem de runas partidas. O terceiro fechava a formação, uma figura macabra que mantinha o capuz sobre a cabeça e usava uma meia-máscara de batalha que lhe deixava os olhos vazios, como os de um cadáver em pé. No pescoço, o terceiro homem exibia um colar grotesco feito com dentes humanos perfeitamente polidos.
+Valen Draxor permaneceu imóvel na sua mesa no canto mais escuro. O seu polegar acariciou a tampa do medalhão fechado, onde agora guardava a memória dos três nomes não riscados.
+O líder de pele queimada não olhou para as mesas. Caminhou diretamente para o balcão. Um jovem marinheiro, que teve o azar de estar no caminho, tentou afastar-se rapidamente, mas não foi veloz o suficiente. O soldado com as tatuagens de runas estendeu a bota, fazendo o rapaz tropeçar e cair de cara no chão sujo. Os soldados riram, um som cruel que ressoou pelo salão.
+Vander, atrás do balcão, empalideceu. O velho taverneiro apoiou-se na sua perna de madeira, tentando manter a dignidade enquanto a Morte parava à sua frente.
+— Uma noite péssima para se estar no mar, velho — disse o líder, a voz áspera e rasgada, apoiando as duas mãos enluvadas sobre o balcão. Ele não pediu uma bebida. Os seus olhos varreram as garrafas nas prateleiras. — Mas uma noite excelente para cobrar os tributos da Coroa.
+— Eu já paguei a taxa de proteção do porto esta semana, senhor — gaguejou Vander, as mãos tremendo ligeiramente. — O oficial recolheu as moedas de prata há três dias.
+O líder sorriu, um esgar que repuxou as suas queimaduras de forma perturbadora. Num movimento casual e repentino, ele agarrou a garrafa de rum mais próxima e atirou-a contra a parede atrás do balcão. O vidro estilhaçou-se num estrondo agudo, o líquido escuro manchando a madeira. Vander encolheu-se, erguendo os braços instintivamente para proteger o rosto dos estilhaços.
+— As taxas mudaram. A presença de Sulheim custa caro, e Kaelyndor tem de aprender a financiar o seu próprio progresso — rosnou o líder, agarrando Vander pelos colarinhos do avental sujo e puxando-o com violência por cima do balcão. — Você vai ao seu cofre agora, velho. E vai entregar-me todas as moedas de ouro que tiver. Caso contrário, esta espelunca pega fogo com todos vocês lá dentro.
+Do seu canto sombrio, Valen assistia a tudo.
+A palavra fogo foi o gatilho. No momento em que o soldado pronunciou a ameaça, o mundo físico ao redor de Valen pareceu desaparecer. O cheiro do rum derramado foi instantaneamente substituído na sua mente pelo odor nauseante de madeira de bombordo a arder. O som do vidro estilhaçado converteu-se no estrondo ensurdecedor do mastro principal do seu navio a partir-se ao meio sob as chamas negras de Sulheim. O grito da sua tripulação, os corpos a derreterem e o calor insuportável no seu braço esquerdo — que o havia levado à amputação e o substituíra por um maquinário frio de metal — inundaram a sua consciência.
+A fúria de Valen não era quente; era um abismo gélido.
+Ele ordenou a si mesmo que ficasse parado. A sua missão era encontrar Gilbert e arranjar um navio. Comprar uma briga direta com a patrulha de Sulheim nas ruas de Kaelyndor atrairia a ira de toda a guarnição. Era irracional. Era um erro tático primário. O Capitão disse a si mesmo para engolir a raiva, fechar os olhos e deixar o velho ser roubado.
+Mas as engrenagens do seu braço mecânico discordavam da sua lógica. Num tique involuntário de pura tensão muscular, a estrutura de ferro e aço que compunha a sua prótese rangeu. Foi um clique metálico. Sutil, baixo, mas absurdamente denso num ambiente onde ninguém mais ousava respirar.
+O som chamou a atenção.
+O soldado com a tatuagem de runas na nuca, que estava encostado numa viga a observar a multidão encolhida, soltou um riso de escárnio, passando a mão pelos cabelos molhados.
+— O que você espera de Kaelyndor? — comentou o tatuado, a voz carregada de puro nojo, varrendo os clientes miseráveis da taverna. — Um ninho de ratos, todos encharcados, todos sonhando com oceanos.
+Os olhos do soldado deslizaram pelo salão escuro. E então, pararam.
+A luz fraca de uma lamparina trêmula encontrou o metal do braço esquerdo de Valen, refletindo um brilho frio e hostil nas sombras. O soldado estreitou os olhos. Ao contrário do resto da escória da taverna, que tentava fazer-se invisível, aquela silhueta no canto não se havia encolhido. Os ombros largos estavam relaxados, a postura era a de um predador em repouso absoluto. E aquele braço de maquinaria pesada não era algo que um marinheiro comum possuísse.
+O soldado tatuado tocou no ombro do líder, que ainda segurava Vander pelos colarinhos. O líder soltou o velho com um empurrão desdenhoso e virou o rosto para onde o subordinado apontava.
+O clima na taverna tornou-se insuportavelmente denso, como se o oxigénio tivesse sido subitamente drenado.
+Os três soldados de Sulheim deixaram o balcão. O barulho das suas botas blindadas voltou a ecoar, mas desta vez, a marcha tinha uma direção clara. Eles abriram caminho por entre as mesas, e os clientes apressavam-se em sair da frente, temendo ser engolidos na tragédia que estava prestes a acontecer.
+O líder parou a dois passos da mesa de Valen, flanqueado pelos seus companheiros. Eles bloquearam qualquer saída. A tempestade continuava a castigar as janelas de vidro fosco lá fora, mas dentro do Gancho Cego, o verdadeiro temporal acabara de se formar.
+#parte 3 – O Eco do Metal e o Olhar Violeta
+O ar ao redor da mesa pareceu congelar. O líder de Sulheim parou diante de Valen, a sua sombra cobrindo o mapa encharcado e o copo de rum. Ele não agiu como um baderneiro de rua em busca de briga gratuita; a sua postura era a de um carrasco oficializando uma sentença.
+— Maquinário pesado em um rato de taverna — a voz do líder era áspera, metódica e carregada de uma autoridade asfixiante. Ele apontou o queixo para a prótese que repousava sobre a madeira riscada. — A engenharia desse braço não foi forjada nestas docas apodrecidas. Sob as leis de Sulheim, tecnologia de combate não registrada é propriedade da Coroa.
+O soldado com a tatuagem de runas aproximou-se pela lateral, os olhos avaliando não apenas a prótese, mas a postura incrivelmente rígida de Valen e o medalhão que ele ainda segurava.
+— Ele não tem o cheiro de um mercenário comum — observou o tatuado, um sorriso frio e calculista desenhando-se no rosto. — Tem a arrogância de quem já deu ordens no mar. Um capitão sem navio, talvez? O expurgo da nossa frota no oeste deixou muito lixo flutuando até as nossas praias. Achou que poderia se esconder nas sombras, bebendo o próprio luto?
+O terceiro homem, a figura macabra com a meia-máscara de osso, deu um passo à frente. Ele pousou a mão no pomo da sua espada longa, um estalo metálico que ecoou na taverna silenciosa como um ultimato.
+— A tolerância do império terminou, desertor — rosnou o mascarado, a voz vazia de qualquer empatia. — Solte as fivelas e entregue a prótese. Ou nós a arrancaremos do seu corpo com o ombro junto.
+Valen não desviou o olhar. Lentamente, com a mão direita, ele ergueu o copo de vidro. Bebeu o restante do rum num único gole, saboreando a queimação do álcool descendo pela garganta. Pousou o copo na mesa com um baque seco.
+Depois, levantou-se.
+O tamanho de Valen e a largura dos seus ombros rivalizavam com a postura dos soldados imperiais. A sua voz não se alterou, não subiu de tom, mas era puro ferro envolto em gelo.
+— Este braço? — murmurou Valen, os olhos castanhos escurecendo com a memória do fogo. — Foi o que sobrou... do dia em que a frota de vocês queimou o meu navio. E massacrou todos os que eu chamava de irmãos.
+A provocação foi o estopim.
+O soldado tatuado atacou primeiro. Ele não era um recruta de rua; os cães de Sulheim eram treinados para o abate. A lâmina curva cortou o ar em direção ao pescoço de Valen com uma velocidade assustadora. Valen ergueu o braço mecânico num bloqueio instintivo. O aço chocou contra as engrenagens de ferro, gerando uma cascata de faíscas azuis e um estrondo metálico ensurdecedor.
+A força do impacto empurrou Valen um passo para trás. O ex-capitão sentiu o tranco reverberar nos músculos do ombro. Ele já havia sido uma lenda dos mares, mas o luto prolongado e as noites afogadas em rum haviam enferrujado os seus reflexos. Sulheim não era uma ameaça vazia. Eles eram o terror do continente, e acabavam de o provar.
+Antes que Valen pudesse contra-atacar, o mascarado avançou pela lateral, desferindo um chute baixo e preciso que estalou contra o joelho de Valen, desestabilizando a sua base. O Capitão rangeu os dentes, girando o tronco para evitar a lâmina do soldado tatuado que vinha para um segundo corte letal.
+Foi então que a dor explodiu nas suas costas.
+O líder não havia sacado a espada. Com as duas mãos, ele ergueu uma pesada cadeira de carvalho e esmagou-a contra as costas de Valen. A madeira estilhaçou-se com uma violência brutal. Valen perdeu o ar, caindo de joelhos no chão úmido da taverna. A sua visão turvou-se por uma fração de segundo, o zumbido nos ouvidos abafando a tempestade lá fora.
+Os soldados de Sulheim moviam-se como uma matilha de lobos, impiedosos e perfeitamente coordenados.
+O soldado tatuado ergueu a lâmina para o golpe de misericórdia. O instinto de sobrevivência, forjado em mil tempestades marítimas, reacendeu no sangue do Capitão. Valen não tentou se levantar. Do chão, ele projetou o corpo para a frente, usando o próprio peso e a dureza implacável do braço de ferro para desferir um soco rasteiro que atingiu a rótula do soldado tatuado. O osso estalou num ruído nauseante, e o homem urrou de dor, tombando no assoalho.
+Valen ergueu-se num ímpeto de pura fúria. O mascarado tentou empalá-lo pelas costas, mas Valen desviou a estocada rodando o corpo. Ele agarrou o pulso do inimigo com a mão de carne e, utilizando o cotovelo da prótese mecânica, desferiu um golpe demolidor diretamente contra o rosto do soldado. A máscara de osso rachou ao meio com o impacto, e o homem desabou inconsciente, o colar de dentes espalhando-se pelas poças de água.
+Restava o líder.
+O homem das queimaduras sacou finalmente a sua espada larga, a raiva deformando as cicatrizes faciais. Ele investiu com um grito gutural, aplicando uma sequência de golpes pesados e incansáveis. Valen bloqueava com a prótese, as engrenagens gemendo e liberando fagulhas sob a enorme pressão do aço imperial. Cada choque empurrava o Capitão um passo para trás. A força de Sulheim era esmagadora, e a respiração de Valen já arfava com o esforço, mas a paciência tática do navegador era infinita.
+No quarto golpe, frustrado pela resistência do braço mecânico, o líder expôs a guarda por um instante. Valen não recuou. Ele interceptou a lâmina inimiga, travando-a entre as juntas de aço do seu pulso mecânico e, com uma torção seca e brutal do corpo, desarmou o soldado. Sem hesitar, Valen avançou. Agarrou o líder pelo colarinho da armadura de couro e atirou-o com força titânica contra a grossa pilastra central da taverna. A madeira velha estalou, e o líder escorregou para o chão, derrotado pelas próprias trevas em que Valen agora habitava.
+A Taverna do Gancho Cego voltou a respirar, mas o silêncio agora era sepulcral e aterrorizado.
+Valen estava de pé no meio dos corpos caídos. A sua respiração estava ofegante, o peito subindo e descendo com força. As costas latejavam intensamente onde a cadeira o havia atingido, lembrando-o do peso da sua mortalidade. Ele levou as costas da mão de carne à boca, limpando um filete de sangue que escorria pelo canto dos lábios.
+Foi então que ele sentiu. Um peso invisível repousando sobre os seus ombros. Não era uma ameaça; era uma presença tão absoluta que parecia distorcer o ar ao redor, sugando o som e o calor.
+Valen ergueu os olhos castanhos na direção das velhas escadas de madeira ao fundo da taverna.
+Ela estava lá.
+Envolta num capuz desgastado, a sua silhueta fundia-se quase perfeitamente com as sombras do andar superior. Apenas os olhos dela capturavam a parca luz da taverna. Eram olhos de um violeta profundo, insondável. Frios como o próprio abismo, mas assustadoramente vivos. Serenos. Indecifráveis. Não havia neles a mínima surpresa pelo banho de sangue que acabara de presenciar, nem qualquer julgamento moral sobre a carnificina. Havia apenas uma pura e esmagadora presença.
+Sombra.
+Valen não disse uma única palavra. Ela também não.
+A troca de olhares durou apenas alguns segundos, mas pareceu se estender por eras. Havia um reconhecimento mudo entre os dois. A percepção instantânea e silenciosa de dois predadores solitários que sabiam exatamente do que o outro era capaz.
+Com a mesma quietude com que observava, ela recuou levemente para as sombras.
+Valen inspirou profundamente o ar carregado de poeira, suor e sal, acalmando o próprio coração. Ele desviou o olhar da escuridão das escadas e voltou-se para a sua mesa, que havia resistido ao caos da luta. Sobre a madeira molhada, o mapa encharcado ainda exibia a anotação teimosa:
+“Tudo recomeça no mar.”
+Valen encarou o pergaminho por longos segundos, o luto e a dor solidificando a sua decisão final.
+Ele rodou os calcanhares e fitou Vander. O velho taverneiro estava escondido atrás do balcão, os olhos arregalados, tremendo perante os soldados de elite de Sulheim caídos e desarmados no seu chão de tábuas.
+— Vander — chamou Valen, a voz novamente calma, resoluta e impassível, ignorando os gemidos baixos de um dos soldados aos seus pés.
+O velho engoliu em seco. — S-sim, Capitão?
+— Eu preciso de um navio.
+Valen ajustou o casaco sobre os ombros, a dor nas costas servindo como o combustível de que precisava para se mover.
+— E de uma tripulação.
+#Capítulo 4 – O Navegador
+— Navio? — repetiu Vander. O velho taverneiro soltou um riso nervoso, um som áspero que mais parecia um engasgo, os olhos saltando dos soldados imperiais desmaiados no assoalho para a figura imponente do ex-capitão. — Você acabou de destroçar uma patrulha de Sulheim no meu chão, Valen. A cidade inteira estará a caçá-lo antes que a maré suba. Ninguém em sã consciência entrega madeira viva para um homem que cheira a luto fresco... muito menos para alguém que fala em montar uma tripulação a partir do nada.
+Valen Draxor não sorriu. A adrenalina do combate ainda lhe corria nas veias, mas a sua mente já havia ancorado no próximo passo. Ele inclinou o corpo devagar, apoiando a mão direita na mesa riscada, o olhar castanho e fixo a silenciar o desespero de Vander.
+— Eu não pedi a sua opinião, meu velho — disse Valen, a voz perfeitamente serena. — Eu apenas avisei que vou cobrar a visita àquele hóspede do andar de cima.
+O taverneiro hesitou, engolindo em seco ao compreender a imutabilidade daquela decisão. O medo que Vander sentia de Sulheim pareceu diminuir perante a presença esmagadora do homem à sua frente.
+— Ele... ele vai gostar de saber que você voltou — murmurou Vander, recuando um passo e baixando a cabeça. — Bem-vindo de volta, Capitão.
+Valen virou as costas e caminhou em direção ao fundo da taverna. As escadas de madeira rangiam sob as suas botas molhadas, cada degrau a protestar como se reclamasse de memórias há muito enterradas. A transição do caos húmido e sangrento do salão térreo para o isolamento do segundo andar era drástica. O ar perdeu o cheiro de suor e salmoura, sendo substituído pelo aroma seco de pergaminho velho, tinta nanquim e cera queimada.
+No fim do corredor escuro, um feixe de luz amarelada escapava por baixo da última porta.
+Valen parou. Ele bateu duas vezes com os nós dos dedos de carne. Depois, uma terceira vez, usando a articulação de ferro da sua prótese, produzindo um estalo metálico e inconfundível.
+Silêncio. O vento uivou lá fora, batendo contra as janelas de vidro fosco.
+Então, uma voz polida, carregada de uma exaustão que não era física, mas espiritual, atravessou a madeira:
 — Só entre se for um idiota, um assassino... ou um capitão triste e sem navio.
-
 Valen empurrou a porta.
-
-O quarto era um santuário de mapas, livros e instrumentos náuticos espalhados como constelações desmontadas. No centro, sentado com a coluna reta e o semblante atento, Gilbert não se virou.
-
-— Qual deles você é hoje Capitão?
-
-— Um pouco dos três. — respondeu Valen.
-
-Só então Gilbert girou lentamente a cadeira. Os olhos azul-acinzentados, cheios de cálculo e cansaço antigo, o analisaram por um segundo que durou mais do que um reencontro comum.
-
-— Você está mais magro. Ou mais amargo.
-— Difícil saber onde termina a cicatriz e começa o capitão.
-
-Valen se aproximou. Retirou um medalhão do bolso e o colocou sobre a mesa.
-Sete nomes. Cinco riscados.
-
-Gilbert olhou. Silêncio.
-
-Então falou baixo, quase como se conversasse com fantasmas:
-
-— Eles não mereciam aquela morte...
-
-— Nem você, aquela culpa. — retrucou Valen.
-
-Gilbert fechou os olhos. As mãos pousaram sobre o medalhão como quem fecha um livro sagrado. Quando os abriu, a decisão estava feita.
-
-— Quanto tempo eu tenho?
-
-— Três dias. — respondeu Valen. — Preciso de rotas que evitem Sulheim, tempestade política e qualquer lembrança de quem já fomos.
-
-— Três dias, então. — Gilbert se levantou, ajeitando o sobretudo com símbolos estelares costurados à mão. — E quando isso tudo afundar de novo... dessa vez, quero estar junto.
-
-Valen riu.
-Foi a primeira vez naquela noite.
-
-— Tem vinho?
-
-— Só se aceitar silêncio como companhia.
-
-
-Na porta, Gilbert parou.
-Olhou para fora — a cidade de Kaelyndor se estendia úmida, viva e indiferente, com lampiões tremeluzindo e gritos distantes de alguma briga de marinheiros.
-
-— E como vai chamar essa desgraça flutuante?
-
-Valen ajeitou o colar e murmurou como quem batiza um túmulo:
-
+O quarto não era um simples dormitório de taverna; era um santuário isolado do mundo. Mapas cartográficos, compassos, astrolábios e grossos livros de rotas marítimas estavam espalhados pelo chão e pelas mesas como constelações desmontadas. No centro daquele caos intelectual, sentado diante de uma escrivaninha, com a coluna rigidamente ereta e o semblante focado num cálculo estelar, estava Gilbert. Ele não se virou.
+— Qual deles você é hoje, Capitão? — perguntou o navegador, a pena de escrever ainda a pairar sobre o papel.
+— Um pouco dos três — respondeu Valen, fechando a porta atrás de si.
+Só então Gilbert pousou a pena e girou lentamente a cadeira. O navegador usava uma camisa clara ligeiramente amarrotada e um colete escuro. Os seus olhos azul-acinzentados, sempre repletos de matemática, pragmatismo e um cansaço ancestral, analisaram a figura molhada de Valen por um segundo que pareceu durar mais do que um reencontro comum. Ele notou a água a pingar do casaco, os hematomas recentes e, invariavelmente, a prótese de ferro e engrenagens onde antes existia um braço.
+— Você está mais magro. Ou mais amargo — constatou Gilbert, a sua voz isenta de pena, oferecendo apenas a verdade crua. — É difícil saber onde termina a cicatriz e onde começa o capitão.
+Valen caminhou até à escrivaninha. Ele enfiou a mão no bolso do casaco e retirou o medalhão fosco. Com um movimento silencioso, colocou a peça sobre a mesa de madeira, bem no centro das anotações do navegador, e abriu a pequena tampa.
+Oito nomes cravados no metal. Cinco deles estavam riscados com traços firmes, profundos e definitivos. Restavam apenas três incólumes. O de Valen. O de Sombra. E o de Gilbert.
+Gilbert olhou para o objeto. O ar da sala tornou-se subitamente rarefeito. A frieza analítica do navegador desmoronou, dando lugar ao fantasma da noite que os havia destruído a todos.
+— Eles não mereciam aquela morte... — murmurou Gilbert, a voz falhando, um sussurro carregado por meses de noites mal dormidas a refazer os cálculos de uma fuga que nunca aconteceu.
+— Nem você merece essa culpa — retrucou Valen, direto e inflexível. O Capitão não estava ali para partilhar lamentações; estava ali para puxar o amigo de volta à superfície.
+Gilbert fechou os olhos. As suas mãos longas e precisas de cartógrafo pousaram sobre o medalhão com uma reverência solene, como quem fecha um livro sagrado após a última prece. Quando ele abriu os olhos novamente, a neblina da culpa havia dissipado, substituída pela antiga e familiar centelha de determinação tática. A decisão estava tomada.
+— Quanto tempo eu tenho? — perguntou o navegador, assumindo o seu posto.
+— Três dias — respondeu Valen, apoiando a mão de carne na beira da mesa. — Preciso de rotas cegas. Caminhos que evitem as frotas de Sulheim, as tempestades políticas do império e qualquer lembrança de quem já fomos.
+Gilbert levantou-se, apanhando o seu longo sobretudo de lã escura, cujas bordas eram adornadas com pequenos símbolos estelares costurados à mão. Ele vestiu o casaco com a elegância de sempre, ajustando os punhos.
+— Três dias, então — concordou Gilbert, encontrando o olhar de Valen. — Mas fique avisado, Valen. Quando isso tudo afundar de novo... e sabemos que a probabilidade é alta... desta vez, eu quero estar lá fora com você. Não ficarei a ver as chamas da cabine.
+Valen soltou uma risada baixa. Foi a primeira vez que os seus ombros relaxaram verdadeiramente naquela noite, um som que trouxe um eco da antiga tripulação de volta à vida.
+— Tem vinho? — perguntou o Capitão.
+— Só se aceitar o silêncio como companhia — respondeu Gilbert, encaminhando-se para um pequeno armário no canto do quarto.
+O navegador serviu duas taças de uma colheita que não pertencia às tabernas de Kaelyndor e caminhou até à janela. Valen juntou-se a ele. Lá fora, a cidade estendia-se úmida, caótica e indiferente. Os lampiões de óleo tremeluziam nas ruelas alagadas, e o som distante de uma briga de marinheiros misturava-se com as pancadas da chuva.
+Gilbert bebeu um gole do vinho e olhou para a tempestade.
+— E como vai chamar essa nova desgraça flutuante? — perguntou ele.
+Valen ajeitou o colarinho do casaco, os olhos castanhos perdidos na imensidão negra e revoltosa do oceano que os aguardava, e murmurou a resposta com a gravidade de quem batiza um túmulo e um berço ao mesmo tempo:
 — Coruja Eclipse.
-
-Gilbert fez uma careta sutil.
-
+Gilbert fez uma careta sutil, ajustando os óculos no rosto.
 — Poético demais. Vai dar problema.
-
-Mas caminhou ao lado dele — sem perguntar mais nada.
-
-
-
-#Capítulo 3 – Sombras de Kaelyndor
-
-Gilbert ajeitou o colarinho do sobretudo enquanto os dois atravessavam a rua estreita diante da taverna. A cidade estava úmida, viva, e cheia demais para tão cedo.
-
-— Vai chamar atenção. — comentou em voz baixa.
-
-— Objetivo é esse. — murmurou Valen.
-
-Desceram por uma ladeira com cheiro de peixe fermentado e metal oxidado. O vapor das caldeiras industriais começava a escapar pelas grades das calçadas, e as primeiras carruagens de carga já cruzavam os trilhos centrais da rua.
-
-— E onde exatamente vai arrumar uma tripulação? — Gilbert puxou um grimório pequeno do bolso e abriu com um estalar do polegar. — Por acaso há um capítulo chamado “recrutando fantasmas”?
-
-— Procurar onde a cidade sussurra mais alto. — Valen fez sinal com o queixo. — Mercado Flutuante.
-
-Seguiram até o cais inferior, onde tábuas velhas ligavam balsas adaptadas em lojas ambulantes. Um mosaico caótico de vozes, trapaças e bandeiras rasgadas que flutuavam com o vento do mar.
-
-Gilbert analisava tudo com os olhos semicerrados.
-
-— Sulheim anda se exibindo. Marcas novas no cais, moedas douradas demais circulando. Estão comprando silêncio.
-
-Valen parou diante de uma tenda coberta por panos púrpura.
-— Silêncio é fácil de comprar. Eu quero barulho.
-
-Foi então que ele sentiu.
-
-Um leve puxão. Mínimo. Quase imperceptível na cintura — não fosse o peso ausente por meio segundo.
-
-Valen agarrou o pulso antes do toque final. Rápido. Seco.
-
-Houve um instante, um único instante, em que seu corpo reagiu antes da mente.
-E nesse segundo congelado, ao segurar aquele pulso magro, houve algo que ele não soube nomear.
-
-Um eco.
-Não de perigo.
-De potencial.
-
-— Corajoso. — disse sem virar o rosto.
-
-Atrás dele, um jovem encolheu a mão, olhos âmbar vibrantes, topete ousado, postura solta. O sorriso que lançou de volta era mais provocação do que desculpa.
-
-— Só queria ver se era de verdade. Bonito esse casaco. — respondeu o garoto.
-
-Valen soltou com firmeza, e o garoto deu dois passos leves para trás, como quem treinou a vida toda para não cair em confrontos diretos.
-
-Gilbert se aproximou.
-— Um ladrão?
-
-— Um sinal. — respondeu o capitão. — Me diga quem ele é antes do fim da tarde.
-
-Gilbert já anotava algo no caderno.
-— Certeza que vale o esforço?
-
-Valen olhou ao longe. O garoto havia sumido entre as barracas. Mas o cheiro da rua ainda estava ali — e a provocação, fresca no ar.
-
-— Ninguém tenta me roubar assim sem deixar pegada.
-
-Ele virou o rosto, e um sorriso breve lhe escapou pela primeira vez desde o medalhão.
-
-— O garoto sabe correr. Vamos ver se sabe escolher pra onde.
-
-
-#Capítulo 4 – O Escolhido da Rua
-
-O garoto havia desaparecido entre as barracas, mas Valen não tirava os olhos da última direção onde ele estivera. O vento do mar empurrava odores de peixe, ferrugem e fermentação por entre os becos, como se a cidade respirasse em baforadas sujas.
-
-— Sabe pra onde ele foi? — perguntou, ainda parado diante da tenda de panos púrpura.
-
-— Sei onde ele pode ir. — respondeu Gilbert, fechando o caderno com um estalo. — Se for quem estou pensando, chamam de Runner. Um rato rápido demais pra ficar em só um buraco.
-
-— Então ache o buraco.
-
-Gilbert deu meia-volta, já consultando um mapa mental invisível.
-
-— Cortiços do Distrito Sombreado, passagens internas no Arco Norte e um contato nos mercados flutuantes. Se ele estiver em qualquer lugar onde as botas não entram, vai ser lá.
-
-
-Em outro canto de Kaelyndor, acima de uma velha padaria abandonada, Runner se debruçava sobre uma laje coberta de fuligem. Observava o mar, a cidade, e abaixo dele, os dois homens que o caçavam — ou testavam. Ainda não sabia ao certo.
-
-Na boca, mascava tâmaras secas que roubara de uma banca há duas ruas. No peito, um incômodo lento.
-
-> “Braço de ferro. Olhos de chumbo. E mesmo assim… me deixou fugir.”
-
-
-
-Ele rolou sobre a laje, puxou um mapa velho cheio de rabiscos próprios. Símbolos, setas, túneis, “zonas de escape”. Tudo marcado com precisão de quem vivia correndo.
-
-Mas não era isso que o incomodava.
-
-Era a pergunta que se repetia:
-Por que aquele homem o deixou ir?
-
-Tantas vezes fora pego. Tantas vezes teve de fugir antes que os punhos caíssem. Mas Valen... apenas segurou. Apenas olhou.
-
-> Ninguém nunca me procurou sem querer algo em troca.
-E ninguém nunca me chamou pra nada... sem me cobrar depois.
-
-Guardou o mapa, irritado com o próprio pensamento.
-
-— Idiota. Foi atrás do medalhão. Devia ter só pego a moeda.
-
-Mas o toque… foi estranho. Como se tivesse encostado em algo antigo. A
-
-Três horas depois, o sol já se escondia atrás das torres irregulares de Kaelyndor. Valen e Gilbert haviam vasculhado três zonas marcadas, feito contato com dois informantes, e comprado um nome.
-
-— Confirmado. É Runner mesmo. Nome de rua. Vendedor de segredos, ladino de confiança instável. Esperto. Nunca fica duas noites no mesmo canto. — relatou Gilbert, ajustando os óculos.
-
-— E agora?
-
-— Agora você espera. Ele te viu. Te percebeu. Se ele estiver em dúvida, vai querer te testar.
-
-— Que tente. — murmurou Valen. — A dúvida é o começo do sim.
-
-
-Naquela noite, Valen entrou sozinho na Taverna Asas de Ferro — um antro com cheiro de bebida velha, suor e decepções baratas. Sentou no fundo. Pediu rum. Esperou.
-
-Meia hora depois, Runner desceu as escadas pela lateral. Devagar. Cauteloso. Mas de frente. Sem fingir.
-
-— Você é insistente. — disse, cruzando os braços diante da mesa.
-
-— Você é rápido. — respondeu Valen, sem erguer os olhos do copo.
-
-— Quer que eu trabalhe pra você?
-
-— Não. Quero saber por que ainda tá aqui.
-
-Runner não respondeu. Apenas ficou parado. O silêncio entre os dois era espesso como neblina de porto.
-
-— Já roubei muita coisa de gente importante. Nenhum deles tentou me rastrear. Só você.
-
-Valen ergueu os olhos. Calmamente.
-
-— É porque nenhum deles valia o que eu tô montando.
-
-— E o que exatamente você tá montando?
-
+Mas, apesar do protesto técnico, o navegador sorriu levemente, posicionando-se ao lado do seu capitão. E, em silêncio, os dois homens contemplaram o mar, prontos para desafiar o mundo mais uma vez.
+#Capítulo 5 – O Mercado Flutuante e o Garoto Âmbar
+O amanhecer em Kaelyndor não trazia a luz reconfortante de um novo dia, mas sim uma claridade doentia que lutava desesperadamente para perfurar a neblina espessa. Gilbert ajeitou o colarinho do seu longo sobretudo escuro, protegendo-se da garoa fina, enquanto os dois atravessavam a rua estreita e lamacenta diante da Taverna do Gancho Cego. A cidade estava úmida, febril e abarrotada demais para uma hora tão matutina.
+— Caminhar em campo aberto logo após deixar um rastro de sangue e soldados imperiais no chão... vai chamar atenção — comentou o navegador em voz baixa, os seus olhos azul-acinzentados varrendo metodicamente as sombras dos becos adjacentes.
+— O objetivo é exatamente esse — murmurou Valen, a sua figura imponente avançando sem hesitar um único passo.
+Desceram por uma ladeira íngreme, onde a brisa pesada do mar carregava um cheiro denso de peixe fermentado misturado ao odor acre de metal oxidado. O vapor escaldante das caldeiras industriais subterrâneas começava a escapar violentamente pelas grades de ferro das calçadas, criando cortinas de fumaça espessa. Através dessa neblina artificial, as primeiras carruagens de carga já cruzavam a cidade, fazendo os trilhos centrais da rua rangerem sob o peso inflexível do progresso e da miséria.
+— E onde exatamente pretende arrumar uma tripulação disposta a desafiar o mundo? — Gilbert puxou um pequeno grimório de capa de couro do bolso interno do casaco, abrindo-o com um estalar ágil do polegar. Ele folheou as páginas preenchidas com cálculos e rotas. — Por acaso há algum capítulo não mapeado aqui chamado "como recrutar fantasmas e suicidas"?
+— Devemos procurar onde a cidade sussurra mais alto. — Valen fez um sinal sutil com o queixo, apontando para o horizonte caótico que começava a desenhar-se à frente, na base da encosta. — O Mercado Flutuante.
+Seguiram até ao cais inferior. O Mercado Flutuante não era uma praça comercial comum; era uma anomalia arquitetônica, um mosaico vibrante e caótico onde velhas tábuas de madeira apodrecida e cordas gastas ligavam centenas de balsas, pontões e botes adaptados em lojas ambulantes. O ambiente era uma cacofonia ensurdecedora de vozes estridentes, trapaças sussurradas à meia-luz e o estalar constante de bandeiras rasgadas que chicoteavam contra o vento agressivo do mar.
+Gilbert analisava a dinâmica do local com os olhos semicerrados, a sua mente matemática a tabular o fluxo de pessoas, as rotas de fuga e os padrões de comportamento.
+— Sulheim anda se exibindo muito mais do que o habitual para um porto independente — observou o navegador, apontando discretamente para as silhuetas de patrulhas distantes. — Há marcas novas de controle nas estacas do cais. Há moedas douradas do império circulando com demasiada facilidade entre os mercadores mais imundos. Eles estão comprando o silêncio desta cidade.
+Valen parou diante de uma tenda rústica, coberta por panos de uma coloração púrpura severamente desbotada pelo salitre. A sua expressão endureceu, a mandíbula travada.
+— O silêncio é fácil de comprar, Gilbert. Eu quero barulho.
+Foi nesse exato milésimo de segundo que ele sentiu.
+Um leve puxão. Mínimo. Absurdamente calculado. Teria sido imperceptível para um homem comum, e quase passou despercebido por Valen — não fosse a ausência repentina do peso do pequeno saco de moedas na lateral da sua cintura durante meio segundo.
+O instinto, forjado em mil tormentas e em batalhas onde a hesitação significava a morte, assumiu o controle. Valen não se virou, mas o seu braço direito moveu-se num borrão. Ele agarrou o pulso do invasor antes mesmo que o toque furtivo fosse concluído. Rápido. Seco. Implacável.
+Houve um instante singular, um segundo congelado no fluxo caótico do mercado, em que o corpo do Capitão reagiu muito antes de a sua mente processar a ameaça. E nesse lapso, ao segurar com firmeza aquele pulso magro e veloz, houve algo que ele não soube nomear imediatamente.
+Um eco. Não era a vibração letal de um assassino contratado, nem o pavor covarde de um batedor de carteiras comum. Era pura eletricidade. Uma promessa latente. Potencial.
+— Corajoso — disse Valen, a voz grave e perfeitamente controlada, sem ainda virar o rosto.
+Atrás dele, o jovem invasor encolheu a mão aprisionada, mas não emitiu nenhum som de dor. Quando Valen finalmente virou a cabeça, deparou-se com um par de olhos âmbar incrivelmente vibrantes e despertos. O garoto tinha um topete ousado, os cabelos desgrenhados pelo vento carregado de umidade e uma postura irritantemente solta para alguém que acabara de ter o braço imobilizado por um gigante. O sorriso que o jovem lançou de volta não carregava um pingo de medo, vergonha ou pedido de desculpas; era uma provocação desenfreada.
+— Só queria ver se o tecido era de verdade. Bonito esse casaco, a propósito — respondeu o garoto, a voz carregada de uma audácia que beirava a insanidade.
+Valen soltou o pulso do jovem com a mesma firmeza cirúrgica com que o havia agarrado. Livre da contenção, o garoto deu dois passos leves e calculados para trás, deslizando pelas tábuas úmidas do cais com a fluidez de quem havia treinado a vida inteira para escapar e nunca cair em confrontos diretos.
+Gilbert aproximou-se, ajeitando os óculos no nariz enquanto observava a figura do jovem a afastar-se rapidamente.
+— Um ladrão de rua? — perguntou o navegador, um tom de ceticismo permeando a sua voz analítica.
+— Um sinal — respondeu o Capitão, os olhos castanhos fixos nas costas do jovem que habilmente costurava o seu caminho por entre a multidão. — Descubra quem ele é, Gilbert. Traga-me um nome antes do fim da tarde.
+O navegador suspirou levemente, puxou a pena e já começava a anotar os detalhes visuais do garoto no seu caderno.
+— Tem certeza de que vale o esforço, Valen?
+Valen olhou para o horizonte do mercado. O garoto já havia desaparecido por entre as barracas de lona e as pilhas de caixotes de especiarias, fundindo-se perfeitamente com a engrenagem humana do porto. Mas a energia da rua ainda pairava ali — e a provocação impertinente do jovem continuava fresca no ar.
+— Ninguém tenta me roubar daquela forma, com aquela precisão, sem deixar uma pegada, Gilbert. É preciso muito mais do que fome para ter aquela coragem.
+Ele virou o rosto para a imensidão do cais, e um sorriso breve, contido e quase imperceptível, escapou pelos seus lábios pela primeira vez desde que abrira o medalhão de luto.
+— O garoto sabe correr. Vamos ver se ele sabe escolher para onde.
+#Capítulo 6 – O Escolhido da Rua
+O garoto havia desaparecido por entre as barracas e vielas apinhadas do Mercado Flutuante com a agilidade de quem conhecia cada tábua solta daquele cais. No entanto, Valen não desviou os olhos da última direção onde a silhueta esguia fora vista. O vento constante que soprava do mar empurrava odores densos de peixe eviscerado, ferrugem úmida e fermentação, como se a própria cidade de Kaelyndor respirasse através de baforadas sujas e cansadas.
+— Sabe para onde ele foi? — perguntou o Capitão, a sua postura ainda rígida diante da tenda de panos púrpura, a mão direita a descer instintivamente para repousar perto do medalhão no bolso.
+— Sei onde ele pode ir — respondeu Gilbert, fechando o seu pequeno grimório de couro com um estalo seco e assertivo. O navegador ajeitou os óculos, a sua mente traçando rotas através de um mapa mental invisível. — Se ele for quem eu estou a pensar, as ruas chamam-no de Runner. Um rato demasiado rápido para se confinar a um único buraco.
+— Então, ache o buraco.
+Gilbert deu meia-volta, ajeitando o sobretudo.
+— Cortiços do Distrito Sombreado, as passagens internas no Arco Norte e, talvez, um contato nos mercados flutuantes inferiores. Se ele estiver num lugar onde as botas imperiais não entram, será por ali que o encontraremos.
+Num outro canto de Kaelyndor, bem acima do caos das ruas, o garoto observava o mundo.
+Ajoelhado sobre a laje coberta de fuligem de uma velha padaria abandonada, Runner debruçava-se sobre o beiral de pedra. Dali, a sua vista alcançava o mar revoltoso, as chaminés fumegantes da cidade e, lá embaixo, as minúsculas figuras dos dois homens que o caçavam — ou que o testavam. Ele ainda não sabia ao certo qual era o verbo correto para a situação.
+Na boca, mascava tâmaras secas que roubara de uma banca há duas ruas, mas o sabor doce não era suficiente para apagar um incômodo lento e persistente que se instalara no seu peito.
+Runner olhou para a própria mão. A lembrança física daquele contato ainda formigava no seu pulso.
+“Braço de ferro. Olhos de chumbo. E, mesmo assim… ele deixou-me fugir.”
+A dúvida corroía as suas certezas. Runner rolou sobre as costas, sentindo a fuligem sujar o seu colete, e puxou um mapa velho do interior da camisa. O pergaminho estava coberto de rabiscos próprios e apressados: símbolos que apenas ele compreendia, setas indicando rotas pelos telhados, túneis esquecidos e dezenas de “zonas de escape”. Tudo ali estava marcado com a precisão obsessiva de alguém que vivia exclusivamente para correr.
+Mas não era a geografia da cidade que o incomodava naquele momento. Era a pergunta irracional que se repetia na sua mente, recusando-se a calar:
+Por que é que aquele homem o deixara ir?
+Runner já fora apanhado muitas vezes. Conhecia o peso da mão de um guarda, a brutalidade de um mercador lesado e a necessidade de se contorcer e fugir antes que os punhos caíssem. Mas Valen não havia apertado para quebrar. O gigante apenas o segurara. Apenas olhara para o fundo dos seus olhos com uma calma aterradora, como quem lê a alma de alguém, e depois abrira a mão.
+“Ninguém nunca me procurou sem querer algo em troca”, pensou o garoto, fechando os olhos e atirando o caroço da tâmara para longe. “E ninguém nunca me chamou para nada... sem me cobrar depois com juros de sangue.”
+Guardou o mapa, irritado com o rumo dos próprios pensamentos.
+— Idiota — sussurrou para si mesmo, esfregando o rosto. — Foste atrás do medalhão dele. Devias ter-te contentado em apanhar apenas as moedas e sumir.
+Mas não era apenas a decisão técnica do roubo. O toque do homem fora estranho. Não era a agressividade de um caçador de recompensas; fora um toque que carregava algo muito antigo e denso, como se, por um segundo, Runner tivesse encostado numa lenda viva.
+Três horas depois, o sol já começava a esconder-se atrás das torres irregulares e aguçadas de Kaelyndor, banhando a cidade num crepúsculo doentio.
+Valen e Gilbert haviam vasculhado metodicamente três zonas marcadas no mapa do navegador. Fizeram contato com dois informantes nos distritos baixos, distribuíram algumas moedas de prata e, finalmente, compraram o que precisavam: a confirmação.
+— Confirmado. É Runner, de fato. Apenas um nome de rua — relatou Gilbert, ajustando os óculos enquanto caminhavam pelo cais, a luz poente a refletir-se nas lentes grossas. — Vendedor de segredos, ladino de confiança instável, mas dono de uma inteligência afiada. É o tipo de garoto que nunca dorme duas noites no mesmo canto. Uma verdadeira sombra urbana.
+Valen não abrandou o passo.
+— E agora? — perguntou o Capitão.
+— Agora, você espera — sentenciou o navegador, parando e olhando para Valen. — Ele viu-o. Percebeu que o deixámos escapar. Se a mente dele estiver em dúvida, o instinto forçá-lo-á a querer testá-lo. A curiosidade é o calcanhar de Aquiles das pessoas muito inteligentes.
+Valen ergueu o rosto para a cidade obscurecida.
+— Que tente — murmurou Valen, com um brilho tático no olhar. — A dúvida é o princípio do sim.
+Naquela noite, a atmosfera da Taverna Asas de Ferro era densa o suficiente para ser cortada com uma faca. O antro cheirava a bebida fermentada, suor velho e deceções acumuladas. Era o tipo de lugar onde os homens entravam para desaparecer, não para serem encontrados.
+Valen entrou sozinho. Caminhou até à mesa mais ao fundo, de costas para a parede, com o campo de visão totalmente desimpedido para a porta e para a escadaria. Pediu uma caneca de rum. E simplesmente esperou.
+Meia hora depois, as sombras no canto da escadaria moveram-se.
+Runner desceu os degraus pela lateral, colado à parede. Os seus passos eram devagares e cautelosos, mas ele caminhou de frente, sem tentar disfarçar a sua aproximação. A bravata da rua estava lá.
+— Você é insistente — disse o garoto, parando diante da mesa e cruzando os braços, a postura defensiva mas sustentada pelo olhar âmbar.
+— Você é rápido — respondeu Valen, a voz serena, sem sequer erguer os olhos do copo à sua frente.
+Runner franziu os lábios, estudando o homem de couro e ferro.
+— Quer que eu trabalhe para você? É isso? Precisa de alguém para invadir alguma mansão?
+— Não. Quero saber o motivo pelo qual você ainda está aqui — Valen finalmente ergueu o rosto, cravando os olhos no garoto.
+Runner não respondeu de imediato. Apenas ficou parado. O silêncio entre os dois homens era tão espesso quanto a neblina que cobria o porto lá fora.
+— Eu já roubei muita coisa de muita gente importante nesta cidade — disse o garoto, a voz perdendo um pouco da ironia e ganhando um tom de alerta. — Senhores do comércio, oficiais da guarda. E nenhum deles tentou rastrear-me dessa forma silenciosa. Apenas você. Porquê?
+Valen encarou-o com uma tranquilidade absoluta, como se a resposta fosse a coisa mais simples do mundo.
+— É porque nenhum deles valia aquilo que eu estou a montar.
+O garoto descruzou os braços lentamente, a curiosidade finalmente a perfurar a sua armadura de desdém.
+— E o que exatamente você está a montar, Capitão?
 — Um navio. Um destino. Um problema.
-
-Runner ergueu uma sobrancelha.
+A resposta direta fez Runner erguer uma sobrancelha. Ele inclinou a cabeça, lutando para não deixar um sorriso transparecer.
 — Poético.
-
-— Demais? — Valen arqueou levemente a sobrancelha de volta.
-
-— Um pouco. — respondeu Runner, contendo um riso. Mas a expressão fechou logo em seguida. — E eu com isso?
-
-— Você corre demais pra não estar fugindo. Mas olha demais pra não querer alguma coisa.
-
-Runner deu um passo atrás. A sombra da escada encobriu parte de seu rosto.
-
-— Boa fala. Mas não funciona comigo.
-
-— Ainda não. — disse Valen, com firmeza tranquila. — Mas vou repetir no momento certo.
-
-O garoto não respondeu. Apenas virou as costas. Parou no terceiro degrau.
-
-— Se me seguir, eu sumo.
-— E se me achar de novo...
-— Eu roubo de verdade.
-
-Valen não se moveu. Apenas soltou a resposta como lâmina embainhada:
-
-— Tente. Mas não me subestime.
-
-
-Runner desapareceu de novo.
-
-Mas desta vez, deixou um rastro. Pequeno, quase imperceptível. Um bilhete escondido entre as tábuas onde estivera parado. Nele, apenas uma palavra:
-
+— Demais? — Valen arqueou levemente a sobrancelha, um eco da conversa que tivera mais cedo com o seu navegador.
+— Um pouco — respondeu Runner, contendo o riso com esforço. Mas a expressão do garoto endureceu logo em seguida, o instinto de sobrevivência a retomar o controle. — E o que é que eu tenho a ver com isso?
+Valen apoiou a mão de carne sobre a mesa.
+— Você corre demais para alguém que não está a fugir de nada. E observa os outros com demasiada atenção para alguém que não está à procura de algo maior do que um punhado de moedas.
+As palavras de Valen atingiram um ponto nevrálgico. Runner deu um passo atrás, recuando deliberadamente para que a sombra projetada pela escada encobrisse metade do seu rosto. A armadura emocional do garoto estava a rachar, e ele precisava de distância.
+— Boa fala. Mas isso não funciona comigo — declarou Runner, a voz aveludada pela defensiva.
+— Ainda não — sentenciou Valen, com uma firmeza tão inabalável e tranquila que soou mais como uma promessa do que como uma ameaça. — Mas eu vou repetir isto no momento certo.
+O garoto não respondeu. Voltou as costas a Valen e começou a subir as escadas, parando apenas quando alcançou o terceiro degrau. Sem virar o rosto, ele proferiu as suas condições, como um felino a ditar as regras do seu próprio território.
+— Se me seguir, eu sumo de vez nas sombras desta cidade.
+Ele fez uma pausa, olhando por cima do ombro.
+— E se me achar de novo... eu roubo-o de verdade.
+Valen não se moveu da cadeira. Apenas soltou a resposta, fria e precisa como uma lâmina a voltar para a bainha:
+— Tente. Mas não cometa o erro de me subestimar.
+Runner não retorquiu. A silhueta do garoto simplesmente desapareceu na escuridão do andar superior, sendo engolida pela taverna.
+Mas desta vez, o ladrão havia deixado algo para trás. Quando Valen se levantou da mesa e caminhou até ao sopé da escada, encontrou um rastro. Pequeno, quase imperceptível.
+Alojado na fresta entre as tábuas de madeira do degrau onde o garoto estivera parado, repousava um pequeno bilhete rasgado. Valen puxou o papel e desdobrou-o.
+Escrita à pressa, havia apenas uma palavra:
 "Ainda não."
 
-
-#Capítulo 5 – A Oferta que Pesa
-
-O bilhete dizia apenas duas palavras:
-“Ainda não.”
-
-Mas para Valen, isso bastava.
-“Não agora” era melhor que “nunca”. E o rastro intencional, por menor que fosse, era uma fresta.
-
-Gilbert segurava o pedaço de papel com dois dedos, como quem analisa uma pista de um crime incompleto.
-
-— É quase um poema. — comentou, seco.
-
-— É quase um sim. — retrucou Valen.
-
-
-
-Dois dias se passaram. Valen não o procurou. Gilbert também não.
-
-E foi justamente por isso que, na terceira manhã, Runner apareceu sozinho.
-
-O som dos passos dele no convés do bar abandonado onde Valen e Gilbert montaram sua base temporária foi leve, mas decidido. Ele não esgueirou-se. Não se anunciou. Apenas entrou.
-
-— Vocês são piores do que eu pensava. — disse, encostando-se na ombreira da porta. — Dois dias sem me seguir? Comecei a achar que vocês tinham desistido.
-
-Gilbert nem olhou. Apenas virou uma página do grimório.
-— Ignorar é a primeira lição de quem quer fazer alguém pensar por conta própria.
-
-Valen permaneceu sentado. Cruzou os braços devagar.
-— E você pensou?
-
-Runner avançou até o centro da sala.
-Os olhos âmbar estavam mais calmos. Mas não mansos.
-
-— O que exatamente você quer de mim?
-
-— Que entre no navio. — respondeu Valen. — Que use o que sabe para viver por algo que não seja só você.
-
-Runner mordeu o canto do lábio, desviando o olhar.
-
-— E se eu disser que não acredito em capitães? Nem em propósitos. Nem em navios que prometem alguma coisa além de afundar.
-
-Valen se ergueu. Não com raiva. Com verdade.
-
-— Então diz. Mas olha nos meus olhos quando disser.
-
-Runner hesitou.
-
-Por algum motivo, encarar aquele homem era mais difícil do que fugir. E ele era bom em fugir. Mas não era bom em ser visto. E Valen… via.
-
-Depois de segundos pesados, ele falou.
-
-— Já fiz coisa ruim. Já corri deixando gente pra trás. Já roubei de quem não merecia. E já fiquei calado quando podia ter gritado.
-
-— E ainda assim voltou.
-
-— Porque não quero fazer isso pra sempre. — completou Runner. — Mas não sei se sei fazer outra coisa.
-
-Valen deu um passo à frente.
-— Ninguém nasce parte de uma tripulação. A gente vira, no meio da tempestade.
-
-Gilbert finalmente se manifestou.
-— E você, garoto, já parece ter naufragado umas três vidas antes dessa.
-
-Runner olhou para os dois.
-
-Suspirou.
-
-— Tá.
-— Mas se isso der errado... eu fujo. De novo.
-
-— E se der certo? — perguntou Valen.
-
-Runner deu de ombros.
-
-— Aí talvez eu fique.
-
-Valen estendeu a mão.
-
+#Capítulo 7 – A Sombra no Cais e o Peso do Sim
+O bilhete trazia apenas duas palavras, escritas à pressa e com a tinta levemente borrada pela umidade do porto: “Ainda não.”
+Mas para Valen, isso bastava. Num mundo onde a sobrevivência exigia decisões em frações de segundo, "não agora" era infinitamente melhor do que "nunca". E o rastro deixado de forma tão intencional, por menor que fosse, era uma fresta escancarada na armadura de um garoto que passara a vida inteira a fugir.
+Gilbert segurava o pequeno pedaço de papel entre o polegar e o indicador, os olhos semicerrados por trás das lentes grossas dos óculos, como um erudito a analisar a pista de um crime incompleto.
+— É quase um poema — comentou o navegador, a voz seca e desprovida de qualquer romance.
+— É quase um sim — retrucou Valen, virando as costas para a escada da taverna.
+Dois dias se passaram. A ordem de Valen fora clara: não haveria caçada. Se o garoto fosse pressionado, o instinto de rato de rua o faria desaparecer pelos túneis da cidade para nunca mais ser visto. A paciência seria a armadilha.
+Nesse ínterim, eles precisavam de um lugar para ancorar. Ficar no quarto de Gilbert no Gancho Cego ou circular abertamente por Kaelyndor atrairia a atenção indesejada das patrulhas de Sulheim, que já farejavam o sangue derramado. A solução veio da mente cartográfica de Gilbert. Ele conhecia um lugar seguro. Um antigo bar clandestino chamado A Garça Quebrada, localizado na borda extrema do cais leste. O edifício havia sido interditado e condenado pela coroa anos antes, pois metade de suas palafitas já havia cedido à maré, deixando o piso inclinado e a estrutura parcialmente submersa quando a água subia. Para o império, era um amontoado de madeira apodrecida prestes a ruir; para a recém-nascida tripulação da Coruja Eclipse, era a fortaleza furtiva perfeita.
+E foi justamente por não o procurarem que, na terceira manhã, Runner apareceu. E ele estava sozinho.
+O som dos passos do garoto no convés de madeira inclinada do bar abandonado foi leve, porém decidido. Ele não se esgueirou pelas sombras, nem tentou entrar por uma janela destrancada. Não se anunciou. Apenas empurrou a porta emperrada e entrou, com a luz cinzenta do amanhecer a delinear a sua silhueta esguia.
+— Vocês são piores do que eu pensava — disse Runner, encostando-se na ombreira da porta e cruzando os braços. A sua voz carregava uma frustração genuína que beirava a confusão. — Dois dias inteiros sem me seguir? Comecei a achar que vocês tinham desistido e afundado em algum buraco.
+Gilbert, que estava debruçado sobre uma mesa coberta de poeira e mapas navais, sequer levantou os olhos. Apenas virou a página do seu grimório com a maior naturalidade do mundo.
+— Ignorar é a primeira lição de quem quer fazer alguém pensar por conta própria, garoto — respondeu o navegador, sem alterar o tom de voz.
+Valen permaneceu sentado num barril virado. Ele cruzou os braços devagar, a prótese de ferro emitindo um clique suave no silêncio do lugar.
+— E você pensou? — perguntou o Capitão.
+Runner avançou até o centro da sala. O piso rangeu sob as suas botas. Os seus olhos âmbar, que no mercado flutuante ardiam com uma provocação caótica, agora estavam mais calmos. Mais focados. Mas, de forma alguma, mansos. Havia uma revolta contida ali. Ele detestava o fato de que a ausência de uma perseguição o tivesse atraído. Aquela indiferença calculada quebrava todas as regras que o mantiveram vivo até então.
+— O que exatamente você quer de mim? — disparou Runner, a voz subindo de tom, exigindo uma resposta que fizesse sentido no seu mundo cruel. — Eu sou um ladrão. Um rato de rua. Eu não sei lutar com espadas gigantes nem tenho dinheiro para investir nos vossos delírios.
+— Quero que entre no meu navio — respondeu Valen, sem hesitar. — Quero que use o que sabe, essa sua capacidade de enxergar as saídas antes mesmo de as portas se fecharem, para viver por algo que não seja apenas você mesmo.
+Runner mordeu o canto do lábio, desviando o olhar para as tábuas molhadas do chão. A vulnerabilidade, um sentimento que ele soterrava habilmente sob o sarcasmo diário, começou a aflorar.
+— E se eu disser que não acredito em capitães? — sussurrou o garoto, a voz embargada pela desconfiança. — Que eu não acredito em propósitos maiores, nem em impérios, nem em navios que prometem algo além de acabar no fundo do oceano com todos a bordo?
+Valen ergueu-se. A sua estatura preencheu o espaço, mas não havia raiva na sua postura. Não havia ameaça. Havia apenas a crua e pesada verdade de quem também já havia perdido tudo.
+— Então você me diz isso — falou Valen, caminhando lentamente até ficar a dois passos do jovem. — Mas diz olhando nos meus olhos.
+Runner hesitou. O garoto que era capaz de roubar as moedas de um soldado de Sulheim sem ser notado sentiu um frio gélido percorrer a espinha. Por algum motivo inexplicável, encarar aquele homem era muito mais difícil do que fugir de uma guarnição inteira. Runner era mestre na arte da evasão, mestre em nunca ser verdadeiramente visto. Mas Valen... Valen via-o. Via através da armadura de deboche e das roupas esfarrapadas, enxergando a alma cansada por baixo.
+Depois de segundos que pareceram pesar toneladas, Runner ergueu o rosto.
+— Eu já fiz muita coisa ruim — a confissão escapou, como uma represa que finalmente cede à pressão da água. A voz dele tremia levemente. — Já corri deixando pessoas para trás quando a guarda chegou. Já roubei de gente que não merecia, de pessoas que tinham menos do que eu. E já fiquei calado nos becos quando podia ter gritado para salvar alguém. Eu não sou um herói.
+— E, ainda assim, você voltou aqui — pontuou Valen, o tom firme, ancorando o garoto.
+— Porque eu não quero fazer isso para sempre — completou Runner, as mãos fechando-se em punhos ao lado do corpo, os olhos âmbar brilhando com uma sinceridade cortante. — Mas eu não sei se sei fazer outra coisa. O mundo não me ensinou mais nada.
+Valen deu um passo à frente, diminuindo a última barreira entre eles.
+— Ninguém nasce a fazer parte de uma tripulação, Runner. E ninguém nasce capitão, nem navegador. A gente transforma-se nisso no meio da tempestade. Você só precisa escolher se quer continuar a correr da chuva ou se quer aprender a navegar nela.
+Gilbert suspirou alto, fechando o grimório com um estrondo abafado. Ele finalmente virou-se para encarar a cena.
+— E, francamente, garoto, você já parece ter naufragado umas três vidas antes desta. Um barco de verdade pode ser uma mudança incrivelmente refrescante no seu currículo de desastres.
+Runner olhou para os dois. Havia uma dinâmica bizarra ali, uma segurança absurda que ele nunca experimentara nas ruas de Kaelyndor. Ele soltou o ar que prendia nos pulmões, deixando os ombros relaxarem. A bravata de rato de rua caiu por terra.
+— Tá — murmurou Runner, passando a mão nervosamente pelos cabelos. Ele olhou para Valen, os olhos assumindo uma seriedade rara e vital. — Mas se isso der errado... se o barco afundar ou se a coisa ficar feia de verdade... eu fujo. De novo. E não olho para trás.
+— E se der certo? — perguntou Valen, um leve sorriso desafiador a desenhar-se nos seus lábios.
+Runner deu de ombros, o sarcasmo natural a retornar à sua voz, mas desta vez acompanhado de um brilho inegável de esperança.
+— Aí, talvez, eu fique para ver o fim da história.
+Valen estendeu a mão direita, a mão de carne.
 — Bem-vindo à Coruja Eclipse.
-
-Runner olhou para ela.
-E apertou.
-Pela primeira vez sem tentar pegar nada.
-
-
-Horas depois, sentaram-se os três no parapeito do cais de Kaelyndor, observando os navios indo e vindo.
-Runner contou histórias desconexas de infância, de um irmão que sumiu, de um homem que tentou adotá-lo e foi preso. Contou da primeira vez que fugiu, aos oito, e da última, aos dezesseis. Contou tudo sem emoção.
-
-Valen ouviu sem interromper. Gilbert corrigia detalhes geográficos das histórias, o que irritava Runner — mas só um pouco.
-
-Quando o sol se pôs, já riam.
-Baixo, mas sinceramente.
-
+Runner olhou para a mão calejada do Capitão. Foram necessários apenas alguns instantes de hesitação antes que ele a segurasse com firmeza. Ele apertou-a. E, pela primeira vez na sua vida de abandono e furtos, apertou uma mão sem tentar tirar nada dela.
+Horas depois, o peso tenso do recrutamento deu lugar a uma camaradagem incipiente. Sentaram-se os três no parapeito de pedra do cais de Kaelyndor, com as pernas a balançar sobre as águas agitadas, observando os grandes navios de carga que partiam e chegavam sob o céu enevoado do império.
+O ambiente era leve, quebrado pelo som das gaivotas e pelo marulhar escuro. Runner, agora relaxado e sentindo-se genuinamente parte de algo, contou histórias desconexas da sua infância. Falou de um irmão mais velho que sumira misteriosamente nas rotas de comércio do norte, de um velho sapateiro que tentou adotá-lo mas acabou preso por dívidas de jogo. Contou sobre a primeira vez que precisou de fugir dos guardas, aos oito anos, correndo descalço pelas pedras escorregadias, e da última, aos dezesseis, quando saltou de um telhado altíssimo para escapar aos cães de Sulheim. Contou tudo isso sem lágrimas ou emoção, como quem narra o roteiro de uma peça que já viu encenada dezenas de vezes.
+Valen ouvia-o em silêncio, o olhar voltado para o horizonte, absorvendo as dores do garoto e compreendendo a bússola moral avariada, mas funcional, que o guiava.
+Gilbert, no entanto, não conseguia desligar a sua mente clínica.
+— Você pulou para o teto da Alfândega Leste? Isso é geograficamente absurdo — interrompeu o navegador, ajustando os óculos e apontando na direção dos distritos burgueses. — A distância entre o teto do mercado de peixes e a Alfândega é de exatos nove metros. A física humana não permite esse salto, a menos que você estivesse ancorado a um cabo de estibordo.
+— Eu pulei, seu velho rabugento! — protestou Runner, atirando uma pedrinha à água, visivelmente ofendido com a interrupção. — A maré estava alta e havia um toldo espesso no meio do caminho. Eu simplesmente caí no toldo, rasguei a lona e rolei.
+— O que ainda não explica a trajetória da queda considerando os ventos costeiros vindos do norte...
+— Gilbert, deixe o garoto ter o seu momento de glória — interveio Valen, um sorriso honesto a quebrar a rigidez do seu rosto.
+Runner balançou a cabeça, rindo baixinho da implicância do navegador. Quando o sol finalmente começou a pôr-se, mergulhando o cais num tom laranja doentio e acinzentado, eles riram. Baixo, sem fazer alarde, mas com uma sinceridade calorosa que há muito estava ausente nas suas vidas.
 Era o começo de algo.
-
-Algo que corria — e desta vez, em direção a algo.
-
-
-—
-
-#Capítulo 6 – A Força dos Silêncios
-
-
-
-Valen caminhava à frente, mãos nos bolsos, cabeça levemente abaixada. Gilbert vinha ao lado, silencioso, lendo mentalmente as estrelas que começavam a aparecer. Runner, alguns passos atrás, equilibrava uma pedra pequena na ponta do dedo.
-
-— Esse silêncio é confortável velho? — perguntou o garoto.
-
-— É o tipo de silêncio que os tolos preenchem com perguntas. — respondeu Gilbert.
-
-— E os sábios? — rebateu Runner.
-
-Valen parou em frente a uma bifurcação. À esquerda, o som de música baixa e lanternas dançando ao vento. À direita, o som abafado de gritos e impacto — algo subterrâneo, clandestino.
-
-Ele olhou para a direita.
-
+Algo que passara a vida inteira a correr — e que, desta vez, corria na direção de algo que realmente valia a pena.
+#Capítulo 8 – A Força dos Silêncios
+A noite em Kaelyndor não caía; ela desabava sobre a cidade como um manto úmido e asfixiante. A névoa salgada rastejava por entre os paralelepípedos, engolindo os passos daqueles que preferiam as sombras à luz dos lampiões a óleo.
+Valen caminhava à frente. Mantinha as mãos nos bolsos do casaco pesado, a cabeça levemente abaixada contra a garoa fina que começava a despontar. Gilbert vinha logo ao seu lado, imerso em um silêncio absoluto. O navegador caminhava com o olhar erguido, lendo mentalmente as estrelas que lutavam para perfurar o céu poluído pelas chaminés industriais, calculando rotas e marés invisíveis.
+Alguns passos atrás, Runner tentava lidar com a quietude da única forma que conhecia: com inquietação. O jovem ladrão equilibrava uma pequena pedra na ponta do dedo indicador, atirando-a para o ar e apanhando-a repetidas vezes.
+— Esse silêncio é confortável para você, velho? — perguntou o garoto, a voz ecoando levemente nas paredes estreitas do beco.
+Gilbert não parou de andar, nem desviou o rosto das constelações difusas.
+— É o tipo de silêncio que os tolos preenchem com perguntas infantis — respondeu o navegador, o tom polido e afiado como uma navalha de barbear.
+Runner girou a pedra no ar mais uma vez e abriu um sorriso provocador.
+— E os sábios? O que os sábios fazem com o silêncio? — rebateu o garoto.
+Antes que Gilbert pudesse proferir outra resposta ácida, Valen estacou.
+Eles haviam chegado a uma bifurcação. O vento encanado trazia dois mundos completamente distintos para o cruzamento. À esquerda, as vielas alargavam-se e o brilho alaranjado das lanternas dançava ao vento. Podia-se ouvir o som de uma música baixa, risadas femininas e o tilintar de canecas de vidro — o porto seguro onde os marinheiros iam para esquecer o mar e deixar o seu ouro.
+À direita, o caminho estreitava-se numa descida íngreme e mal iluminada. Dali não vinha música, mas sim o som abafado de gritos ásperos, o urro de apostas e o ruído inconfundível de carne a colidir contra carne. Era algo subterrâneo. Clandestino.
+Valen não hesitou. Virou os ombros para a direita.
 — Vamos por aqui.
-
-— Parece lugar bom pra morrer. — comentou Runner.
-
-— Por isso é bom pra observar quem sobrevive. — disse Valen.
-
-
-Descendo uma escadaria oculta entre duas construções velhas, chegaram a um corredor úmido, onde paredes descascadas carregavam inscrições antigas apagadas com fuligem. Mais adiante, uma porta com dois guardas, que nem perguntaram nada ao verem Valen. Um deles apenas bateu no ombro do outro.
-
-— Deixa. Esse não paga pra ver luta. Ele entra pra ver gente.
-
-O ambiente mudou assim que atravessaram a porta. O ar era grosso, tenso. Gritos abafados misturavam-se com o som seco de carne contra carne.
-
-Estavam no Subnível de Kael’Taran — o ringue clandestino mais antigo da cidade.
-
-— Eu gosto disso. — murmurou Runner, sorrindo com os olhos.
-
-— Você gosta de problema. — corrigiu Gilbert.
-
-Caminharam pelas arquibancadas improvisadas até acharem um canto de sombra. A multidão era uma mistura de bêbados, apostadores, lutadores e outros tipos que sabiam ferir por dinheiro ou prazer.
-
-Valen ficou parado, apenas observando. O ringue estava vazio. Mas algo no ar indicava que a próxima luta se aproximava.
-
-E então ela entrou.
-
+Runner espiou a descida escura, ajeitando o colete. O instinto de rua do garoto apitou.
+— Parece um lugar perfeito para se morrer num dia de semana — comentou Runner, com um meio sorriso que tentava disfarçar a tensão.
+— É por isso que é o lugar perfeito para observar quem sobrevive — disse Valen, iniciando a descida. — Um navio que pretende cruzar o inferno não precisa de quem sabe celebrar. Precisa de quem se recusa a morrer.
+A escadaria era oculta entre as fundações de duas construções de pedra que pareciam prestes a desmoronar uma sobre a outra. À medida que desciam, o ar tornava-se cada vez mais rarefeito e quente. As paredes, descascadas pela umidade eterna, carregavam inscrições e runas de proteção antigas, agora quase que totalmente apagadas pela fuligem e pelo tempo.
+No final dos degraus, uma pesada porta de ferro forjado barrava o caminho. Dois guardas que mais pareciam montanhas de músculos e cicatrizes cruzaram as lanças assim que viram os três forasteiros.
+No entanto, quando a luz trêmula da tocha mais próxima iluminou o rosto de Valen e refletiu-se nas engrenagens silenciosas do seu braço mecânico, a postura dos guardas mudou. O maior deles franziu a testa, reconhecendo o fantasma que o porto inteiro jurava ter morrido no mar.
+Ele recuou a sua arma e bateu no ombro do companheiro.
+— Deixa passar — murmurou o guarda, com a voz grave e respeitosa. — Esse não paga para ver a luta. Ele entra para ver as pessoas.
+A porta de ferro rangeu ao ser empurrada. O ambiente mudou drasticamente assim que cruzaram a soleira.
+O ar lá dentro era espesso, quase mastigável, saturado pelo cheiro de suor velho, cobre e cerveja azeda. Gritos abafados e apostas frenéticas misturavam-se com o baque seco de ossos a serem testados até ao limite. O teto era sustentado por pilares de pedra bruta, e o calor humano fazia as paredes transpirarem.
+Estavam no Subnível de Kael’Taran — o ringue clandestino mais antigo e impiedoso da cidade. Um lugar onde a lei de Kaelyndor não tinha jurisdição e a sobrevivência era a única moeda de troca que importava.
+Runner esticou o pescoço para ver por cima da multidão, os olhos âmbar a brilharem com a energia frenética do lugar.
+— Eu gosto disto — murmurou o garoto, o sorriso a alargar-se. O perigo era a linguagem nativa dele.
+— Você gosta é de problemas — corrigiu Gilbert, ajeitando os óculos com uma expressão de puro desgosto enquanto desviava de um bêbado que cambaleava na direção deles.
+Caminharam pelas arquibancadas de madeira improvisadas até encontrarem um recuo nas sombras, ligeiramente elevado em relação ao fosso de combate. A multidão ao redor era uma mistura repulsiva e fascinante de marinheiros falidos, apostadores aristocratas em busca de diversão suja, lutadores arruinados e mercenários que sabiam ferir por dinheiro ou por puro prazer sádico.
+Valen permaneceu de pé no escuro, com os braços cruzados, apenas a observar.
+O ringue de terra batida, cercado por correntes grossas, estava momentaneamente vazio. Um corpo recém-nocauteado estava sendo arrastado para fora pelos calcanhares. Mas a energia no ar mudou repentinamente. O burburinho caótico das apostas começou a morrer, substituído por uma expectativa silenciosa. Algo estava prestes a acontecer.
+E então, ela entrou.
 Mina.
-
-Não foi anunciada. Nem precisava.
-
-Os sons ao redor caíram de volume de forma espontânea. Como se o próprio ambiente respeitasse sua entrada.
-
-Cabelos ruivos longos, presos apenas nas pontas. Ombros marcados por tatuagens tribais. Top rasgado. Calças reforçadas. Um corpo que não era moldado para beleza — mas para impacto.
-
-Ela se aqueceu com movimentos simples. Não olhou pra ninguém. Mas todos olharam pra ela.
-
-Runner se endireitou.
-
-— Ok... quem é ela?
-
-Valen não respondeu. Apenas observou.
-
-Mina entrou no círculo de combate. Seu oponente já estava lá — um brutamontes tatuado até os olhos, com as mãos envoltas em corrente leve.
-
-O juiz improvisado apenas disse:
+Ela não foi anunciada por nenhum mediador. Não houve gritos exaltando o seu nome ou o seu cartel de vitórias. Ela não precisava disso. Os sons ao redor do ringue caíram de volume de forma orgânica e espontânea. Era como se a violência intrínseca daquele ambiente a reconhecesse e lhe curvasse a cabeça.
+Valen observou-a com precisão clínica. Ela possuía cabelos ruivos longos, desgrenhados e presos apenas nas pontas com uma tira de couro. Os ombros nus estavam marcados por tatuagens tribais intrincadas que contavam histórias de sobrevivência. Vestia um top escuro rasgado e calças de tecido reforçado, presas por cintos que normalmente carregavam lâminas. O seu corpo não havia sido moldado para a simetria clássica da beleza; havia sido forjado sob pressão, desenhado anatomicamente para o impacto, a velocidade e a letalidade.
+Ela aqueceu-se com movimentos simples e rotineiros no centro do círculo. Rodou os ombros, estalou o pescoço. Não olhou para a plateia. Não sorriu para os apostadores. Mas todos, sem exceção, olhavam para ela.
+Runner endireitou a coluna, perdendo o sorriso irônico, genuinamente impressionado pela aura da mulher.
+— Ok... quem é ela? — perguntou o garoto, num sussurro maravilhado.
+Valen não respondeu. A sua mente tática já estava a analisar o terreno. Ele apenas observou.
+Mina caminhou até a marca de combate. O seu oponente já estava lá à espera, impaciente. Era um brutamontes formidável, com a pele do rosto e do peito coberta por tatuagens de gangues portuárias. As mãos maciças do homem estavam envoltas em correntes leves, projetadas para rasgar a pele a cada soco. Ele parecia ter o dobro do peso dela.
+O juiz improvisado, um homem calvo com uma cicatriz no olho, levantou a mão no centro do ringue e baixou-a num movimento seco.
 — Até alguém cair.
-
-**
-
-A luta foi rápida.
-
-O homem atacou com tudo. Mina esquivou com elegância agressiva. Dois socos. Um chute. Um giro. O adversário caiu sem entender como.
-
-Ela não celebrou.
-Não sorriu.
-Só limpou o suor da testa e saiu pela lateral.
-
-— Eu... — começou Runner.
-
-— Não. — cortou Gilbert.
-
-— Mas eu nem falei nada ainda!
-
-— Já ia elogiar. Percebi no tom da respiração.
-
-Valen, em silêncio, seguiu com os olhos.
-
-Mina passava perto deles. Por um instante, olhou.
-Direto. Para Valen.
-
+A luta foi um espetáculo de pura matemática e brutalidade. Durou pouquíssimos segundos, mas cada um deles foi uma aula de anatomia aplicada.
+O homem urrou e atacou com tudo o que tinha. Ele desferiu um cruzado de direita pesado e largo, projetando todo o seu peso para arrancar a cabeça de Mina.
+Ela não tentou bloquear a força daquela montanha. Em vez disso, esquivou-se com uma elegância agressiva, deslizando por baixo do braço do gigante. Aproveitando o desequilíbrio e a inércia do oponente, Mina girou sobre os calcanhares. Com uma precisão cirúrgica, ela desferiu dois socos rápidos e curtos diretamente na costela flutuante do brutamontes, cortando a respiração dele.
+Antes que o homem pudesse virar-se para revidar, Mina já havia mudado de ângulo. Ela aplicou um chute baixo e devastador diretamente na lateral do joelho dele. O estalo da junta a ceder ecoou pelo subnível. O gigante tombou, e com um giro final e letal, a garota desferiu uma cotovelada na têmpora do adversário no exato momento em que ele caía.
+O corpo maciço colidiu contra a terra batida, completamente apagado. O homem não teve a menor chance de entender o que o havia atingido.
+A plateia estourou em gritos, mas Mina permaneceu a mesma. Ela não celebrou. Não ergueu os braços em vitória. Não abriu um único sorriso. Apenas passou as costas da mão pela testa para limpar uma gota de suor, virou as costas para o homem caído e caminhou em direção à saída lateral do fosso.
+Runner, nas sombras, abriu a boca.
+— Eu... — começou o garoto, a tentar processar a eficiência daquilo.
+— Não — cortou Gilbert imediatamente, prevendo a bobagem que sairia dali.
+— Mas eu nem falei nada ainda! — protestou o jovem ladrão.
+— Já ia elogiar ou fazer alguma piada inoportuna. Percebi na mudança de tom da sua respiração — respondeu o navegador, sem lhe dirigir o olhar.
+Valen, no entanto, manteve-se em absoluto silêncio. Os seus olhos acompanharam o trajeto da ruiva.
+Mina subiu os degraus de madeira da arquibancada, caminhando em direção à saída que cruzava exatamente o corredor onde eles estavam escondidos. Ao passar perto do recuo nas sombras, os passos dela hesitaram por uma fração de segundo.
+Ela virou o rosto. O olhar verde, afiado e carregado de uma frieza de quem não tinha nada a perder, encontrou o de Valen.
+Foi um contato direto. O Capitão não recuou. Ela também não.
 Um segundo.
-
 Dois.
+Eles não falaram. Não havia necessidade. Foi o reconhecimento mudo de duas almas forjadas na violência, pessoas que conheciam intimamente o cheiro da morte e o preço da sobrevivência.
+Sem alterar a expressão, Mina quebrou o contato visual e seguiu o seu caminho para fora do Subnível.
+Runner soltou a respiração.
+— Ela notou você — disse o garoto, olhando de Valen para a porta por onde a mulher havia desaparecido.
+Valen ajustou o casaco sobre os ombros e deu as costas para o ringue, voltando a subir as escadas do inferno clandestino.
+— Eu notei-a antes — respondeu o Capitão, a voz soando como o trovão distante de uma tempestade que se formava.
+Ao deixarem o subnível e voltarem à superfície, a noite de Kaelyndor voltou a envolvê-los com o sal, a fumaça das chaminés e a brisa cortante do mar.
 
-Ela seguiu.
-
-— Ela te notou. — disse Runner.
-
-— Eu notei ela antes. — respondeu Valen.
-
-
-Ao deixarem o subnível, já do lado de fora, a noite os envolvia com sal, fumaça e brisa cortante.
-Ninguém disse nada por um tempo.
-
-Mas todos sabiam.
-
-Eles a tinham visto.
-E ela, a eles.
-
-
-
-#Capítulo 7 – Chamas Não Ditas
-
-Ela sabia que estavam a seguindo.
-
-Não como caçadores — mas como se soubessem que, cedo ou tarde, ela pararia.
-
-Mina caminhava pelos becos de Kaelyndor com os punhos enfaixados ainda sujos de sangue seco, o corpo ainda vibrando da última luta. Mas o que realmente a perturbava era o olhar do homem no ringue. Não de julgamento. Não de luxúria.
-
-Era um olhar que via mais fundo do que ela estava pronta para mostrar.
-
-Ela parou num ponto cego da rua.
-— Podem sair. Eu deixo.
-
-Valen virou primeiro a esquina. Sozinho. Gilbert e Runner ficaram mais atrás.
-
-— Pensei que fosse difícil de te encontrar. — disse ele.
-
-— E eu pensei que você soubesse respeitar espaço.
-
-— Respeito. Só não ignoro o que vale a pena.
-
-Mina cruzou os braços.
-A luz do lampião de rua tremulava no reflexo das tatuagens tribais em seus ombros.
-
-— Vai me convidar pra dançar ou pra morrer?
-
-— Hoje? Só pra conversar.
-— E, se não se importar, tentar entender por que ainda está lutando por nada.
-
-Ela o encarou com olhos verdes firmes.
-Um sorriso surgiu — pequeno, de canto, como se brotasse sozinho.
-
-— Porque socar gente é mais fácil do que confiar nelas.
-
-Valen inclinou levemente a cabeça, curioso.
-
-— Confiança exige escolha. Você ainda não fez nenhuma.
-
-— Talvez porque ninguém valha o risco.
-
-Silêncio.
-
-Valen aproximou-se dois passos. Ficaram frente a frente.
-
-— E se eu disser que quero que você lute por algo maior?
-
-— Você quer mesmo... — disse ela, aproximando-se um pouco mais, o tom baixando — ou só quer mais uma peça bonita pro seu quebra-cabeça?
-
-O olhar dela era direto. Ardente.
-
-Valen sustentou. A voz saiu baixa. Precisa.
-
+Valen sabia que o primeiro passo estava dado. Eles a tinham visto no seu elemento mais puro.
+E ela, com toda a certeza, os havia visto de volta.
+#Capítulo 9 – Chamas Não Ditas
+Mina sabia que eles estavam ali.
+Não os ouvira a pisar nas poças d'água, nem identificara o som de respirações descompassadas às suas costas. Eles não a estavam a seguir farejando os seus passos na lama como caçadores amadores. Valen Draxor era um homem do mar, um navegador acostumado a ler mapas e prever rotas. Ele e os seus companheiros haviam tomado o caminho de volta para a base, sim, mas apenas o suficiente para cortar caminho por entre as vielas decrépitas de Kaelyndor e anteciparem o trajeto dela. Cedo ou tarde, eles sabiam que ela teria de passar por aquele estreitamento para chegar aos cortiços do sul.
+Mina caminhava pelos becos envoltos em névoa salgada, o peito ainda a subir e descer com força. Os seus punhos enfaixados estavam pesados e sujos com o sangue seco do gigante que ela acabara de derrubar. O seu corpo inteiro ainda vibrava com a adrenalina crua da luta, mas a dor muscular era o menor dos seus problemas.
+O que realmente a perturbava era o olhar daquele forasteiro no ringue.
+Ela estava acostumada aos olhares da escória de Kael’Taran. Estava habituada ao julgamento, à luxúria suja, ao medo e ao ódio. Mas os olhos castanhos de Valen não carregavam nada disso. Era um olhar que dissecava, que não via apenas a guerreira ensanguentada, mas que via muito mais fundo do que ela estava pronta para mostrar. Ele vira a solidão. Vira a armadura que ela vestia por dentro.
+Ela parou num ponto cego da rua, onde a escuridão de um beco sem saída encontrava a luz fraca e amarelada de um lampião a óleo que piscava no poste enferrujado.
+— Podem sair. Eu deixo — disse Mina, a voz firme cortando a umidade da noite.
+O som de uma bota pesada raspou na pedra molhada. Valen virou primeiro a esquina. Sozinho. Ele mantinha as mãos nos bolsos do casaco, a postura inabalável. Nas sombras muito mais atrás, fora do alcance da luz, as silhuetas de Gilbert e Runner permaneceram estáticas, respeitando a ordem silenciosa do Capitão de não interferir.
+— Pensei que fosse mais difícil de a encontrar — disse Valen, quebrando o silêncio com uma tranquilidade que irritava o instinto defensivo dela.
+Mina girou os calcanhares para o encarar, cruzando os braços de forma a que as suas mãos ficassem a centímetros das adagas presas ao cinto.
+— E eu pensei que você soubesse respeitar o espaço alheio.
+— Eu respeito — rebateu Valen, dando um passo lento para a luz do lampião. — Só não ignoro o que vale a pena.
+O reflexo amarelado da chama trémula dançou sobre os ombros nus de Mina, iluminando os traços duros das suas tatuagens tribais. Ela avaliou o homem à sua frente, medindo a largura dos ombros, a frieza do olhar e a quietude letal daquele braço de metal.
+— Vai me convidar para dançar ou para morrer? — ironizou Mina, o tom carregado de um desafio ácido.
+— Hoje? Só para conversar — respondeu Valen, sem se deixar morder pela provocação. — E, se não se importar, tentar entender o motivo pelo qual você ainda está a lutar por nada num buraco que não tem nada para lhe oferecer.
+Ela encarou-o com os seus olhos verdes, afiados como vidro partido. A ousadia daquele homem era fascinante. Um sorriso surgiu nos lábios de Mina — pequeno, de canto, como se brotasse sozinho contra a sua vontade.
+— Porque socar pessoas na cara é infinitamente mais fácil do que confiar nelas — devolveu ela, a amargura da sua vida nas ruas condensada numa única frase.
+Valen não sorriu, mas inclinou levemente a cabeça, demonstrando uma curiosidade genuína. Ele conhecia aquela dor.
+— A confiança exige escolha, Mina. Você simplesmente ainda não fez nenhuma.
+— Talvez porque ninguém neste mundo miserável valha o risco de uma escolha.
+O silêncio estendeu-se entre os dois, denso e permeado pelo som da chuva fina a cair nos telhados de zinco ao redor. Valen encurtou a distância. Ele aproximou-se mais dois passos, entrando de vez no espaço pessoal dela, até ficarem frente a frente.
+— E se eu lhe disser que quero que você lute por algo muito maior do que apostas clandestinas?
+A respiração de Mina falhou por uma fração de segundo. A proximidade permitia-lhe sentir o cheiro de sal e fumaça que impregnava o casaco dele. Ela deu um meio passo para a frente, diminuindo ainda mais o espaço, testando os limites do forasteiro, o tom de voz baixando para um sussurro que era tanto uma ameaça quanto uma súplica.
+— Você quer isso mesmo... — murmurou ela, com o olhar cravado no dele — ou só quer mais uma peça bonita para colocar no seu quebra-cabeças quebrado?
+O olhar de Mina era direto. Ardente. Despido de disfarces.
+Valen sustentou o contato visual. A voz do Capitão saiu baixa, não como uma ordem militar, mas como a mais pura e absoluta verdade que ela ouvira em anos.
 — Eu quero você na minha tripulação. Com tudo o que você é.
-
-Os olhos de Mina cintilaram.
-Ela sorriu de novo. Mas dessa vez, mais lento. Quase desafiador.
-
-— Você é bom com palavras, Capitão.
-— Mas não sei se gosto mais do homem ou do papel que ele finge ser.
-
-— Eu não finjo. Eu comando. — respondeu, direto.
-
-Foi quando o som de passos pesados invadiu o beco.
-
-Cinco homens. Capuzes vermelhos. Um deles mastigava uma corda com moedas penduradas.
-
-— Mina…
-— Chegou a hora de pagar.
-
-Ela girou o corpo, o olhar mudando em segundos.
-
-— Estava demorando.
-
-Valen analisou a cena com frieza.
-— Amigos seus?
-
-— Dívidas. Antigas.
-
+Os olhos de Mina cintilaram sob a luz fraca. O impacto daquelas palavras atingiu-a num lugar que ela havia trancado a sete chaves. Ela sorriu de novo, mas desta vez, a expressão foi mais lenta, calculada, desafiadora.
+— Você é muito bom com as palavras, Capitão — disse ela. — Mas não sei se gosto mais do homem que estou a ver, ou do papel que ele finge ser.
+— Eu não finjo. Eu comando — respondeu Valen, o peso da sua autoridade natural a encerrar o argumento.
+Antes que ela pudesse retrucar, o som áspero de botas pesadas e o tilintar de correntes arrastadas invadiram a entrada do beco.
+Mina não precisou virar-se imediatamente para saber o que era. O arremate final daquele ambiente putrefato acabara de chegar.
+Cinco homens fecharam a saída da rua. Eles vestiam mantos sujos, mas todos usavam capuzes tingidos num vermelho encardido. Eram os cobradores de Kaelyndor, o tipo de escória que vivia de extorsão e agiotagem. O líder do grupo, um homem atarracado com o rosto coberto de cicatrizes de varíola, mastigava uma corda curta de couro onde dezenas de moedas de prata e dentes estavam penduradas.
+— Mina... — rosnou o líder, cuspindo no chão. — A sua cota de fugas esgotou-se. Chegou a hora de pagar as suas taxas atrasadas. Com ouro ou com carne.
+Ela girou o corpo lentamente. Toda a vulnerabilidade que Valen havia exposto segundos antes evaporou. Os seus olhos mudaram; o verde tornou-se opaco, e a postura assumiu a letalidade de uma víbora.
+— Estava a demorar — resmungou ela, estalando o pescoço.
+Valen não recuou, nem demonstrou surpresa. Analisou a cena com uma frieza inabalável.
+— Amigos seus? — perguntou ele, casualmente.
+— Dívidas. Muito antigas.
 — Quer que eu saia?
-
-— Quero que assista. — disse ela, tirando as ataduras do bolso.
-
-O primeiro homem veio com uma corrente. Ela o chutou antes de ele respirar.
-
-O segundo tentou agarrá-la. Levou o joelho no queixo.
-
-Mas quando o terceiro sacou uma lâmina e o quarto cercou pelas costas, Valen entrou em ação.
-
-Com o braço metálico, segurou a lâmina em pleno ar, girou o corpo e o arremessou contra o que vinha por trás.
-
-A luta foi rápida. Mas suja.
-
-Gilbert e Runner chegaram a tempo de ver o último capuz vermelho sendo jogado num monte de caixas.
-
-Mina respirava ofegante, sangue no lábio.
-Valen também.
-Ambos parados.
-Ambos olhando.
-
-Ela limpou a boca.
-— Você luta bem.
-
-— Você também.
-
-Ela hesitou.
-
-— Não vou dizer obrigada.
-
-— Não quero que diga. Quero que decida.
-
-Silêncio de novo.
-
-Ela passou por ele devagar, roçando o ombro com o dele.
-Virou-se no fim do beco, ainda andando de costas.
-
-— Capitão...
-— Me encontra no porto, amanhã ao amanhecer.
-— Se eu não for… esquece que me conheceu.
-
-E sumiu na neblina das docas como quem escolhe desaparecer antes de se permitir ficar.
-
-
-#Capítulo 8 – O Porto e o Silêncio
-
-O amanhecer de Kaelyndor era pálido e úmido, como se o próprio sol hesitasse em se levantar sobre aquela cidade.
-
-O cais estava silencioso.
-
-Pescadores arrumavam redes em silêncio. Navios antigos rangiam, presos à madeira molhada das docas. A Coruja Eclipse ainda não existia como navio — mas a ideia dela já era real demais para ser ignorada.
-
-Valen Draxor estava parado sobre uma pilha de cordas. Braços cruzados. Olhos voltados para o nevoeiro do mar. Gilbert, a alguns passos, rabiscava cálculos em um pedaço de couro seco. Runner sentava no parapeito, balançando as pernas, fingindo que não estava impaciente.
-
-— Não vai falar nada? — perguntou o garoto.
-
-Valen permaneceu em silêncio.
-
-— Já passou da hora. Ela não vem.
-— Gente assim não aceita convite. Aceita luta. E a dela já passou.
-
-Gilbert interrompeu.
-— Ou talvez gente assim precise de silêncio pra decidir.
-
-O tempo escorria devagar.
-
-Uma gaivota gritou ao longe. Um barco menor passou, cheio de cestos de crustáceos. Um velho tossiu. Valen não se moveu.
-
-E então, passos.
-Do lado oposto da plataforma.
-
-Primeiro lentos.
-Depois firmes.
-
+— Quero que você assista — sentenciou ela.
+Mina enfiou as mãos nos bolsos e tirou as pesadas ataduras encharcadas de suor, deixando que as tiras de pano caíssem no chão de pedra.
+O primeiro Capuz Vermelho não esperou. Ele avançou balançando uma corrente com um peso de chumbo na ponta. Antes mesmo que ele pudesse completar o giro do braço, Mina impulsionou-se para a frente. Com uma velocidade assustadora, ela interceptou a investida deslizando sob a corrente e desferiu um chute frontal brutal que atingiu a traqueia do homem antes que ele pudesse respirar. O mercenário caiu a debater-se no chão.
+O segundo tentou agarrá-la pelos cabelos. Mina girou sobre o próprio eixo, usou o ímpeto do agressor e cravou o joelho diretamente no queixo dele, um golpe que ecoou com o som de osso a partir-se.
+Mas o submundo de Kaelyndor não lutava com honra. Enquanto ela neutralizava o segundo homem, o terceiro mercenário sacou uma lâmina curva e serrilhada, atacando pela direita, ao mesmo tempo que o quarto homem a flanqueava pelas costas com uma maça de ferro.
+Mina estava encurralada. A esquiva era impossível.
+Valen entrou em ação.
+Com um avanço que ignorou o peso do seu casaco molhado, o Capitão atirou-se na linha de ataque. O mercenário da lâmina desceu o braço para apunhalar Mina nas costelas, mas Valen interpôs-se. Com um movimento seco, ele usou o braço de ferro para agarrar a lâmina em pleno ar. O aço inimigo chocou-se contra as juntas de metal do Capitão num estrépito metálico que fez saltar faíscas. A lâmina parou, presa como se tivesse batido numa rocha.
+O mercenário arregalou os olhos. Valen não hesitou; girou o corpo, utilizando a alavanca do braço mecânico para torcer o pulso do homem, arrancando-o do chão e arremessando-o como um saco de areia diretamente contra o capanga que vinha por trás. Os dois colidiram violentamente contra a parede de tijolos e desabaram no lodo do beco.
+A luta foi absurdamente rápida. E terrivelmente suja.
+Das sombras do final da rua, Gilbert e Runner finalmente chegaram, apenas a tempo de ver o último Capuz Vermelho, o líder, sendo erguido pelos colarinhos por Valen e atirado sem qualquer cerimónia contra uma pilha de caixotes apodrecidos, onde ficou inconsciente.
+O beco voltou a ficar silencioso, exceto pelo som da chuva miúda.
+Mina respirava de forma ofegante, com os punhos cerrados. O seu lábio inferior havia estourado durante a altercação, e um filete de sangue vivo escorria-lhe pelo queixo. Valen estava a poucos passos dela, a respiração ligeiramente acelerada, o punho mecânico ainda fechado em posição de defesa.
+Ambos ficaram parados. Ambos a olharem-se no meio dos corpos caídos. O ar entre eles estava carregado com algo que não era raiva, mas um respeito profundo e violento.
+Ela levou as costas da mão à boca, limpando o sangue com desdém.
+— Você luta bem — disse Mina, a voz um pouco rouca pela adrenalina.
+— Você também — respondeu Valen.
+Ela baixou os braços. A resistência dela estava a ceder. A solidão das ruas repentinamente pareceu-lhe mais pesada do que o apoio que aquele homem oferecia.
+Ela hesitou por um momento, olhando para as próprias mãos e depois para o rosto inabalável do Capitão.
+— Eu não vou dizer obrigada.
+Valen descruzou a guarda e ajeitou o colarinho do casaco.
+— Eu não quero que diga. Eu quero que decida.
+Mais um silêncio. Um que não precisava de ser preenchido por palavras inúteis.
+Mina caminhou na direção de Valen. Passou por ele devagar, o seu ombro a roçar levemente no braço dele num contato que carregava todo o peso de uma resposta que ela não conseguia verbalizar. Ela andou até ao final do beco e, sem parar os seus passos de costas para ele, virou parcialmente o rosto.
+— Capitão... — a voz dela soou clara no escuro. — Encontre-me no porto, amanhã ao amanhecer.
+Ela parou, sustentando o olhar por um último segundo.
+— Se eu não for... esqueça que me conheceu.
+Mina virou-se e continuou a caminhar, sumindo na neblina densa das docas, como quem escolhe desaparecer por uma noite inteira, apenas para testar se tem coragem de se permitir ficar.
+#Capítulo 10 – O Frio das Docas e o Acordo de Lâminas
+O amanhecer em Kaelyndor não tinha a decência de ser reconfortante. Ele nascia pálido e úmido, um cinza doentio que se arrastava pela linha do horizonte, como se o próprio sol hesitasse em levantar-se e iluminar a miséria daquela cidade.
+O cais, no entanto, já havia despertado há muito tempo. A vida nas docas não respeitava o cansaço. Ao redor do recuo onde o grupo aguardava, pescadores com rostos curtidos pelo salitre e mãos cheias de calos preparavam as suas redes em silêncio. O cheiro era uma mistura densa de maresia, escamas velhas e alcatrão. Navios de carga antigos rangiam contra as estacas de madeira apodrecida, embalados pela maré pesada, enquanto carroças puxadas por bestas de carga começavam a transportar os primeiros barris de óleo de baleia.
+A Coruja Eclipse ainda não existia fisicamente — não havia madeira, velas ou leme. Mas, de alguma forma, entre aqueles três homens que esperavam no frio, a ideia dela já era real demais para ser ignorada.
+Valen Draxor estava parado sobre uma pilha de cordas navais grossas. Mantinha os braços cruzados sob o casaco pesado, os olhos castanhos voltados para o nevoeiro espesso que cobria o mar. Ele não tremia, não se movia para espantar o frio. Parecia ter lançado âncora na própria paciência.
+Gilbert, a alguns passos de distância, havia encontrado um caixote razoavelmente seco. O navegador ignorava a umidade que embaçava os seus óculos e rabiscava cálculos furiosamente num pedaço de couro seco, usando um toco de carvão.
+— Se considerarmos uma tripulação mínima de cinco pessoas, precisaremos de pelo menos doze barris de água potável e rações salgadas para três semanas — murmurava Gilbert para si mesmo, o cenho franzido. — O problema é que comprar essa quantidade de suprimentos no mercado negro de Kaelyndor vai inflacionar o preço em quarenta por cento. E nós não temos um porão para armazenar isso, porque nós não temos um navio. Um detalhe logístico irritante.
+Runner, por sua vez, não tinha a disciplina de Valen nem a mente ocupada de Gilbert. O jovem ladrão estava sentado no parapeito de pedra da doca, com as pernas balançando sobre a água escura. Ele esfregava os braços finos, tentando gerar algum calor contra o vento cortante da manhã.
+— Quem é que marca um encontro antes de o sol nascer? — resmungou Runner, batendo os calcanhares contra a pedra. Ele olhou para um pescador que passava a carregar um cesto de caranguejos e suspirou. — Eu estou congelando, estou com fome e acho que vi um rato do tamanho de um cachorro passar por baixo do caixote do velho ali.
+— O "velho" ouviu isso, garoto — rebateu Gilbert, sem levantar os olhos do seu pergaminho. — E marcamos um encontro a esta hora porque é o momento exato em que a troca de guarda de Sulheim acontece. Os soldados estão cansados, com frio e com pressa de voltar para os quartéis. É a nossa janela de invisibilidade.
+Runner bufou, pegando uma lasca de madeira do chão e atirando-a à água.
+— Invisibilidade não enche a barriga. E, falando nisso... — O garoto olhou para as costas de Valen. — Você não vai falar nada, Capitão?
+Valen permaneceu em silêncio, os olhos fixos na névoa.
+— Já passou da hora — insistiu Runner, saltando do parapeito e caminhando até ficar no campo de visão de Valen. O garoto cruzou os braços, assumindo um ar de quem conhecia bem as ruas. — Ela não vem. Gente como nós não aceita convites educados num beco escuro. Gente assim aceita luta, aceita dinheiro. O momento de tensão dela já passou. A adrenalina baixou, ela deve ter ido para casa e percebido que seguir um homem com um braço de ferro para o meio do oceano é uma ideia suicida.
+Gilbert parou de escrever. Ele limpou a fuligem do carvão nos dedos e olhou para o jovem ladrão.
+— Ou talvez, Runner, gente assim precise de um pouco de silêncio para decidir se vale a pena abandonar a única vida que conhece — interrompeu o navegador, a voz polida carregando um peso de compreensão. — A rua ensina-vos a fugir. Mas ficar... ficar exige muito mais coragem.
+O tempo continuou a escorrer devagar, indiferente à ansiedade deles.
+Uma gaivota grasnou solitária no alto de um mastro próximo. Um barco menor passou pelo canal, com os remos a bater na água de forma ritmada, cheio de cestos de crustáceos. O pescador tossiu, um som gutural e doente, e seguiu o seu rumo. Valen continuou sem se mover.
+E então, o som de passos cortou a sinfonia rústica do cais.
+Vinham do lado oposto da plataforma de madeira. Primeiro, soaram lentos e arrastados pela névoa. Depois, tornaram-se firmes, rítmicos, sem qualquer hesitação.
+A silhueta desvencilhou-se da bruma.
 Mina.
-
-O cabelo ruivo preso em nó baixo. Ombros descobertos. Mochila de couro no ombro. Olhos verdes firmes. Nenhum sorriso. Nenhuma palavra.
-
-Apenas parou diante deles.
-Olhou para Valen. Depois para os outros dois. Por fim, voltou ao capitão.
-
-— Tive um sonho. — disse ela.
-
-Valen arqueou levemente a sobrancelha.
-
-— Que tipo?
-
-— Que eu entrava num navio errado... e acabava jogando o capitão no mar.
-
-Runner riu.
-
-— Isso não é sonho. É spoiler.
-
-Mina ignorou.
-Virou o rosto para o mar.
-
-— Mas, por alguma razão... não era esse o capitão.
-
-Valen deu um passo à frente.
-Não estendeu a mão. Não falou em convite.
-Apenas disse:
-
+O cabelo ruivo, geralmente solto e revolto, estava bem preso num nó baixo na nuca. Ela não usava a capa esfarrapada da noite anterior; os seus ombros marcados por tatuagens tribais estavam expostos ao frio, como se ela não o sentisse. Trazia uma mochila de couro pesada pendurada num dos ombros, as fivelas gastas pelo uso. Os olhos verdes estavam firmes, cravados diretamente no grupo. Não havia sorriso no seu rosto. Não havia sequer uma palavra de cumprimento.
+Ela parou diante deles, a uma distância segura e calculada. Olhou para o equipamento escasso de Gilbert, para a postura inquieta de Runner e, por fim, os seus olhos subiram para encontrar os de Valen.
+O silêncio do porto pareceu curvar-se à presença dela.
+— Tive um sonho — disse Mina, a voz rouca cortando a friagem da manhã, soando mais como uma confissão forçada do que como uma saudação.
+Valen não mudou a postura, mas arqueou levemente a sobrancelha esquerda.
+— Que tipo de sonho? — perguntou o Capitão.
+— Sonhei que entrava num navio errado... e acabava jogando o capitão no mar para não afundar com ele.
+Runner não conseguiu segurar. Ele soltou uma risada genuína e ruidosa, quebrando a tensão acumulada naquelas horas de espera.
+— Isso não é um sonho, ruiva. Isso é um spoiler — brincou o garoto, recebendo um olhar de reprovação de Gilbert.
+Mina ignorou o ladrão completamente. Ela virou o rosto para o mar, observando as águas escuras que batiam contra as pedras do quebra-mar. O seu peito subiu e desceu num suspiro lento.
+— Mas, por alguma razão... — continuou ela, a voz amolecendo uma fração imperceptível — não era esse o capitão que eu empurrava.
+Valen descruzou os braços e deu um passo à frente. Ele não estendeu a mão. Não fez um discurso grandioso sobre lealdade, nem repetiu o convite que havia feito no beco. Ele sabia exatamente o que ela precisava ouvir para selar aquele acordo torto.
+Apenas a olhou nos olhos e disse:
 — Bem-vinda.
-
-Ela assentiu, devagar.
-
-— Só uma coisa… — completou, olhando para ele com o canto dos olhos.
-— Se tentar mandar em mim fora da ponte de comando...
-— Eu pulo sozinha, entendeu?
-
-— Então me avisa antes. — respondeu Valen. — Pra eu jogar primeiro.
-
-Por um segundo, todos sorriram. Um sorriso silencioso. Quase cúmplice.
-
-
-
-Naquela manhã, ainda sem velas erguidas, a tripulação da Coruja Eclipse estava completa o suficiente para começar a existir.
-
-Eles não zarparam ainda.
-Mas pela primeira vez, havia mais de um destino esperando por eles.
-
-
-
-#Capítulo 9 – Madeiras e Ferros
-
-A manhã em Kaelyndor avançava com lentidão preguiçosa. O céu cinza cobria o porto como um lençol pesado, e a brisa carregava o cheiro de óleo, maresia e ferrugem antiga.
-
-Mina caminhava à frente do grupo, passos firmes e braços cruzados. Runner vinha ao lado, dando pequenos saltos em caixas e corrimãos como uma criança entediada demais pra andar reto. Gilbert seguia atrás, ajustando os óculos e anotando observações no ar com a ponta do dedo.
-
-Valen os observava sem pressa, mãos nas costas, olhos atentos ao entorno.
-
-— Então... o navio. — disse Runner, quebrando o silêncio com uma cusparada teatral no chão. — Algum de vocês sabe construir um?
-
-— Você sabe roubar um? — retrucou Mina, sem virar o rosto.
-
-— Não, mas posso perguntar pro dono enquanto você quebra os dentes dele. — rebateu ele, sorrindo.
-
-— Ele está tentando ser útil. — comentou Gilbert, calmamente. — Da maneira mais ineficiente possível, claro, mas há intenção.
-
-— O velho é sempre tão gentil assim? — Mina perguntou por cima do ombro, já ciente da resposta.
-
-— Somente com quem tem o raciocínio de um portão de celeiro — respondeu Gilbert. — O que, nesse caso, é um elogio: portões ao menos servem para fechar passagem.
-
-Runner bufou. — Isso é bullying.
-
-— Isso é ensino. — corrigiu Gilbert, sério.
-
-Valen parou.
-
-— O navio. — disse, firme.
-
-Todos silenciaram de imediato.
-
-— Precisamos de um casco leve, reforçado para longas rotas. Três velas centrais, quilha dupla. Deve suportar peso acima do padrão — vamos carregar mais do que imaginam.
-
-— Mais o quê? — perguntou Mina.
-
-— Depende. Mas quero margem. — respondeu Valen, seco.
-
-Gilbert completou:
-— O problema é que navios assim custam... muito. E ninguém vende uma embarcação dessas sem querer saber quem somos e por que queremos sumir no horizonte.
-
-— Então não compramos. — disse Mina.
-
-— E sim? — perguntou Runner.
-
-Mina parou. Olhou para um letreiro de ferro enferrujado.
-
-“Kael’Taran – Distrito de Fundição e Reparo Naval”
-
-— Conheço alguém. Que talvez ainda me deva um favor.
-
-Gilbert ergueu uma sobrancelha.
-— Você e seus amigos problemáticos...
-
-Mina o ignorou. Olhou para Valen.
-
-— Mas vou avisar... essa pessoa não é fácil.
-
-Valen encarou o letreiro.
-
-— Ninguém que vale a pena é.
-
-
-Eles seguiram pela rua interna do distrito industrial. O calor das forjas aumentava a cada esquina. Ecos de marteladas, faíscas e gritos de operários formavam uma sinfonia bruta. O chão vibrava.
-
-Mina andava com postura reta. Mas os olhos dela espiavam o capitão.
-Valen notava. E não fingia que não.
-
-— Você é sempre assim? — perguntou ela, em tom neutro.
-
-— Assim como?
-
-— Tão... inabalável. Parece que carrega o mundo, mas não deixa cair nada.
-
-Valen virou o rosto, sem parar de andar.
-
-— Carrego porque aprendi a perder.
-
-Ela mordeu o canto do lábio. Um sorriso mínimo. Quase respeitoso.
-
-— Gosto de gente que não disfarça a cicatriz.
-
-— Gosto de gente que não vira uma. — respondeu ele.
-
-
-
-Ao final da rua, um enorme portão de aço negro com marcas de fuligem guardava a entrada de uma forja. Uma placa pendia acima, em letras rústicas:
-
-“Kael – Metal e Ossos”
-
-Mina respirou fundo.
-
-— Se ela ainda estiver aqui…
-— Talvez possamos construir algo mais do que um navio.
-
-Valen observou a estrutura. O som do martelo ecoando lá dentro parecia chamar mais do que anunciar.
-
-— Então vamos bater.
-— E ver quem responde.
-
-
-
-#Capítulo 10 – Forja e Lembrança
-
-O portão da forja se abriu com um rangido grave, como se engolisse visitantes com pesar.
-
-O calor veio primeiro. Depois, o som.
-Marteladas ritmadas. Respiração pesada.
-E cheiro de metal queimando.
-
-Valen entrou primeiro.
-
-Gilbert parou na entrada, tirando os óculos para limpá-los.
-— Isso aqui parece mais um templo do que uma oficina.
-
-— É. — murmurou Mina. — Um templo onde o deus não perdoa falha.
-
-Runner já suava antes de cruzar a porta.
-— É impressão minha ou alguém aqui vai morrer se errar o jeito de respirar?
-
-— Se errar o tom de voz, talvez. — respondeu Mina.
-
-Lá dentro, uma mulher martelava uma peça curva de aço incandescente sobre uma bigorna ancestral.
-Braços fortes, firmes. Ombros largos cobertos por um colete de couro grosso. Cabelos ruivos queimados, presos em coque tribal. Tatuagens tribais nas mãos e olhos verdes que avaliavam tudo como se desmontassem o mundo à vista.
-
-Kael.
-
-Ela ergueu o olhar.
-E parou.
-
-— Então você ainda respira, Capitão.
-
-Valen removeu o capuz devagar.
-— E você ainda bate mais forte que o resto do mundo.
-
-Ela girou o martelo, cravou a ponta no chão e cruzou os braços.
-
-— O que quebrou?
-
-— Ainda não quebrou. Mas vai.
-
-Ela apontou para a bancada.
+Mina assentiu, devagar. A armadura que ela vestia contra o mundo não caiu, mas as dobradiças afrouxaram.
+— Só uma coisa... — completou ela, voltando a encará-lo pelo canto do olho, o instinto assassino a despontar novamente. — Se você tentar mandar em mim ou dar ordens sobre como eu devo lutar fora da ponte de comando daquele seu navio imaginário... eu pulo sozinha, entendeu?
+Valen abriu um meio sorriso, o rosto endurecido finalmente cedendo à dinâmica da sua nova família.
+— Então me avise antes — respondeu Valen, o tom assumindo uma ironia letal e tranquila. — Para eu ter tempo de jogá-la primeiro.
+Por um segundo, o peso de Kaelyndor pareceu desaparecer. Todos sorriram. Um sorriso silencioso, afiado e perigosamente cúmplice. Eram quatro desajustados com passados manchados de sangue, erros e fugas.
+Naquela manhã úmida, ainda sem velas erguidas ou um convés para pisar, a tripulação da Coruja Eclipse estava finalmente completa o suficiente para começar a existir. Eles não tinham zarpado ainda. Não tinham sequer um mastro. Mas, pela primeira vez nas suas vidas, havia mais de um destino à espera deles.
+#Capítulo 11 – O Calor da Forja e as Marcas Visíveis
+A brisa gélida do cais leste ainda arrepiava a pele, mas a inércia da espera finalmente havia se dissipado. O acordo silencioso que selava a nossa nova tripulação estava feito, e a quietude das docas não servia mais para nós. Deixamos a plataforma de madeira para trás sem olhar por cima do ombro, embrenhando-nos nas ruas íngremes de Kaelyndor enquanto a cidade engolia o restante do nevoeiro matinal.
+À medida que subíamos em direção aos anéis internos da capital, o ar salgado do mar era gradativamente substituído por um odor denso e opressivo. Cheirava a óleo queimado, carvão e ferrugem antiga. O vapor das caldeiras subterrâneas escapava pelas grades de ferro cravadas nos paralelepípedos, embaçando a visão e aquecendo o ambiente de forma sufocante.
+Mina caminhava à frente do grupo, ditando o ritmo com passos firmes e braços cruzados sob o peito. Runner vinha logo ao lado dela, mas era incapaz de andar em linha reta. O garoto dava pequenos saltos em caixotes abandonados, equilibrava-se nos corrimãos de ferro das pontes e desviava de poças de graxa como uma criança entediada que se recusava a aceitar a gravidade da situação. Atrás deles, Gilbert seguia com a sua marcha metódica, ajustando os óculos embaçados pelo vapor e anotando observações no ar com a ponta do dedo, como se o mundo ao seu redor fosse apenas uma equação a ser resolvida.
+Valen observava-os sem pressa, com as mãos cruzadas nas costas, os olhos atentos a cada sombra e viela por onde passavam.
+— Então... o navio — disse Runner, quebrando o silêncio com uma cusparada teatral que acertou um bueiro fumegante. Ele virou-se para trás, andando de costas. — Algum de vocês sabe construir um?
+— Você sabe roubar um? — retrucou Mina, sem sequer virar o rosto para o ladrão.
+— Não — rebateu o garoto, abrindo um sorriso largo e perigoso. — Mas posso perguntar educadamente para o dono enquanto você quebra os dentes dele.
+— Ele está a tentar ser útil — comentou Gilbert, ajeitando o colarinho do casaco com uma calma irritante. — Da maneira mais ineficiente e marginal possível, claro, mas há intenção.
+— O velho é sempre tão gentil assim, ou ele só guarda os elogios para você? — Mina perguntou por cima do ombro, já ciente do tipo de resposta que receberia.
+— Somente com quem tem o raciocínio de um portão de celeiro — respondeu o navegador, sem alterar a expressão clínica. — O que, no caso do nosso jovem amigo, é um elogio: portões, ao menos, servem para fechar alguma passagem.
+Runner bufou, revirando os olhos. — Isso é bullying intelectual.
+— Isso é ensino básico — corrigiu Gilbert, perfeitamente sério.
+Valen parou no meio da rua. A autoridade natural do Capitão fez com que os três estancassem os passos instantaneamente. A brincadeira acabou ali.
+— O navio — a voz de Valen soou firme, grave e absoluta. — Nós precisamos de um casco leve, mas brutalmente reforçado para rotas longas e punitivas. Três velas centrais, quilha dupla. A estrutura deve suportar um peso muito acima do padrão. Nós vamos carregar mais do que os portos imaginam.
+— Mais o quê? — perguntou Mina, estreitando os olhos verdes, a mente assassina já a tentar decifrar o tipo de contrabando que exigiria tanto reforço.
+— Depende do que o mar nos atirar — respondeu Valen, seco. — Mas eu quero margem para sobreviver a tempestades e artilharia.
+Gilbert completou, abrindo o seu pequeno grimório de anotações.
+— O problema prático, Capitão, é que navios com essa engenharia custam uma fortuna que nós não possuímos. E absolutamente ninguém em Kaelyndor vende uma embarcação com essas especificações sem querer saber quem somos, de onde viemos e por que queremos sumir no horizonte tão depressa.
+— Então não compramos — deduziu Mina, estalando o pescoço.
+— E sim? — perguntou Runner, esfregando as mãos, pronto para o caos.
+Mina não respondeu de imediato. Ela parou no início de uma ampla avenida industrial. O barulho aqui era ensurdecedor. Olhou para o alto, onde um letreiro de ferro enferrujado e corroído pela fuligem pendia sobre a entrada do setor.
+"Kael’Taran – Distrito de Fundição e Reparo Naval"
+— Conheço alguém aqui. Alguém que talvez ainda me deva um favor de vida ou morte — disse Mina, com a voz carregada de uma confiança áspera.
+Gilbert ergueu uma sobrancelha, fechando o livro.
+— Você e os seus amigos problemáticos...
+Mina ignorou o navegador. O seu olhar voltou-se diretamente para Valen.
+— Mas vou avisar, Capitão... essa pessoa não é nada fácil de lidar. Tem um temperamento pior do que o de um leviatã ferido.
+Valen ergueu o rosto para encarar o letreiro do distrito. Os seus olhos castanhos percorreram as letras cravadas no ferro. Quando a palavra Kael se registrou em sua mente, a expressão do Capitão não se alterou, mas um leve, quase imperceptível clique mecânico ecoou no seu braço esquerdo. Os dedos de aço negro contraíram-se sozinhos por uma fração de segundo.
+A lembrança de faíscas azuis, cheiro de metal derretido e a dor latejante de uma amputação curada a ferro e fogo cruzou a sua memória. Ele sabia exatamente quem operava naquelas forjas. Sabia do temperamento, sabia da genialidade brutal. Mas guardou a informação para si. Se a assassina confiava na mesma pessoa que lhe forjara a própria sobrevivência, as engrenagens do destino estavam a girar com uma perfeição macabra.
+— Ninguém que vale a pena é fácil, Mina — respondeu Valen, com um duplo sentido que apenas ele compreendia. — Mostre o caminho.
+Eles avançaram pela rua interna do distrito industrial. O ambiente tornou-se hostil. O calor das forjas abertas aumentava drasticamente a cada esquina dobrada, transformando o beco num corredor de brasas. Ecos de marteladas pesadas, o chiado de aço incandescente mergulhado em tanques de água e os gritos roucos de operários formavam uma sinfonia bruta que fazia o próprio chão de pedra vibrar sob as botas.
+O calor extremo era asfixiante. Mina caminhava com a postura reta, mas o suor já brilhava na sua pele. Ela puxou a gola do top rasgado, expondo um pouco mais a pele clara e as intricadas tatuagens tribais que desciam do ombro em direção à clavícula, tentando aliviar a temperatura.
+Valen caminhava logo ao lado dela. No espaço estreito da rua industrial, os seus ombros quase se roçavam. A cada passo, a proximidade física tornava-se mais densa que o vapor das caldeiras. Os olhos da assassina não olhavam apenas para a frente; ela espreitava o Capitão de soslaio, observando a forma como o suor escorria pelo pescoço dele, contornando a linha firme da mandíbula. Ela observava a cicatriz profunda que desaparecia sob o colarinho do casaco pesado que ele teimava em não tirar.
+Valen notou o olhar. E, em vez de ignorar, ele virou o rosto para encará-la, sustentando a intensidade dos olhos verdes dela com uma calma predatória.
+Um carroceiro puxando uma carga pesada de carvão gritou por espaço, forçando-os a desviar. Valen agarrou o braço de Mina pela cintura com a mão de carne, puxando-a para a beirada do muro de tijolos quentes para evitar que a roda da carroça a esmagasse. Os seus corpos colidiram levemente. O peito firme dele prensou-se contra as costas e o ombro dela por um segundo longo e denso. O cheiro de sal e couro do Capitão misturou-se com a respiração ofegante da ruiva.
+A carroça passou, mas a tensão entre os dois permaneceu ancorada ali.
+Mina não recuou de imediato. Ela olhou para cima, o rosto a centímetros do dele, a respiração ligeiramente descompassada.
+— Você é sempre assim? — perguntou ela, o tom de voz baixando, assumindo um timbre perigosamente neutro e íntimo.
+— Assim como? — Valen manteve a voz num sussurro grave, sem quebrar o contato visual.
+— Tão... inabalável — ela respondeu, observando os olhos castanhos dele procurarem qualquer falha na sua armadura. — Parece que carrega o mundo inteiro nas costas, mas recusa-se a deixar cair uma única moeda.
+Valen afastou-se apenas o suficiente para que ambos pudessem respirar, mas não o suficiente para quebrar a corrente invisível que os prendia. Ele retomou a caminhada, a passos lentos.
+— Carrego tudo isso porque já aprendi o que acontece quando perco — respondeu Valen, sem olhar para trás, a dor antiga a revestir as suas palavras.
+Mina caminhou ao lado dele. Ela mordeu o canto do lábio inferior, um gesto instintivo que traía a faísca de desejo que ela normalmente afogava em violência. Um sorriso mínimo, quase respeitoso e feroz, curvou a sua boca.
+— Eu gosto de gente que não tenta disfarçar a cicatriz que tem — confessou a assassina.
+Valen virou o rosto para ela, o olhar descendo rapidamente para os lábios dela antes de voltar aos olhos verdes.
+— E eu gosto de gente que não se transforma numa — devolveu ele, a voz rouca, carregada de uma promessa que ia muito além da sobrevivência.
+A tensão entre eles pairou no ar, densa e elétrica, até que o final da rua interrompeu o momento.
+Diante deles, um enorme portão de aço negro e maciço, crivado de rebites e marcas de fuligem, guardava a entrada da maior forja do distrito. O calor ali era infernal. Pendurada acima da entrada, balançando levemente com o vento sujo de fumaça, uma placa de metal rústica exibia letras forjadas na base da marreta:
+"Kael – Metal e Ossos"
+Mina respirou fundo, afastando a distração do corpo de Valen da sua mente e focando na missão.
+— Se ela ainda estiver aqui... — disse Mina, ajeitando as adagas no cinto. — Talvez possamos construir algo muito maior e mais perigoso do que apenas um navio.
+Valen observou a estrutura. O som rítmico, metódico e monstruoso de um martelo a esmagar o aço em brasa ecoava lá dentro. A cada batida, as runas mortas do seu braço mecânico pareciam vibrar em ressonância. Aquele não era um som de trabalho; parecia um chamado que o aguardava há meses.
+— Então vamos bater — sentenciou o Capitão, avançando para o portão. — E ver quem responde.
+#Capítulo 12 – O Calor da Forja e a Arquiteta de Cascos
+O portão de aço negro da forja abriu-se com um rangido grave e prolongado, um som que parecia rasgar o ar úmido de Kaelyndor como se a própria estrutura engolisse os visitantes com extremo pesar.
+O calor foi o primeiro a atacar. Não era um aquecimento gradual; foi um impacto físico, uma parede sólida de ar escaldante que secou o suor frio dos rostos do grupo no mesmo instante em que cruzaram a soleira. Depois do calor, veio o som. Um estrondo ritmado, metódico e ensurdecedor de metal a ser esmagado. E, por fim, o cheiro áspero de carvão queimado, enxofre e ferro incandescente.
+Valen entrou primeiro, deixando a tempestade e a garoa para trás, a sua figura imponente absorvendo a agressividade do ambiente.
+Gilbert parou logo na entrada. A diferença de temperatura embaçou as lentes dos seus óculos imediatamente. O navegador retirou-os com um suspiro irritado, limpando-os com um lenço que tirou do bolso do colete.
+— Pelos astros... — murmurou Gilbert, semicerrando os olhos míopes para tentar enxergar através do ambiente enfumaçado. — Isso aqui parece mais um templo pagão do que uma oficina naval.
+— É exatamente o que é — respondeu Mina, a voz baixa, observando o interior com o olhar afiado de um predador a avaliar outro. — Um templo onde o deus que governa não perdoa nenhuma falha.
+Runner já suava profusamente antes mesmo de dar o terceiro passo para longe da porta. O garoto puxou a gola da camisa, visivelmente incomodado com a claustrofobia fumegante do lugar.
+— É impressão minha ou alguém aqui vai morrer se errar o jeito de respirar? — sussurrou o ladrão, com os olhos arregalados.
+— Se errar o tom de voz, talvez morra mais rápido — rebateu Mina, cruzando os braços, já em posição defensiva.
+No centro do galpão, iluminada pelo brilho violento de uma fornalha que rugia como um leão enjaulado, uma mulher trabalhava. Ela martelava uma peça curva de aço incandescente sobre uma bigorna ancestral que parecia pesar mais do que a própria fundação da cidade.
+Os braços dela eram fortes, esculpidos pela disciplina do aço e pela brutalidade do trabalho pesado. Vestia um colete de couro grosso, manchado de graxa e fuligem, que deixava os seus ombros largos expostos. Os cabelos ruivos, nas pontas levemente chamuscados pelas faíscas constantes, estavam presos no alto da cabeça num coque tribal desgrenhado. As suas mãos e antebraços exibiam tatuagens antigas, linhas grossas que pareciam dançar a cada golpe do martelo.
+Ela não era apenas uma ferreira. Kael avaliava cada milímetro de metal, cada ângulo e temperatura, como se pudesse desmontar e reconstruir o mundo apenas com o olhar.
+A batida do martelo cessou.
+Kael ergueu os olhos verdes, brilhantes e implacáveis. O silêncio que se seguiu ao fim do som do aço foi ainda mais denso do que o barulho.
+Ela parou, a respiração pesada a levantar-lhe o peito, e apoiou o cabo do martelo na bigorna. O seu olhar fixou-se no Capitão, atravessando a fumaça e os meses de ausência.
+— Então você ainda respira, Capitão — disse Kael. A voz dela era rouca, moldada pelo calor e pela fumaça.
+Valen removeu o capuz do casaco devagar, deixando que ela visse os hematomas recentes no seu rosto e a escuridão que agora habitava os seus olhos.
+— E você ainda bate mais forte do que o resto do mundo, Kael — respondeu Valen.
+Ela girou o martelo com uma agilidade impressionante para o peso da arma, cravando a ponta de aço no chão de terra batida com um baque surdo, e cruzou os braços sujos de fuligem.
+— O que foi que quebrou desta vez? — perguntou ela, indo direto ao ponto, sem espaço para nostalgias.
+— Ainda não quebrou — respondeu Valen, avançando um passo. — Mas vai.
+Ela apontou com o queixo para uma bancada de madeira robusta, cheia de ferramentas e pinças de metal.
 — Senta. Tira a capa.
-
-Valen caminhou sem hesitar. Sentou-se no banco de manutenção e estendeu o braço esquerdo — o mecânico.
-
-Kael soltou um som pelo nariz.
-Destravou três fechos, removeu a cobertura de proteção, girou os conectores.
-
-— Ainda arranca faísca como antes? — perguntou, com sarcasmo seco.
-
-— Às vezes até mais.
-
+Valen caminhou sem hesitar. Despiu o casaco pesado, sentindo o ar quente do galpão bater contra a camisa, e sentou-se no banco de manutenção. Estendeu o braço esquerdo — o braço mecânico de ferro negro e engrenagens.
+A familiaridade entre os dois não precisava de ser verbalizada. Kael conhecia aquele maquinário melhor do que ninguém; afinal, os seus dedos e o seu martelo haviam forjado a sobrevivência do Capitão quando a medicina tradicional havia falhado. Ela soltou um som baixo pelo nariz, uma mistura de reprovação e foco clínico, e aproximou-se.
+Com movimentos precisos, ela destravou três fechos escondidos na base do ombro de Valen. Removeu a placa de cobertura de proteção primária, revelando o emaranhado complexo de pistões, fios de cobre e engrenagens que ligavam a prótese aos nervos dele. Ela girou alguns conectores com uma pequena chave.
+— Ainda arranca aquelas faíscas como antes? — perguntou Kael, o tom carregado de um sarcasmo seco, enquanto analisava o desgaste nas peças de fricção.
+— Às vezes, até mais — admitiu Valen, a lembrança do impacto contra o líder de Sulheim ainda fresca nos músculos.
+Kael suspirou, balançando a cabeça.
 — Hm. Isso não é bom.
-
-Mina observava em silêncio que ela já conhecia o capitão . Runner, curioso, inclinava-se para ver.
-
-Kael apontou sem olhar:
-— Toca no meu material e eu quebro seus dedos.
-— E depois a mandíbula.
-
-Runner recuou.
-
-— A gente tá pensando em pegar um navio. — disse Mina, direta.
-
-— Pegar? — Kael arqueou a sobrancelha. — Bonita palavra. Melhor que “roubar”, mais honesta que “comprar”.
-
-— Um navio que aguente peso.
-— Rota longa. — completou Valen.
-
-Kael limpou as mãos. Foi até uma gaveta.
-Puxou um pano. Dentro dele, um mapa náutico dobrado. Estendeu sobre a mesa de ferro.
-
-— Esse navio existe.
-
-Valen e Gilbert se aproximaram.
-
-Era uma embarcação de casco reforçado, quilha dupla, estrutura modular e compartimentos blindados. Mais do que um navio. Quase uma fortaleza leve. Uma criação única.
-
-— Onde está? — perguntou Valen.
-
-Kael não respondeu. Apenas o encarou.
-
+Mina observava toda a interação em silêncio, encostada a uma pilastra de ferro. Os seus olhos verdes e analíticos iam do rosto de Valen para as mãos ágeis de Kael. A assassina percebia a intimidade crua e desprovida de romantismo que eles partilhavam. Era uma conexão de cicatrizes.
+Runner, por outro lado, era movido pela curiosidade incontrolável dos ratos de rua. Incapaz de ficar quieto, o garoto inclinou-se sobre a mesa de trabalho, os olhos a brilhar perante um mecanismo de engrenagens que parecia valioso. A sua mão começou a esticar-se instintivamente na direção da peça.
+Sem sequer tirar os olhos dos conectores do braço de Valen, Kael avisou:
+— Toca no meu material e eu quebro-te os dedos.
+Runner congelou no lugar, recolhendo a mão como se tivesse tocado em brasa.
+— E depois a mandíbula — completou a ferreira. — Só para ter a certeza de que não vai chorar muito alto e atrapalhar o meu trabalho.
+Runner recuou dois passos apressados, engolindo em seco, e escondeu-se ligeiramente atrás de Gilbert.
+— A gente tá pensando em pegar um navio — disse Mina, rompendo a tensão com uma abordagem direta.
+Kael parou de ajustar os parafusos da prótese e arqueou uma sobrancelha, olhando de esguelha para a ruiva.
+— "Pegar"? — Kael repetiu a palavra, saboreando-a com desdém. — Uma bonita palavra. Certamente melhor que "roubar", e infinitamente mais honesta que "comprar".
+— Um navio que aguente peso absoluto — interveio Valen, complementando a ideia, a sua voz dominando a acústica da forja. — Rota longa. Águas traiçoeiras.
+Kael limpou as mãos cheias de graxa num pano escuro que trazia preso ao cinto. Os seus olhos fixaram-se nos de Valen, e ela caminhou devagar até uma pesada gaveta de ferro no fundo da oficina. Puxou a gaveta, o som do metal a ecoar alto, e tirou de lá um embrulho de pano.
+Ela voltou para perto deles e desenrolou o tecido sobre a mesa de ferro central. Lá dentro, protegido da fumaça e da poeira, havia um mapa náutico e esquemas de engenharia desenhados a carvão.
+— Esse navio existe — decretou Kael.
+Valen e Gilbert aproximaram-se, debruçando-se sobre os diagramas.
+Era o desenho de uma embarcação formidável. Casco amplamente reforçado com placas modulares, uma quilha dupla desenhada para cortar ondas revoltas sem perder o centro de gravidade, e compartimentos internos blindados. Não era apenas um navio; era uma fortaleza leve, ágil e letal. Uma criação única de engenharia.
+— Onde está? — perguntou Valen, sentindo a adrenalina a subir. A resposta para a fuga deles estava desenhada naquelas linhas.
+Kael não respondeu imediatamente. Ela apenas cruzou os braços e o encarou.
 — Você já esteve nele.
-
-Valen piscou uma vez.
-
-— Você...
-
-— ...construiu. — completou Kael.
-
+Valen piscou uma vez. A sua mente retrocedeu a dias mais quentes, muito antes do fogo, das cinzas e das perdas. As discussões sobre cascos, ventos e estruturas...
+— Você... — murmurou Valen, a compreensão a clarear-lhe os pensamentos.
+— ...construiu — completou Kael, com um sorriso mínimo, mas carregado de orgulho.
 — Ele é seu?
-
-— É meu.
-— E se for zarpar nele... eu vou junto.
-— Senão, nem o leme você encosta.
-
-Silêncio.
-
-Valen olhou para ela.
-Kael sustentou o olhar como quem martela.
-
-— Não negocio o que moldo.
-— Nem deixo minha obra na mão de qualquer um.
+— É meu — confirmou ela, a voz grave e inegociável. Ela inclinou-se sobre a mesa. — E se for zarpar nele... eu vou junto.
+A condição pairou no ar, densa e pesada.
+— Senão, garanto-lhe que nem o leme daquela carcaça você encosta — avisou a ferreira.
+O silêncio apoderou-se da forja. Valen olhou-a fixamente. Kael sustentou o olhar dele com a mesma intensidade com que empunhava o martelo sobre a bigorna. Ela não estava a blefar.
+— Não negocio o que moldo — declarou Kael, a sua postura transformando-se na de uma guardiã implacável. — Nem deixo a minha obra na mão de qualquer um.
 — Mas você não é qualquer um.
-— É um teimoso idiota com senso de direção e uma maldita bússola brilhando no peito.
-
-— Nós sonhamos com esse navio desde o dia que te conheci. — disse Valen. — Vai mesmo me fazer implorar?
-
-Ela se aproximou até quase encostar o rosto no dele.
-
-— Não.
-— Só quero ver se você ainda sabe o que é pedir com os olhos certos.
-
-Valen não sorriu. Mas o canto da boca cedeu por um segundo.
-
-Ela se afastou, pegou uma chave enferrujada e jogou para ele.
-
-— Está no estaleiro de pedra. Três dias de conserto.
+— É um teimoso idiota com um senso de direção doentio e uma maldita bússola de azar a brilhar no peito — retorquiu ela, com um tom que beirava o carinho, à sua própria maneira bruta.
+Valen suspirou, sentindo o peso daquela lealdade áspera.
+— Nós sonhamos com este navio desde o dia que te conheci — disse o Capitão, a sua voz perdendo a rigidez militar. — Vai mesmo me fazer implorar por ele?
+Ela aproximou-se a passos lentos, ignorando os olhares dos outros três, até que o rosto dela ficasse quase a roçar no dele.
+— Não — sussurrou Kael. — Só quero ver se você ainda sabe o que é pedir com os olhos certos.
+Valen não sorriu. O luto ainda era demasiado recente para permitir um sorriso aberto. Mas o canto da sua boca cedeu por um segundo, um reflexo involuntário da profunda gratidão que ele sentia. O passado não estava inteiramente morto.
+Satisfeita com o que viu na expressão dele, Kael afastou-se. Ela enfiou a mão no bolso, pegou uma chave enferrujada e atirou-a na direção de Valen.
+O Capitão agarrou a chave no ar com a mão de carne. O metal estava frio, contrastando com o ambiente escaldante.
+— Está no estaleiro de pedra, no setor sul das docas velhas — indicou Kael, começando a enrolar os mapas. — Três dias de conserto e ajustes.
+Ela parou, olhando-o de forma oblíqua.
 — Mas sem mim, ele não flutua.
-
-— Então não chegue atrasada. — disse Valen.
-
-Kael respirou fundo.
-
+— Então não chegue atrasada — avisou Valen, virando-se para recolher o casaco.
+Kael respirou fundo, soltando o ar ruidosamente, e pegou o seu martelo de volta.
 — Se chegar primeiro... me espera.
-
-
-Ao sair da forja, o grupo caminhava sob o céu carregado.
-
-Runner olhou para Mina.
-
-— Isso foi um “sim”?
-
-— Isso foi um “se me deixar pra trás, eu te quebro”. — respondeu ela.
-
-Gilbert apenas anotava algo num pergaminho.
-
-Valen caminhava à frente.
-O som da chave no bolso pesava menos do que a lembrança daquele olhar.
-
+Deixaram o calor opressivo da oficina e saíram para a rua. O céu de Kaelyndor continuava cinzento e carregado, mas a brisa gelada bateu-lhes no rosto como um alívio depois do sufoco da forja.
+Enquanto caminhavam pela calçada, Runner correu até ficar ao lado de Mina, a olhar para a assassina com a confusão estampada no rosto.
+— Isso foi um “sim”? — perguntou o garoto.
+Mina continuou a olhar em frente, mas um leve sorriso de escárnio surgiu nos seus lábios.
+— Isso foi um "se me deixar para trás, eu te quebro" — traduziu ela com precisão cirúrgica.
+Gilbert, alheio às brincadeiras, apenas anotava furiosamente os dados sobre os compartimentos num pergaminho.
+Valen caminhava à frente do grupo. A chave enferrujada no seu bolso pesava consideravelmente menos do que a lembrança do olhar de Kael.
 Kael estava dentro.
-E com ela, o navio também.
-
-
-
-#Capítulo 11 – Coração de Aço
-
-A chave pendia do bolso de Valen como uma promessa pesada.
-
-O grupo caminhava por entre os trilhos enferrujados do antigo setor naval de Kaelyndor, onde embarcações velhas jaziam como esqueletos de madeira e ferro, aguardando o tempo terminar o trabalho que o mar começou.
-
-Kael vinha à frente agora, o martelo preso nas costas, postura reta e passos firmes como se cada pedra do caminho reconhecesse sua autoridade.
-
-Mina e Runner vinham lado a lado. Ou quase.
-Ele chutava pedras. Ela revirava os olhos.
-
-— Você viu o tamanho daquele martelo? — perguntou ele. — Aposto que ela bate em portão só pra praticar.
-
-— Aposto que bate em você se não calar a boca. — respondeu Mina, sem olhar.
-
-— Viu? — murmurou Runner para Gilbert. — E dizem que eu sou o provocador.
-
-— Você é um provocador. Ela é só eficiente. — retrucou o navegador, focado em um mapa dobrado.
-
-Valen não disse nada.
-Mas sentia.
-
-A sensação era estranha: ter um grupo ao redor. Ter movimento. Ter ritmo.
-Por mais que ainda carregasse o peso do passado nos ombros, havia algo nas conversas cruzadas — no som da marcha deles juntos — que dava forma ao que antes era apenas ideia.
-
-— Ali. — disse Kael, parando diante de um portão de pedra e ferro, parcialmente tomado por musgo.
-
-Ela girou a chave.
-A estrutura respondeu com um rangido profundo, como um animal antigo acordando.
-
-Dentro, em um hangar escavado na encosta da cidade, repousava a embarcação. Coberta por lonas e poeira, o casco curvado e largo parecia uma criatura adormecida — orgulhosa mesmo na ferrugem.
-
-— Que droga é essa? — sussurrou Runner, encantado. — Parece um dragão deitado.
-
-— Era pra parecer. — murmurou Kael. — A estrutura imita ossatura de besta marinha. Curvas de escape, reforços inferiores, casco duplo. Cada linha tem função.
-
-Valen deu dois passos à frente.
-Retirou a lona central com o braço mecânico.
-
-A luz atravessou a sombra e revelou o nome entalhado na madeira do leme:
-
-Coruja Eclipse.
-
-Mina o encarou de lado.
-
-— Você já tinha esse nome na cabeça, não tinha?
-
-— Sempre tive. — respondeu ele. — Só estava esperando o momento certo.
-
-
-As próximas horas foram trabalho.
-
-Kael dividia ordens com precisão: Runner subia mastros, Mina levantava caixas, Gilbert organizava provisões e sistemas de orientação. Valen acompanhava tudo em silêncio, mais observando do que mandando — e mesmo assim, todos obedeciam.
-
-— Não mexe nisso, corvo de cabelo torto! — gritou Kael para Runner. — Isso é isolamento estrutural! Você quer afundar dormindo?
-
-— Você podia só dizer “não toca”. — respondeu ele, ofendido.
-
-— Posso. Mas prefiro que aprenda. — retrucou ela.
-
-Mina ria, disfarçadamente. Gilbert anotava frases em um caderno.
-
-Valen, por sua vez, aproximou-se do timão.
-
-Tocou o leme.
-E fechou os olhos.
-
-Por um momento, sentiu o vento que ainda não soprava.
-O mar que ainda não estava sob os pés.
-E vozes que ainda não existiam chamando do horizonte.
-
-
-Ao fim do dia, Kael limpou as mãos.
-— Ele estará pronto em dois dias. Talvez menos, se pararem de atrapalhar.
-
-— E quando estiver pronto? — perguntou Gilbert, mais pra confirmar do que por dúvida.
-
-Valen se virou.
-Olhou para todos.
-
-— A gente parte.
-— De verdade.
-
-Silêncio.
-
-E então Mina, do alto do convés improvisado, falou:
-
-— E pra onde, Capitão?
-
-Valen respirou fundo.
-
-— Primeiro?
-— Pra onde ninguém mais teve coragem de ir.
-— Depois?
-— Pra onde a bússola mandar.
-
-
-#Capítulo 12 – O Preço da Direção
-
-A noite havia caído sobre o estaleiro como um cobertor espesso de fumaça e maresia. As lanternas a óleo oscilavam presas aos mastros e ganchos, lançando sombras dançantes sobre o casco quase pronto da Coruja Eclipse.
-
-Mina havia improvisado um pequeno acampamento no convés superior, com mantas, pão duro e vinho local. Runner tentava (sem sucesso) montar uma rede entre dois barris. Gilbert lia ao lado de uma lanterna. Kael cochilava encostada na lateral do navio, braços cruzados, martelo sobre os joelhos.
-
-Valen observava tudo, de pé, com a silhueta projetada contra o mar escuro.
-
-— Capitão... — disse Mina, do outro lado do fogo improvisado — posso perguntar uma coisa?
-
-Ele virou levemente o rosto.
-
-— Quando vocês pensam em zarpar... vocês sabem pra onde vão?
-
-Valen não respondeu de imediato. O silêncio fez todos os outros olharem também.
-
-— Sabe, direção... rota... ou é só navegar e improvisar? — completou Runner, em tom mais leve, tentando aliviar a tensão.
-
-Valen desceu os degraus com calma. Sentou-se sobre uma pilha de caixas. Olhou o vinho, depois para os olhos de cada um.
-
-E então tirou algo do casaco.
-
-Uma bússola.
-
-Mas não era comum.
-
-A caixa era de metal negro, coberta por inscrições rúnicas quase apagadas. O cristal no centro parecia pulsar com uma luz interna, esverdeada e sutil. Não apontava para o norte.
-
-Apontava para... algo mais.
-
-Mina estreitou os olhos.
-Gilbert parou de escrever.
-Kael abriu os olhos.
-
-— Isso não é uma bússola comum. — murmurou Gilbert.
-
-— Não. — respondeu Valen. — É a bússola.
-
-Ele a girou levemente, como quem acaricia algo que conhece bem — e odeia só um pouco.
-
-— Ela não aponta para um lugar. Aponta para um caminho. Um caminho entre mundos. Para dentro da Névoa.
-
-O silêncio caiu mais espesso que a noite.
-
-— Onde você conseguiu isso? — perguntou Mina.
-
-Valen olhou para o cristal, sem responder de imediato.
-
-Depois falou, baixo.
-
-— Paguei com uma tripulação inteira.
-
-O fogo estalou.
-
-Runner engoliu em seco.
-
-— Quantos?
-
-— Sete. — respondeu Valen. — Só dois voltaram.
-
-— Você e... — começou Gilbert.
-
-— Sombra. — completou Valen.
-
-Mina mordeu o lábio, os olhos verdes fixos no chão.
-
-Kael encarava a bússola como quem vê uma cicatriz.
-
-— Não precisa seguir isso. — disse ela. — Pode escolher outro destino.
-
-Valen ergueu os olhos. Firmes.
-
-— Posso. Mas não vou.
-— Porque enquanto essa bússola brilhar, alguém lá fora ainda acredita que o que buscamos existe.
-— E se não formos nós... será o Brasão de Sulheim.
-— E se for eles… o mundo não aguenta.
-
-Mina se levantou.
-Caminhou até ele. Parou perto. Muito perto.
-
-— Então essa viagem é por vingança?
-
-Valen olhou nos olhos dela.
-
-— Não.
-— É por justiça.
-— E porque existe algo maior na névoa que faz tudo valer a pena. 
-
-
-O grupo nada disse por um tempo.
-
-Mas o silêncio já não era desconforto.
-Era pacto.
-
-E naquela noite, sob um céu pesado, o peso da missão passou a ser real. Não como teoria. Mas como fardo.
-
-O tipo que só os vivos podem carregar.
-
-
-#Capítulo 13 – O Peso da Madeira
-
-O terceiro dia começou com o ranger do casco recém-fixado e o cheiro inconfundível de serragem molhada.
-
-Kael passou os olhos pela estrutura inferior do navio e franziu a sobrancelha .
-— Ainda falta. E não é pouco.
-
-Valen se aproximou, seguido por Gilbert e Mina.
-
-— O que mais precisamos?
-
-— Granito negro. — respondeu Kael, apontando para uma planta da base da quilha. — Três blocos. Sem isso, a blindagem do casco não segura impacto direto.
-
-— E onde conseguimos? — perguntou Valen.
-
-Kael cruzou os braços.
-
-— Aqui em Kaelyndor? Só os nobres têm. E cobram como se cada pedra tivesse alma.
-
-— Então a gente vai ter que negociar com fantasmas. — murmurou Runner, chegando com uma pá no ombro.
-
-— Talvez não. — disse Mina, de repente.
-
-Todos viraram o rosto para ela.
-
-— Conheço alguém. Que vive perto das Montanhas de Karak-Dûn. Ele costumava vender granito direto das pedreiras.
-— É... bruto. Mas confiável. E não é o tipo que se importa com nota fiscal.
-
-Kael ergueu a sobrancelha.
-
-— Confiança instável ou absoluta?
-
-— Confiança de quem já me carregou desmaiada duas vezes e nunca encostou um dedo além do necessário. — disse Mina. — Ele sabe das rotas. E se ele ainda estiver por lá… pode conseguir por um terço do valor.
-
-Valen assentiu.
-
-— Então vamos.
-
-
-
-A trilha para as montanhas era longa, ladeada por árvores retorcidas e fragmentos de pedra negra espalhados pelas encostas. Ao fundo, formações rochosas se erguiam como muralhas naturais, marcadas por séculos de extração.
-
-— Então quem é esse seu contato? — perguntou Gilbert, enquanto anotava a altitude. — Um comerciante?
-
-— Brutus. — respondeu Mina, sem virar o rosto. — É mais fácil mostrar do que explicar.
-
-— Ele é... problemático? — insistiu Runner.
-
-— Ele é forte.
-— E é o único que conheço que consegue arrancar um bloco de granito com as mãos e chamar isso de esforço leve.
-
-
-
-Ao final da trilha, chegaram a uma clareira onde pilhas de pedra negra estavam dispostas com uma organização rústica. Próximo dali, um barracão simples e reforçado com colunas de metal.
-
-E então, um ruído.
-
+E, com ela, o navio também.
+
+#Capítulo 13 – A Promessa de Madeira e o Rumo da Bússola
+A chave enferrujada pesava no bolso do casaco de Valen, não pela densidade do metal, mas pela promessa que ela representava. O grupo caminhava a passos constantes por entre os trilhos oxidados e os galpões abandonados do antigo setor naval de Kaelyndor. A névoa da manhã ainda rastejava pelo chão de paralelepípedos úmidos, encobrindo as poças d'água e os restos de correntes esquecidas.
+Mina andava logo atrás de Valen, os braços cruzados sob o peito, a expressão fechada em uma máscara de aparente indiferença. Mas os olhos verdes da assassina não paravam de analisar a nuca do Capitão. A interação que ela acabara de presenciar na forja ainda a incomodava, arranhando uma parte do seu orgulho que ela preferia manter blindada.
+— Vocês pareciam ter bastante intimidade lá dentro — disparou Mina, a voz soando afiada, tentando disfarçar a curiosidade com uma camada grossa de sarcasmo. — Ela costuma consertar apenas os braços mecânicos dos capitães falidos, ou conserta o resto também?
+Valen continuou a caminhar, o olhar fixo no horizonte nublado, mas um sorriso muito discreto e contido curvou o canto dos seus lábios. Ele percebeu perfeitamente a armadilha na pergunta dela.
+— Nós conhecemo-nos há muito tempo, Mina. É apenas isso — respondeu Valen, o tom de voz sereno.
+— "Apenas isso" não faz uma mulher atirar-lhe as chaves de um navio no valor de uma frota imperial — retrucou ela, estreitando os olhos, a irritação a borbulhar diante da resposta evasiva.
+Runner, que saltitava por cima dos trilhos enferrujados alguns passos atrás, não perdeu a oportunidade. O garoto abriu um sorriso largo e malicioso, aproximando-se da assassina.
+— Olha só para isso... o gelo de Kaelyndor está a derreter de ciúmes? — provocou o jovem ladrão, erguendo as sobrancelhas de forma teatral.
+Mina parou abruptamente. O olhar que ela lançou a Runner foi tão carregado de promessas de dor que o garoto congelou no lugar, engolindo em seco. Sem dizer uma palavra, a assassina levou a mão ao cabo da adaga.
+Runner recuou imediatamente, deitando-se quase atrás do navegador.
+— Você viu o tamanho do martelo daquela mulher lá na forja, velho? — murmurou Runner para Gilbert, tentando mudar de assunto rapidamente enquanto vigiava Mina com o rabo do olho. — Viu a força com que ela bateu no chão? E depois ainda dizem que eu é que sou o provocador do grupo. Eu sou um anjo perto destas mulheres.
+Gilbert apenas ajeitou os óculos, ignorando o garoto e continuando a sua caminhada metódica.
+Valen suspirou levemente, decidindo que o silêncio apenas alimentaria a mente inquieta da sua tripulação.
+— A Kael e eu crescemos juntos nas piores ruas desta cidade — começou Valen, a voz assumindo uma gravidade nostálgica que fez todos prestarem atenção. — Éramos órfãos, jogados no meio da escória. Fomos uma dupla de sobrevivência durante anos. A dinâmica era simples: eu quebrava as coisas, arrumava brigas com os guardas do porto para conseguir comida ou espaço, e ela consertava o que sobrava. A mente da Kael sempre esteve dez passos à frente do ferro que ela moldava. Ela não é apenas uma ferreira; ela é uma arquiteta do impossível. Eu confio nela com a minha vida.
+A explicação clara pareceu desarmar a tensão de Mina, embora ela não o fosse admitir em voz alta. Ela apenas descruzou os braços e voltou a caminhar em silêncio.
+Chegaram ao fim da linha férrea. Diante deles, erguia-se um imenso hangar de pedra calcária, com o teto abobadado escondido pela névoa. As grandes portas duplas de madeira e aço estavam trancadas por um pesado cadeado de ferro fundido.
+Valen tirou a chave do bolso. O som do metal a girar no miolo enferrujado ecoou alto, um clique que soou como a libertação de uma fera enjaulada. Com a ajuda de Gilbert, Valen empurrou as pesadas folhas do portão, que se abriram com um lamento prolongado.
+A luz cinzenta da manhã invadiu o hangar, dissipando as sombras e revelando o gigante adormecido.
+Ali estava ele. A embarcação que existira apenas em rascunhos de carvão e conversas regadas a rum durante anos.
+O navio era uma obra-prima de agressividade e engenharia. O casco era pintado de um tom escuro e opaco, desenhado com linhas curvas e hidrodinâmicas que imitavam a ossatura de um predador marinho. A quilha dupla era visível, projetada para estabilidade extrema, e as placas modulares de reforço brilhavam levemente na penumbra. Era belo, rústico e absolutamente letal.
+— O Coruja Eclipse... — murmurou Valen, a voz embargada pela emoção tática e pela realização de um sonho que ele achara ter morrido nas chamas do seu passado.
+Ele caminhou pela rampa de acesso e pisou no convés de madeira polida. Cada tábua parecia perfeitamente alinhada. Valen deslizou a mão de carne sobre o corrimão, sentindo a solidez da embarcação.
+Mina subiu logo atrás dele. O silêncio do hangar criava uma bolha ao redor dos dois. A assassina aproximou-se devagar, parando ao lado de Valen. Ela não cruzou os braços desta vez. Inclinou-se levemente, o corpo a relaxar, e o peito dela encostou de forma sutil, quase imperceptível, no ombro do Capitão.
+Valen sentiu a pressão suave. O calor do corpo dela atravessou o tecido pesado do seu casaco. O cheiro de pólvora, suor e sândalo invadiu os seus sentidos. Ele não recuou. Pelo contrário, manteve-se estático, permitindo que a proximidade elétrica entre eles se estabelecesse.
+— É um navio magnífico, Capitão — sussurrou Mina, a voz aveludada, olhando para os mastros, mas a intenção das suas palavras resvalando diretamente nele.
+Valen virou o rosto para ela. A proximidade era perigosa. Os olhos verdes da assassina estavam a centímetros dos dele, e o ar entre ambos tornou-se subitamente denso, carregado de uma promessa que ia muito além da camaradagem de uma tripulação.
+— Será um túmulo de madeira flutuante muito magnífico se não tivermos os suprimentos adequados para o tirar daqui.
+A voz clínica, alta e cortante de Gilbert estourou a bolha de tensão no mesmo instante.
+Mina afastou-se rapidamente, limpando a garganta e ajeitando uma adaga imaginária no cinto, enquanto Valen fechou os olhos por um milésimo de segundo, soltando um suspiro exasperado perante o momento perfeitamente arruinado.
+O navegador já estava no meio do convés, com o seu grimório aberto, inspecionando as escotilhas com um olhar crítico.
+— O casco está excelente, mas a logística interna está completamente vazia — continuou Gilbert, alheio ou propositadamente cego ao clima que acabara de interromper. — Precisamos de alcatrão para a vedação fina das calhas inferiores. Faltam cabos trançados de reserva para o velame principal. Precisamos de barris de pólvora seca, provisões para pelo menos três semanas, água potável, e não vejo munição pesada para os canhões leves de bombordo. Estamos completamente desarmados para uma viagem dessa magnitude.
+Runner, que já estava pendurado nas cordas de estibordo como um macaco, desceu com um salto acrobático e abriu os braços.
+— Não se preocupe, velho. Deixe comigo. Eu posso arranjar tudo isso antes do anoitecer — ofereceu o garoto, com um sorriso cheio de dentes e intenções criminosas.
+Mina soltou uma risada ríspida, recuperando a sua postura sarcástica.
+— "Arranjar"? — ironizou ela, caminhando na direção do ladrão. — Você quer dizer roubar os armazéns da coroa imperial de Sulheim até sermos todos caçados e enforcados em praça pública antes mesmo de içarmos as velas?
+— Eu prefiro chamar a isso uma "realocação não burocrática de recursos logísticos do império" — defendeu-se Runner, ofendido com a escolha de palavras. — É uma questão de perspetiva, ruiva.
+— Gilbert — chamou Valen, assumindo o controle antes que os dois começassem uma briga. — Faça uma lista exata de tudo o que falta. Nós vamos comprar o que pudermos no mercado negro e "realocar" apenas o essencial para não chamar a atenção das patrulhas.
+O som de botas pesadas a bater na rampa de madeira interrompeu a distribuição de tarefas.
+Kael surgiu na entrada do hangar, carregando uma pesada caixa de ferramentas forjada em ferro. Ela usava o mesmo colete de couro sujo de fuligem, o rosto brilhando de suor, mas os olhos esverdeados estavam acesos com a determinação de quem estava no seu próprio reino.
+A ferreira jogou a caixa no chão do convés com um baque que fez a madeira tremer.
+— A festa de boas-vindas acabou. Este navio ainda precisa de ajustes nos eixos do leme e na pressão dos lastros — anunciou Kael, a voz rude ecoando. Ela estreitou os olhos ao ver Runner com a mão pousada numa roldana de bronze do mastro. — Tira a mão suja daí, corvo de cabelo torto! Se você estragar a calibragem desse cabo, eu uso os seus intestinos para amarrar a vela principal!
+Mina explodiu numa gargalhada sincera, enquanto Runner recuava a correr, esfregando as mãos nas calças.
+— Que mulher adorável — resmungou o garoto.
+Kael ignorou as risadas e caminhou diretamente até à popa do navio. Valen seguiu os passos dela, subindo as pequenas escadas até ao convés de comando.
+Ali, majestoso e perfeitamente equilibrado, estava o timão da embarcação. A roda de madeira nobre e metal escuro parecia aguardar o toque do seu verdadeiro dono.
+Valen segurou os raios do timão. O encaixe das suas mãos — a de carne e a de ferro — foi perfeito. Ele sentiu uma onda de pertencimento que não experimentava há meses. Ao seu lado, Kael apoiou a mão na madeira polida da estrutura.
+Eles olharam um para o outro. Todo o passado, as fugas nas ruas, a fome, e o projeto desenhado à luz de velas nas noites mais frias de Kaelyndor culminavam naquele instante.
+— O nosso sonho, Kael — disse Valen, a voz grave e embargada por um orgulho sereno.
+Kael abriu um sorriso largo, os olhos a brilharem.
+— O Coruja Eclipse — respondeu ela, batendo a mão espalmada no timão.
+Valen fechou os olhos. Com as mãos na roda do leme, ele conseguiu, por um breve segundo, esquecer o cheiro de ferrugem do hangar. Imaginou o som do vento a bater nas velas, o salitre no ar e as ondas a quebrarem contra a quilha dupla da sua fortaleza flutuante. A liberdade estava quase ao alcance.
+A ferreira interrompeu o devaneio.
+— Se o corvo de cabelo torto ali em baixo não explodir nada e se o engravatado cego trouxer os suprimentos certos, eu garanto que termino o trabalho rápido — declarou Kael, cruzando os braços e analisando o horizonte do hangar. — Em dois dias, se tudo correr bem, ele estará pronto para o mar.
+Mina, que havia subido silenciosamente para a ponte de comando, encostou-se no parapeito de madeira. Ela olhou para Valen, os olhos verdes perscrutando a alma do Capitão.
+— Muito bem. Teremos um navio pronto em dois dias — disse Mina, a voz séria. — Mas para onde será o destino do Coruja Eclipse, Capitão? Para onde nós vamos?
+Valen abriu os olhos. O abismo do luto ainda estava lá, mas agora tinha um propósito focado. Ele enfiou a mão no casaco e retirou o objeto negro e fosco que ditava o destino das lendas. A bússola de cristal pulsou levemente nas suas mãos.
+— Para onde a bússola mandar.
+#Capítulo 14 – O Legado do Mar e a Forja de Lendas
+A frase do Capitão pairou no ar do hangar, carregada com o peso de uma profecia.
+Valen abriu a mão de carne, revelando o objeto negro e fosco que ditava o destino de todos eles. O cristal incrustado no centro da peça não apontava para o norte magnético; a agulha tremeluzia levemente, como se possuísse uma pulsação própria, atraída por algo que não constava nos mapas desenhados por homens.
+— Isso não é uma bússola comum — a voz de Valen quebrou o silêncio, ganhando uma aspereza sombria. O olhar dele desceu para o artefato. — Eu roubei-a das garras da frota de Sulheim. E o preço que paguei por este pedaço de metal foi a vida da minha tripulação.
+O vento que entrava pelas frestas do estaleiro pareceu gelar. A revelação do sacrifício silenciou qualquer ironia que Runner pudesse ter na ponta da língua.
+Valen ergueu o rosto, cravando os olhos castanhos na sua nova família.
+— Em Kalimar, nas docas e nas tabernas, todos nós crescemos a ouvir as mesmas lendas. As histórias de Orn, o lendário Capitão do Serpentina de Ferro — disse Valen, o tom assumindo a cadência dos contos antigos que moldavam os mares. — Contavam como ele enfrentou a Marinha Imperial e dominou os oceanos inteiros numa época muito antes de os cães de Sulheim sequer pensarem em existir.
+A menção do nome acendeu uma faísca imediata nos olhos de Runner. O garoto saltou de cima de um caixote, a empolgação infantil quebrando a sua postura de rato de rua.
+— Orn! Eu ouvia os velhos marinheiros falarem dele no Mercado Flutuante — exclamou Runner, gesticulando com as mãos. — Diziam que ele partia mastros ao meio com os próprios punhos e que a pele dele repelia balas de canhão. A história era de que o corpo dele não era biologicamente natural.
+— E realmente não era — concordou Mina, encostada ao parapeito da ponte de comando. A assassina mantinha a voz contida, mas o fascínio homicida era inegável. — Depois de Orn, surgiram outras lendas. O Açougueiro de Rota-Cega, a Dama das Marés... Pessoas que realizaram feitos inimagináveis, que varreram frotas inteiras sozinhas. Coisas que a anatomia humana simplesmente não deveria suportar.
+Gilbert ajeitou os óculos, a sua mente analítica processando os mitos através do filtro da lógica.
+— Mitos portuários são frequentemente exagerados pelo tempo e pelo rum, é verdade — ponderou o navegador. — No entanto, os registros navais mais antigos de Kalimar são irrefutáveis. Houve, de fato, anomalias biológicas nesses indivíduos. Eles não eram apenas habilidosos; eles quebraram o teto da evolução humana. Mas os arquivos da Marinha nunca explicaram o que esses indivíduos tinham em comum. O que os transformou.
+Valen apertou a bússola com firmeza, a luz pálida do hangar a refletir na superfície de vidro.
+— Eu sei o que eles tinham em comum — declarou o Capitão, a sua voz ecoando absoluta pelo convés do Coruja Eclipse. — Eles foram Marcados. Foram engolidos pela Névoa de Kalimar e sobreviveram.
+O silêncio que se seguiu foi asfixiante. A Névoa não era apenas um fenómeno meteorológico; era o abismo, a lenda proibida que os marinheiros temiam e cobiçavam em igual medida.
+— E esta bússola — continuou Valen, apontando para o cristal que pulsava lentamente — faz exatamente isso. Ela não aponta para a terra firme ou para um porto seguro. Ela rastreia a essência da magia. Ela aponta a direção exata da Névoa. E esse é o nosso objetivo.
+A tripulação ficou boquiaberta. O peso daquela ambição esmagou o ar. Eles não estavam apenas a fugir de Kaelyndor ou a roubar um navio para sobreviverem como mercenários. Valen estava a guiá-los para o epicentro dos deuses dos mares. O objetivo era atravessar o véu do impossível. O objetivo era tornarem-se lendas, iguais ao inigualável Orn do Serpentina de Ferro.
+O medo inicial foi rapidamente engolido por uma ambição crua e selvagem. Os olhos de Mina brilharam com a promessa de letalidade absoluta; Runner sorriu, imaginando um mundo onde ninguém jamais poderia prendê-lo; e até mesmo Gilbert pareceu fascinado com a oportunidade de estudar a magia primordial.
+O choque de realidade, contudo, exigia ação.
+— Se vamos caçar a Névoa, precisamos de suprimentos para não morrermos à fome antes de virarmos lendas — decretou Gilbert, batendo com o seu grimório na mesa de navegação.
+Rapidamente, o grupo dividiu-se para otimizar o tempo escasso. Runner e Mina foram designados para vasculhar o mercado negro e as vielas escuras. O garoto conhecia quem vendia barris de pólvora sem fazer perguntas, e a presença ameaçadora da assassina garantiria que os preços fossem "justos". Gilbert partiu numa direção diferente, incumbido de adquirir cartas náuticas atualizadas, instrumentos de medição e ervas medicinais nas guildas comerciais onde ainda mantinha contatos.
+O Capitão permaneceu no navio, sozinho com Kael.
+Durante toda a tarde, o estaleiro de pedra transformou-se numa oficina implacável. A dinâmica entre Valen e a ferreira era uma dança silenciosa de força e precisão. Valen usava o seu braço de carne e a prótese mecânica para erguer as pesadas vigas de suporte e tencionar os cabos de aço que Kael precisava de soldar. Sem necessidade de ordens ou conversas longas, eles trabalharam lado a lado. O som do martelo dela a bater no metal ecoava pelo hangar, enquanto o Capitão apertava as roldanas e ajustava os contrapesos da quilha dupla. O suor escorria pelo rosto de ambos, mas a satisfação de ver o Coruja Eclipse a ganhar vida superava a exaustão.
+Quando o sol começou a baixar, tingindo as frestas do telhado com um laranja manchado de fuligem, o restante do grupo regressou.
+O som de rodas de madeira e passos apressados anunciou a chegada dos suprimentos. Runner vinha a empurrar um carrinho de mão carregado com barris de pólvora e caixotes de maçãs secas, ofegante, mas com um sorriso vitorioso. Mina caminhava ao lado dele, carregando pesados rolos de corda trançada e arpões nos ombros, sem demonstrar qualquer esforço. Gilbert surgiu logo atrás, com os braços cheios de mapas selados em tubos de couro.
+A integração foi imediata. Runner atirava as caixas para o convés inferior, enquanto Mina as empilhava e amarrava com nós navais que Valen lhe ensinava rapidamente. Gilbert organizava a mesa de comando, ajustando o astrolábio e calculando a distribuição do peso para que a quilha de Kael não sofresse tensão desigual. Eles trabalharam em uníssono, as peças desconexas de Kaelyndor a formarem, pela primeira vez, a engrenagem perfeita de uma tripulação.
+As horas voaram, e a noite acabou por cair sobre o estaleiro de pedra como um cobertor espesso de fumaça e maresia.
+O frio úmido do porto infiltrou-se no hangar. No convés do navio, Mina montou um acampamento improvisado, empilhando algumas lonas pesadas e acendendo um pequeno fogareiro contido num balde de ferro para espantar a friagem. Runner, recusando-se a dormir no chão, pendurou habilmente uma rede entre o mastro principal e a amurada de estibordo, atirando-se lá para dentro com um suspiro de exaustão.
+Kael e Gilbert recolheram-se para o interior do navio. O navegador estava focado em estudar as rotas à luz de uma vela fraca na cabine, enquanto a ferreira descansava perto do maquinário do leme, como uma guardiã a zelar pela sua obra-prima.
+Na proa, afastado do calor do fogareiro, Valen estava de pé.
+O Capitão mantinha as mãos apoiadas na madeira polida da amurada, o olhar erguido para a lua pálida que tentava rasgar as nuvens de Kaelyndor. Lentamente, ele abriu a mão de carne e olhou para a bússola negra. O cristal pulsava na escuridão, uma batida silenciosa que prometia o mundo, mas que cobrava tudo em troca.
+Valen guardou o objeto no casaco, sentindo o peso do destino contra o peito.
+E embora o estaleiro estivesse mergulhado no silêncio, ninguém a bordo do Coruja Eclipse dormia verdadeiramente. Nas sombras da rede, nas cabines iluminadas por velas e no convés frio, cada membro daquela nova tripulação mantinha os olhos abertos. Nos seus íntimos, todos partilhavam o mesmo pensamento inquieto e devorador sobre a missão que os aguardava na Névoa. A promessa de deixarem de ser os restos esquecidos de uma cidade podre. A promessa de serem mais. A promessa inebriante de se tornarem lendas.
+
+
+#Capítulo 15 – A Trilha de Karak-Dûn e a Força do Aço
+O novo dia começou não com o canto de pássaros, mas com o ranger grave do casco recém-fixado e o cheiro inconfundível de serragem molhada e alcatrão fresco.
+No estaleiro, a neblina matinal ainda não havia se dissipado quando Kael passou os olhos críticos pela estrutura inferior do Coruja Eclipse. A ferreira limpou a graxa das mãos num pedaço de estopa, e a sua sobrancelha franziu-se numa linha dura de insatisfação.
+— Ainda falta — murmurou ela, batendo com a bota na madeira reforçada da quilha. — E não é pouco.
+Valen aproximou-se em passos silenciosos, seguido de perto por Gilbert e Mina. O Capitão manteve as mãos cruzadas nas costas, avaliando o trabalho monumental que já havia sido feito durante a madrugada.
+— O que mais precisamos? — perguntou Valen, a voz serena, pronta para o próximo obstáculo.
+— Granito negro — respondeu Kael, apontando para uma planta da base da quilha estendida sobre um barril. — Três blocos maciços. Sem isso, a blindagem inferior do casco não segura um impacto direto de artilharia, nem a pressão que a Névoa vai exercer sobre a estrutura. Vai rachar como uma casca de noz seca.
+— E onde conseguimos isso? — indagou o Capitão.
+Kael cruzou os braços largos, a expressão azedando.
+— Aqui em Kaelyndor? Só os nobres e os arquitetos imperiais de Sulheim o têm. E cobram como se cada maldita pedra tivesse uma alma própria.
+— Então a gente vai ter que negociar com fantasmas — murmurou Runner, chegando ao grupo com uma pá apoiada de forma desleixada no ombro, um sorriso zombeteiro no rosto.
+— Talvez não — disse Mina, de repente.
+Todos viraram o rosto para a assassina. Ela não costumava oferecer soluções logísticas.
+— Conheço alguém. Alguém que vive isolado, perto das Montanhas de Karak-Dûn — explicou Mina, ajeitando as adagas na cintura. — Ele costumava vender granito diretamente das pedreiras, sem passar pelos mercadores do porto. É um material bruto. Mas é confiável. E, mais importante, ele não é o tipo de homem que se importa com licenças imperiais ou notas fiscais.
+Kael ergueu a sobrancelha, cética.
+— E essa confiança que tem nele? É instável ou absoluta?
+— Confiança de quem já me carregou desmaiada nos ombros por duas léguas debaixo de chuva e nunca encostou um único dedo além do estritamente necessário — sentenciou Mina, o tom encerrando qualquer dúvida sobre o caráter do contato. — Ele sabe das rotas de extração. E se ele ainda estiver por lá... pode conseguir os três blocos por um terço do valor.
+Valen assentiu, sem hesitar. Ele confiava no julgamento dela.
+— Então, vamos. Preparem-se para marchar.
+A saída de Kaelyndor foi feita sob a discrição das vielas operárias, mas logo o cenário opressivo do porto deu lugar à vastidão agreste e fria das cordilheiras do leste. As Montanhas de Karak-Dûn erguiam-se no horizonte como dentes cinzentos e pontiagudos a rasgar o céu nublado. A caminhada era longa, e a inclinação do terreno exigia fôlego.
+A dinâmica da recém-formada tripulação começava a manifestar-se a cada quilómetro percorrido.
+— Se me tivessem avisado que o recrutamento naval envolvia alpinismo, eu teria cobrado o triplo antes de assinar com sangue — resmungava Gilbert, ofegante. O navegador parou por um segundo para anotar algo num caderno, ajustando os óculos. — A inclinação deste terreno ultrapassa os trinta graus. Os meus joelhos não foram desenhados para a barbárie. E afinal, quem é esse seu contato nas pedreiras, Mina? Um comerciante?
+— Brutus — respondeu a ruiva, sem virar o rosto, mantendo o passo firme à frente do navegador. — E é mais fácil mostrar do que tentar explicar.
+Runner, que saltitava pelas pedras como um cabrito montês sem demonstrar qualquer cansaço, surgiu de trás de um arbusto retorcido.
+— Ele é... problemático? — insistiu o jovem ladrão, o sorriso irônico sempre pronto. — E mais importante, ele é musculoso? Porque, pela forma como você fala, parece que estamos a ir ao encontro do amor da sua vida que você deixou nas pedras.
+Mina parou e lançou um olhar tão letal a Runner que o garoto quase perdeu o equilíbrio.
+— Ele é forte — disse ela, a voz fria. — E é o único que conheço que consegue arrancar um bloco de granito bruto da parede com as mãos nuas e chamar isso de um esforço leve. E se você não calar a boca, Runner, eu peço-lhe para usar as mesmas mãos para esmagar a sua cabeça.
+Runner ergueu as mãos em rendição.
+— Que agressividade desnecessária. O nosso adorável Capitão não lhe ensinou a ter paciência? Valen mal abriu a boca desde que saímos do porto. É deprimente.
+Mina deu um passo em direção ao garoto.
+— O Capitão está a focar no que importa. Ele não precisa de preencher o silêncio com bobagens como você — defendeu a assassina, o tom cortante. — A autoridade exige foco. Você devia tentar aprender alguma coisa a olhar para ele, em vez de tagarelar.
+Kael, que caminhava mais atrás carregando uma mochila pesada de ferramentas sem derramar uma única gota de suor, soltou uma risada grave. Ela atirou um cantil de água de metal pesado, que atingiu o peito de Runner com força suficiente para tirar-lhe o ar.
+— Beba água e feche o bico, corvo torto — ordenou a ferreira, embora houvesse um brilho divertido nos seus olhos. — A garota tem razão. E se o navegador cego continuar a reclamar dos joelhos, eu coloco-o na minha mochila e carrego-o como um fardo de feno.
+Gilbert suspirou, fingindo ignorar o insulto carinhoso.
+Valen caminhava à frente do grupo, inabalável. Ele observava a troca de farpas com uma atenção discreta. O Capitão sabia que aquelas pequenas discussões eram o cimento que unia as pedras da tripulação. Eles não eram soldados disciplinados; eram lobos solitários a aprender a caçar em matilha. E ele manteria as rédeas firmes até que estivessem prontos.
+No entanto, a montanha tinha os seus próprios planos.
+No meio da tarde, o caminho desapareceu. A trilha principal havia cedido, destruída por um deslizamento de terra recente. Restava apenas uma passagem alternativa: uma saliência de rocha natural absurdamente estreita, cravada na lateral de um desfiladeiro vertical. Abaixo deles, uma queda livre de mais de cem metros terminava num rio violento e escuro. O vento ali uivava, cortando o rosto como lâminas de gelo.
+Gilbert aproximou-se da beira do abismo, calculando o ângulo e a erosão da pedra.
+— Isso é suicídio estatístico — decretou o navegador, limpando as lentes. — A integridade estrutural dessa saliência é nula. A humidade corroeu o calcário. Podemos dar a volta pela encosta leste. É seguro.
+— E quanto tempo isso demora? — perguntou Valen, a voz elevada para superar o ruído do vento.
+— Dois dias a mais, no mínimo.
+— Não temos dois dias! — interveio Kael, jogando a mochila pesada no chão com um baque seco. Ela apontou para a trilha mortal. — A estrutura do Coruja precisa do peso morto na quilha antes de aplicarmos a pressão do alcatrão. Se esperarmos mais três dias, a madeira retrai com o frio e perdemos o casco. Nós precisamos daquele granito negro agora.
+Valen olhou para o abismo, e depois para a ferreira. A decisão era óbvia.
+— Nós atravessamos — comandou o Capitão. — Um por vez. Costas coladas à parede. Não olhem para baixo.
+Runner foi o primeiro. O garoto não tinha peso e o seu centro de gravidade era perfeito. Ele moveu-se pela saliência estreita com a agilidade de um gato de rua, deslizando os pés pelas pedras úmidas e usando as pontas dos dedos para se segurar nas fendas. Em menos de um minuto, ele estava do outro lado, são e salvo.
+Ele virou-se, seguro na plataforma do outro lado do desfiladeiro, e abriu o seu sorriso mais presunçoso.
+— Viu só? Fácil como roubar pão na feira — gritou Runner. Mina estava prestes a iniciar a sua travessia. O garoto estendeu a mão na direção dela, fazendo uma reverência zombeteira. — Precisa de ajuda, senhorita das lâminas? Um apoio moral, talvez?
+Mina bufou de desprezo, ajeitando a alça da mochila.
+— Eu não preciso de ajuda, ladrãozinho. Muito menos da sua.
+Ela iniciou a travessia. Os seus movimentos eram calculados e perfeitamente controlados. Mina colou as costas à rocha fria, deslocando-se lateralmente. Faltavam apenas três metros para alcançar o lado onde Runner estava.
+Mas a montanha foi traiçoeira.
+A bota de couro de Mina encontrou uma placa de calcário solta e coberta de musgo. A pedra cedeu sob o peso dela sem emitir qualquer aviso.
+O corpo da assassina escorregou no vazio. O vento tentou sugá-la para o abismo.
+Ela não teve tempo de gritar. As suas mãos arranharam a parede, procurando desesperadamente por um apoio que não existia.
+No segundo exato em que a gravidade ameaçou vencer, um braço robusto, grosso como um tronco de carvalho, disparou pelo ar.
+Kael, que estava logo atrás, atirou-se contra a beirada da parede, fincou as botas na pedra e, com apenas um braço, agarrou o antebraço de Mina no ar. O tranco foi colossal. Os músculos do braço da ferreira estalaram e incharam sob o couro do colete, mas ela não cedeu um milímetro. Kael ancorou a assassina no vazio, segurando todo o peso dela e do equipamento com uma força que desafiava a biologia.
+Mina estava pendurada sobre o rio mortal, os olhos arregalados, a respiração presa na garganta.
+Runner, do outro lado, perdeu a cor no rosto. O sorriso presunçoso apagou-se instantaneamente.
+— Pelo sangue dos deuses... — murmurou o garoto, em choque. Ele piscou, tentando recuperar o ar, e olhou para a ferreira. — Lembrem-me de nunca, em hipótese alguma, apostar uma queda de braço com essa mulher.
+O rosto de Kael estava vermelho pelo esforço, os dentes trincados de forma assustadora.
+— Cala a boca e puxa a garota pelas costas do colete, corvo infeliz! — berrou Kael, a voz soando como o rugido de um urso, mas sem soltar o aperto de aço.
+Runner acordou do transe. Ele deitou-se na beirada da plataforma, agarrou as correias do equipamento de Mina e, com Kael a içar a maior parte do peso num puxão bruto e monumental, eles trouxeram a assassina de volta à segurança da terra firme.
+Mina caiu de joelhos na pedra, ofegante, o coração a bater descontroladamente contra as costelas. Ela olhou para as próprias mãos a tremerem e depois para a ferreira, que já saltava para a plataforma final sem demonstrar qualquer fadiga.
+— Obrigada — sussurrou Mina, a voz falhando, o orgulho completamente esquecido.
+Kael apenas deu um tapinha pesado e áspero no ombro da ruiva.
+— O chão do meu navio não aceita manchas de sangue de amadores, garota. Cuidado onde pisa — respondeu a ferreira, o tom ríspido mascarando um alívio genuíno.
+Valen e Gilbert cruzaram em seguida, sem incidentes, graças às orientações táticas de onde não pisar.
+Quando todos estavam reunidos e seguros do outro lado do desfiladeiro mortal, Valen ajustou o casaco, o olhar inabalável focado no horizonte cinzento de Karak-Dûn. A sua tripulação havia superado o primeiro obstáculo geográfico em equipa. Eles estavam prontos.
+— Vamos — ordenou o Capitão, apontando para as colinas rochosas. — O nosso contato espera. E nós temos um casco para blindar.
+
+#Capítulo 16 – O Gigante de Karak-Dûn e o Coração da Montanha
+Como de costume naquelas montanhas impiedosas, a trilha não terminava com uma placa de boas-vindas. O caminho de terra e pedras soltas abriu-se numa ampla clareira escavada diretamente na rocha viva, onde pilhas imensas de pedra negra estavam dispostas com uma organização rústica e metódica. Próximo à encosta, erguia-se um barracão simples, mas incrivelmente reforçado com colunas de metal escuro e vigas de madeira de lei.
+O silêncio do lugar foi quebrado por um ruído surdo.
 Passos.
-
-O chão tremeu de leve.
-
-E Brutus apareceu.
-
-Dois metros e doze. Moicano trançado. Peitoral nu coberto por tatuagens. Calças largas. Um machado de duas lâminas nas costas. E uma pedra do tamanho de uma pessoa no ombro — como quem carrega uma cesta de frutas.
-
-— Mina! — rugiu, abrindo um sorriso largo. — Você voltou!
-
-Mina respirou fundo.
-
-— Brutus... esses são meus... companheiros. Precisamos de ajuda.
-
-Brutus os observou com olhos castanhos grandes e expressivos, parando por mais tempo em Valen.
-
-— Esse é o chefe?
-
-Valen assentiu.
-— Precisamos de granito. Bom, limpo. E barato.
-
-Brutus coçou a barba.
-
-— Tenho três blocos prontos. Se forem vocês... posso fazer por metade do preço.
-
-— Por quê? — perguntou Gilbert.
-
-Brutus olhou para Mina.
-Depois deu de ombros.
-
-— Porque ela nunca me tratou como monstro. E porque... gosto de ver gente saindo do chão pra tocar o céu.
-
-Runner o encarou com um misto de respeito e confusão.
-
-— Esse cara fala em metáforas?
-
-— De vez em quando. — disse Mina, tentando não sorrir.
-
-
-Com a ajuda de Brutus, os blocos foram carregados com facilidade para o transporte improvisado. A força dele não passou despercebida. Valen observava. Gilbert também.
-
-Kael, de longe, murmurou:
-— Se a gente tivesse ele no convés... metade das manobras seriam resolvidas com um braço só.
-
-Valen nada respondeu.
-Mas o olhar entregava que já havia entendido.
-
-
-No final do dia, de volta ao estaleiro, Brutus descarregou a última pedra. Suado, sorridente, orgulhoso. E sem pedir nada em troca.
-
-Mina lhe entregou um cantil.
-
-— Obrigada.
-
-Ele aceitou com reverência.
-
-— Se quiserem... posso voltar amanhã.
-
-Valen olhou para ele por um longo instante.
-
-Depois disse, com voz calma:
-
-— Talvez.
-
-E foi embora.
-
-Mas a ideia… já estava fincada.
-
-
-
-#Capítulo 14 – O Que Fica
-
-O entardecer chegou tingido de tons dourados e fumaça das fornalhas. O estaleiro fervilhava com os últimos ajustes. Cordas sendo tensionadas, painéis reforçados sendo instalados, e o casco da Coruja Eclipse começava a ganhar sua forma final.
-
-No convés, Mina amarrava as correias dos remos auxiliares enquanto Runner se equilibrava sobre o mastro, com uma flâmula improvisada que dizia “Ainda não afundamos”.
-
-— Você vai cair. — disse ela, sem nem levantar os olhos.
-
-— Se eu cair, é só você me segurar. — respondeu Runner.
-
-— Vai cair. — repetiu Kael, de dentro da estrutura. — E se quebrar alguma coisa, eu faço você dormir com as peças soltas.
-
-Valen observava em silêncio.
-Gilbert terminava um diagrama astronômico na proa, olhando o posicionamento das estrelas que guiariam a primeira rota.
-
-— Dois dias. — anunciou Kael, limpando o rosto com um pano. — Se não faltar mais nada, em dois dias a Coruja zarp... espera.
-
-Ela parou.
-
-— Mina. As placas internas de reforço. Só chegaram quatro. Faltam duas.
-
-Mina franziu a testa.
-— Verdade. Aquelas duas que estavam rachadas... eu falei com o fornecedor, mas ele cobrou dobrado. Disse que a procura aumentou depois que os “Sulheim” chegaram na cidade.
-
-Gilbert suspirou.
-
-— Isso significa...?
-
-— Significa que a gente vai precisar resolver isso amanhã cedo. — disse Mina. — Se alguém quiser me ajudar, aceito voluntário. Mas só se não for o Runner.
-
-— Ei! — protestou ele.
-
-— Você é leve demais pra carregar pedra e desastrado demais pra pegar o recibo.
-
-— Ela tem razão. — murmurou Valen, quase sem mover os lábios.
-
-Runner cruzou os braços.
-— Legal.
-— E que dia exatamente vamos zarpar, então? Eu só preciso saber se é depois da tempestade que vem aí.
-
-— Depois de amanhã. — disse Kael, jogando o pano sujo para cima. — Quando o vento virar. Se tudo der certo... estamos fora do cais antes da próxima maré cheia.
-
-— Ótimo. — comentou Runner. — “Depois de amanhã” então. Está oficialmente decidido! Equipe partindo às primeiras luzes!
-
-Ele fez uma reverência exagerada, fingindo uma proclamação real.
-
-— Que comece a era do Eclipse!
-
-Todos riram.
-E seguiram trabalhando.
-
-
-Na manhã seguinte, ainda antes do nascer do sol, o portão do estaleiro rangeu.
-Passos pesados ecoaram pela pedra molhada.
-
-— Mina? — uma voz grave e conhecida soou, empolgada demais para aquele horário.
-
-Brutus entrou.
-
-Cabelo preso, camisa nova.
-Um saco de viagem nas costas. Um barril nos braços. Um sorriso nos olhos.
-
-— Estou pronto!
-
-Todos pararam.
-
-Valen ergueu uma sobrancelha.
-Mina congelou com uma ferramenta na mão.
-
-— Pronto pra...?
-
-— Pra partir, ué! — respondeu Brutus, animado. — Você disse ontem: “Ele seria bom no convés”! E ontem já foi! E hoje é depois!
-
-Runner caiu de joelhos, rindo.
-
-— Meu Deus, ele achou que era oficial!
-
-Brutus olhou em volta, confuso.
-
-— Não era?
-
-Kael suspirou, girando os olhos.
-
-— Olha... tecnicamente ele chegou antes de você hoje. — disse, apontando para Runner.
-
-— E trouxe barril. — completou Gilbert, olhando para a marca do vinho impresso na madeira. — E não é vinho ruim.
-
-Valen olhou para Brutus.
-
-— Você entende o que estamos fazendo aqui?
-
-Brutus assentiu, solene.
-
-— Estamos indo para longe. Pra um lugar onde só os teimosos e os certos sobrevivem. E vocês precisam de alguém que carregue as coisas pesadas. E que faça sopa boa.
-
-Valen cruzou os braços.
-
-— Você sabe fazer sopa?
-
-— Não. Mas posso aprender no caminho.
-
-Mina riu. Pela primeira vez, de verdade.
-
-Valen deu um leve suspiro.
-E estendeu a mão.
-
-Brutus largou o barril. E abraçou o capitão.
-
-Com os dois braços.
-
-— Brutus... mão. Só a mão. — disse Valen, com dificuldade.
-
-— Desculpa!
-
-
-No alto da torre do estaleiro, a primeira luz do dia começava a romper o horizonte.
-
-E agora, pela primeira vez desde que tudo começou, a Coruja Eclipse tinha algo que nunca teve antes:
-
-uma tripulação completa.
-
-
-
-
-
-#Capítulo 15 – Antes da Névoa
-
-O som dos martelos havia cessado.
-
-No lugar das faíscas, agora havia o som abafado de canetas, carimbos, e suspiros impacientes. Gilbert estava curvado sobre a mesa improvisada do convés, cercado por papéis oficiais, mapas, autorizações de carga e permissões alfandegárias.
-
-— Você chamou isso de sistema eficiente? — reclamou Mina, encostada no mastro. — Já vi brigas em ringue que fluem melhor.
-
-— Não é sistema. É burocracia. — corrigiu Gilbert. — Um tipo especial de veneno que você bebe de olho aberto. E precisa agradecer por cada gole.
-
-Na lateral do navio, dois oficiais da Guarda Marinha de Kaelyndor examinavam tudo com olhares vazios e lentes grossas. Os uniformes úmidos e os distintivos dourados pareciam pesados demais para suas posturas moles.
-
-— Nome do comandante da embarcação? — perguntou o oficial mais baixo, com voz pastosa.
-
-Gilbert respondeu sem hesitar.
-— Valen Draxor. Capitão da embarcação Coruja Eclipse.
-— Tripulação formada, funções definidas, rota preliminar protocolada conforme a cláusula 17C da Aliança Portuária.
-
-O outro oficial coçou o queixo.
-
-— E por que zarpar tão cedo? A maioria espera a próxima lua.
-
-— Nossa pressa é movida por vento e por vontade. — respondeu Valen, surgindo atrás dos dois como uma sombra educada.
-
-— Tem nome bonito. — comentou o primeiro, olhando o casco. — Coruja Eclipse. Nome de navio que não volta.
-
-— Ou de navio que não precisa. — respondeu o capitão.
-
-
-Após uma hora de inspeção, carimbos e selos trocados, os guardas finalmente recuaram com expressões frustradas e a leve sensação de que haviam sido vencidos por quem não levantou a voz.
-
-Quando a embarcação voltou ao silêncio, Gilbert sentou com um leve gemido.
-
-— Próxima vez que quiser navegar com liberdade, Capitão, sugiro construir o próprio país.
-
-— Talvez depois. — respondeu Valen.
-
-
-A noite caiu com uma calma traiçoeira.
-
-A maioria da tripulação dormia: Kael roncava em sua forja improvisada, Brutus enrolado em um cobertor e um barril, Runner em rede mal feita, Mina encostada na escada com os olhos semiabertos.
-
-Valen permaneceu sozinho na proa. O vento noturno cortava o convés como lâmina morna.
-
-Ele sentiu antes de ver.
-
-Virou o rosto.
-
-Ela estava ali.
-
-Sombra.
-
-Capuz abaixado, olhos violetas intensos.
-Pele pálida como luar.
-Presença... antiga.
-
-Apenas ele a via.
-
-— Você ia mesmo partir... sem mim? — perguntou ela. A voz era baixa, arrastada, como lamento antigo.
-
-Valen não respondeu de imediato.
-Apenas encarou.
-
-— Eu pensei que talvez... você tivesse ido longe demais.
-
-— Fui.
-— E voltei.
-— Porque se você vai... eu vou também.
-— Sempre fui sua sombra.
-— E sempre serei.
-
-Ela se aproximou.
-Tocou o braço dele — o de carne, não o de ferro.
-
-— Eles não sabem o que enfrentam.
-— Mas eu sei.
-
-— Eles têm coragem. — respondeu Valen.
-
-— Coragem mata.
-— O que você precisa agora... é alguém que lembre o que te destruiu.
-
-Valen baixou a cabeça.
-Depois assentiu, apenas uma vez.
-
-Sombra recuou.
-Sumiu na escuridão do convés.
-
-
-
-E na primeira luz do dia seguinte, quando todos acordaram e olharam para a proa, ela já estava ali.
-
-Encostada na amurada. Calada.
-Ninguém se perguntou como chegou.
-
-Mas ninguém ousou mandar embora.
-
-
-
-#Capítulo 16 – O Primeiro Horizonte
-
-O sol nasceu mais claro do que os anteriores.
-Como se soubesse que aquela manhã não era comum.
-
-No cais, as velas da Coruja Eclipse estavam içadas, ainda sem vento. O navio parecia conter a respiração, como fera enjaulada prestes a correr. Cordas amarradas, carga segura, rostos virados para o mar.
-
-Gilbert estava na popa, revisando o último mapa e ajustando a luneta. Kael, com o martelo às costas, fazia checagens técnicas sem dizer palavra. Runner amarrava suas adagas na cintura como se fosse para uma festa, enquanto Brutus colocava flores entre os barris — “pra deixar o navio mais bonito”, segundo ele.
-
-Mina observava tudo com o olhar de quem não deixava nada passar.
-
-Valen estava à frente.
-Na proa.
-
-Vestia o sobretudo fechado. Braço mecânico à mostra. Os olhos castanhos encaravam o horizonte como se já tivessem estado lá.
-
-Quando todos se reuniram ao redor da escada principal, ele subiu três degraus e olhou para sua tripulação.
-
-— Hoje... começa aquilo que poucos têm coragem de tentar.
-— Não por ouro. Nem por glória.
-— Mas porque o caminho certo raramente está no mapa dos outros.
-
-O silêncio entre eles era absoluto. Mas não vazio.
-
-— Cada um de vocês veio por um motivo.
-— Mas agora... só partimos se partirmos juntos.
-
-Ele olhou para o lado.
-E fez sinal com a mão.
-
-Das sombras do convés, ela surgiu.
-
-Sombra.
-
-Capuz abaixado, olhos violetas à luz do dia.
-Postura calma. Passos leves.
-Silenciosa como a noite.
-
-— Esta é Sombra.
-— Não preciso explicar quem ela é.
-— Só o que representa: fidelidade absoluta. Silêncio quando é preciso. E morte rápida quando não é.
-
-Brutus recuou meio passo, impressionado.
-
-Runner arqueou uma sobrancelha.
-
-— Bonito nome. Um pouco ameaçador.
-
-— Ela é. — murmurou Mina, analisando de cima a baixo.
-
-Gilbert apenas observou.
-Kael manteve-se séria, mas firme.
-
-Valen encarou o grupo.
-
-— Ninguém pergunta de onde ela veio.
-— Ela está aqui porque deve estar.
-— E, como vocês... não voltaria pra trás nem se quisesse.
-
-Sombra parou ao lado dele. Não disse uma palavra. Mas seu olhar ficou nele por um segundo a mais do que o necessário.
-
-
-Valen desceu os degraus.
-
-— Gilbert. Rota inicial.
-
-— Oeste, por três dias.
-— Depois... a bússola decide. — respondeu o navegador, já de prontidão.
-
-Valen girou a bússola com um estalar de pulso. O cristal brilhou.
-O ponteiro girou...
-E travou.
-
-Eles tinham um rumo.
-
-Valen ergueu o braço.
-— Soltem as amarras.
-
-Mina gritou para os homens nos trilhos. Kael sinalizou os contrapesos. Runner correu para soltar o último fecho. Brutus empurrou o casco com força bruta. E, finalmente...
-
-A Coruja Eclipse tocou o mar.
-
-A água lambeu o casco com um som ancestral. E o navio se moveu.
-
-Lento. Mas com vontade.
-Como se soubesse que, a partir dali, cada onda seria parte de um caminho sem volta.
-
-
-
-Valen permaneceu na proa.
-Sombra ficou a poucos passos atrás.
-
-O vento começou a soprar.
-
-O navio respondeu.
-
-E o mundo… começou a mudar.
-
-
-
-#Capítulo 17 – Rotas Esquecidas
-
-O mar balançava com firmeza, mas sem fúria.
-
-As primeiras luzes após a partida de Kaelyndor cortavam as velas da Coruja Eclipse como fios dourados. A embarcação avançava com confiança recém-nascida, ainda respirando fundo como quem se acostuma à liberdade.
-
-Gilbert se encontrava na cabine de navegação, cercado por mapas desdobrados, réguas de maré, bússolas secundárias e cilindros com registros de ventos antigos. Uma garrafa de vinho pela metade repousava no canto da mesa — ignorada.
-
-Valen entrou sem bater.
-
-— A tripulação se ajusta. — comentou, sem cerimônia.
-
-Gilbert nem levantou os olhos.
-— O navio também. Só espero que o mar se mantenha civilizado por mais uma noite.
-— Precisamos conversar.
-
-Valen se aproximou da mesa.
-— Sulheim?
-
-— Eles se moveram. — disse Gilbert, direto.
-— Três navios deles foram vistos partindo de Karak-Sel, um deles com a insígnia dourada.
-
-— Elvath? — murmurou Valen, a voz mais grave.
-
-— Ou alguém sob o comando direto. Estão varrendo a costa em busca de algo. — os olhos de Gilbert se levantaram, sérios — E você sabe o que é.
-
-Valen puxou do casaco a bússola sagrada.
-
-— Eles ainda estão atraz disso.
-— Como se fosse uma chave.
-— Como se a Névoa fosse deles.
-
-Gilbert sorriu de forma amarga.
-— Fanáticos com mapa na mão. A pior raça.
-
-— Alguma rota segura?
-
-Gilbert girou o mapa central.
-Apontou para uma linha irregular traçada com tinta cinza-esverdeada.
-
-— Há uma passagem pelas Trilhas de Orún, entre arquipélagos dispersos ao norte. Poucos se arriscam por lá. Bancos de corais, tempestades abruptas, presença recorrente de piratas... os Klaen.
-
-— E por que parece uma boa ideia?
-
-— Porque só um louco se arriscaria por ali.
-
-Valen cruzou os braços.
-— Perfeito.
-— Precisamos parecer loucos... e inofensivos.
-
-Gilbert ajustou os óculos.
-— Vamos precisar navegar à noite. Apagar lanternas. A bússola principal vai interferir com os campos magnéticos das Klaenras. Vou ter que calcular rotas por estrela... quase às cegas.
-
-Valen assentiu.
-
-— Acha que consegue?
-
-— A pergunta certa seria: “consegue sobreviver se eu errar?”
-
-Valen sorriu.
-
-— Eu já sobrevivi a coisa pior... com você errando.
-
-
-Lá fora, Mina amarrava a rede de proteção lateral enquanto observava o horizonte. Runner, pendurado no cordame superior, cantarolava uma melodia antiga das docas. Kael limpava os filtros de água com expressão meticulosa. Brutus fazia exercícios de braço levantando um tonel de vinho — sob o olhar cético de Sombra, que permanecia sentada na amurada, observando o mar como quem escuta sussurros que ninguém mais ouve.
-
-A tripulação estava viva. Mas o mundo lá fora começava a reagir.
-
-E Valen sabia: quanto mais a bússola brilhava, mais escura ficaria a água à frente.
-
-
-
-#Capítulo 18 – A Boca do Labirinto
-
-As águas mudaram.
-
-Ainda calmas, mas com uma densidade sutil, como se o mar respirasse diferente. Como se o próprio oceano aguardasse que alguém cruzasse a linha invisível que separava o caminho dos vivos e a rota dos tolos.
-
-Gilbert subiu ao convés carregando duas cartas estelares enroladas e uma bússola secundária presa no colar.
-
-— Estamos nos aproximando da entrada. — anunciou. — Última chance de fazer curva e manter a sanidade.
-
-— Eu já perdi a minha na última travessia de mercado. — respondeu Runner, descendo das cordas com um sorriso cansado.
-
-Kael ajustava os suportes metálicos da quilha reforçada com os blocos de granito.
-
-— Todo o casco inferior vai ser testado. Corrente reversa, bancos de pedra... e se o casco abrir, nem água entra. Só o mar inteiro.
-
-Mina organizava as cordas de segurança com movimentos metódicos.
-
-— Preparei três cabos trançados com gancho retrátil. Se cair no mar, tem quinze segundos pra voltar. Depois disso... bom, é mais fácil virar história.
-
-Valen caminhava devagar entre eles.
-
-— Quantas milhas até a primeira bifurcação? — perguntou.
-
-— Quarenta e duas. — respondeu Gilbert. — Mas depende do vento. E da sorte.
-
-Brutus se aproximou com um balde cheio de pontas de arpão.
-
-— Coloquei os reforços nos cabos laterais. Se os piratas aparecerem, a gente joga isso na água e torce pra furar antes que encoste.
-
-— Isso é... mais inteligente do que parece. — disse Gilbert, surpreso.
-
-— Eu sou mais esperto do que pareço. — respondeu Brutus, sorrindo. — Mas prefiro que pensem o contrário.
-
-Sombra apareceu no topo do leme. Ninguém a viu subir.
-
-— Duas velas pequenas se aproximaram no horizonte. Mas recuaram. Estavam observando.
-— Devem avisar alguém.
-
-Valen olhou para ela.
-
-— E você deixou?
-
-— Não sou farol. Sou lâmina.
-— Quando precisar cortar, eu corto.
-
-Ele assentiu.
-
-— Ainda não.
-
-
-No centro da cabine de comando, Valen desenhou um pequeno X no mapa costurado por Gilbert.
-
-— Aqui começa a trilha.
-
-— E aqui, deixamos de ser um navio. — completou Gilbert. — Viramos um risco.
-— Um traço entre dois erros.
-
-Valen olhou para a bússola sagrada.
-
-O cristal pulsava levemente, como se pressentisse o que vinha.
-
-
-Ao entardecer, todos estavam reunidos no convés.
-
-O mar estava mais denso. O céu, mais baixo.
-
-As trilhas surgiam no horizonte como fragmentos de terra irregular entre véus de névoa esverdeada e bancos de pedra quase invisíveis sob a superfície.
-
-— Então é isso. — murmurou Mina.
-
-— O começo. — disse Valen.
-
-E a Coruja Eclipse avançou, com todas as velas erguidas.
-
-Rumo ao labirinto.
-
-
-
-
-
-#Capítulo 19 – Garras na Névoa
-
-O segundo crepúsculo nas Trilhas de Orún chegou sem cor.
-Nem luz dourada, nem vento. Apenas uma névoa espessa e imóvel, como se o mundo estivesse suspenso entre a respiração e o grito.
-
-Valen mantinha-se na proa, estático.
-
-A bússola sagrada pendia em seu pescoço, vibrando em silêncio — não como um farol, mas como um aviso.
-
-— Isso aqui não é mar. — disse Mina, de pé ao seu lado. — É cova líquida.
-
-Gilbert, do convés inferior, ajustava as estrelas no astrolábio com movimentos rígidos.
-— Algo está bloqueando os céus. As constelações estão... desfocadas.
-
-— Névoa espiritual. — murmurou Sombra. — Ou o rastro de algo maior.
-
-Kael batia com o martelo na base da estrutura do leme, mas a vibração não ecoava como antes.
-O casco não respondia.
-
-Até o navio parecia conter o fôlego.
-
-
-— Reduzir velas. — ordenou Valen.
-
-Runner correu para os cabos.
-Brutus firmou os pés ao lado do timão.
-
-— Está vindo algo? — perguntou o gigante.
-
-Valen apertou a mão metálica sobre a amurada.
-— Está vindo alguém.
-
-
-Então aconteceu.
-
-Sem som.
-Sem lampejo.
-Sem alarde.
-
-Somente o escuro.
-Instantâneo.
-
-Todas as lanternas apagaram como se sugadas para dentro de si.
-
-E o tempo... congelou.
-
-Do mar, surgiram.
-Silenciosos.
-Ágeis.
-Humanos demais para serem sombras, mas deformados demais para serem homens comuns.
-
-Os Klaen.
-A Irmandade do Corvo Submerso.
-
-Seus mantos encharcados não gotejavam.
-Seus rostos estavam cobertos por máscaras de crânio pintadas de preto e azul.
-Não gritavam.
-Oravam.
-
-Em uníssono.
-
-— Da'kha sorem... Da'kha sor... ren-ael... — repetiam como mantra submerso.
-
-Gilbert congelou.
-Sombra puxou duas adagas.
-Kael ergueu o martelo.
-
-— Capitão! — gritou Mina.
-
-Mas ele já estava sendo envolvido.
-
-Três Klaen surgiram por trás. Cordas enlaçaram seus braços e peito com precisão.
-Ele lutou — o braço mecânico girou, quebrou um dos elos.
-Mas o quarto surgiu da frente.
-Com uma máscara diferente.
-Olhos pintados de branco.
-
-E murmurou:
-— Portador da direção... o mar reclama o que é seu.
-
-Ele cravou um gancho no peito de Valen e puxou.
-Não para ferir. Para marcar.
-
-O tempo se partiu.
-
-O capitão foi puxado, com força e silêncio, para dentro da névoa.
-A bússola foi junto.
-
-— Valen!! — gritou Mina, correndo.
-
-Brutus lançou o barril.
-
-Sombra cortou o vazio.
-
-Mas só restou névoa.
-
-E um colar rasgado... vazio... balançando no gancho da proa.
-
-
-O silêncio foi total.
-Mais pesado que o mar.
-
-Runner caiu de joelhos.
-
-— Isso... isso não foi um ataque.
-— Foi um ritual.
-
-Gilbert não falava.
-Apenas olhava para o local onde Valen estivera.
-
-Sombra abaixou a cabeça.
-E murmurou:
-
-— Ele foi levado vivo.
-— E com a bússola.
-
-Mina caminhou até a ponta do navio.
-Olhou para o vazio.
-
-Seu punho tremeu.
-
-— Nós vamos atrás.
-
-— E por aquilo que eles acham que podem controlar.
-
-Sombra se ergueu.
-
-— Então lideramos como ele faria.
-— Com raiva. Mas com precisão.
-
-Brutus puxou as correntes laterais.
-
-— E com força.
-— Ele voltaria por qualquer um de nós.
-
-Kael soltou o freio da âncora e rugiu:
-
-— Então a gente volta por ele.
-
-
-Naquele dia, o navio não parou.
-A Coruja Eclipse seguiu.
-
-Mas pela primeira vez... sem seu capitão.
-
-E cada membro da tripulação — ao seu modo — sentiu o mesmo:
-
-Eles só voltariam com Valen.
-Ou não voltariam.
-
-
-#Capítulo 20 – Ecos do Comando 
-
-A Coruja Eclipse ainda flutuava.
-Mas havia algo diferente.
-Como se o navio inteiro estivesse em silêncio de luto.
-O leme girava. As velas se mantinham. Mas o ar era mais denso.
-Como se o mar soubesse que seu capitão não estava mais ali.
-
-
-Kael subiu ao convés sem anunciar.
-Seu martelo ainda estava às costas, mas a firmeza no olhar dizia que ele era agora… simbólico.
-
-Ela olhou ao redor.
-A tripulação a observava.
-Esperando.
-
-— A partir de agora, ninguém age por impulso. — disse ela.
-— Gilbert, traça a rota mais próxima do ponto onde Valen desapareceu. Se eles deixaram rastros, vamos encontrá-los.
-
-Gilbert assentiu, já ajustando o astrolábio e mapas secundários.
-
-— Sombra identificou ressonância incomum na direção sudoeste. Há ruído nas trilhas da água. Vamos seguir a curva do penhasco submerso.
-
-Kael então apontou com o dedo.
-
-— Brutus, posição ao lado das calhas. Mina, com ele. Runner, cordas superiores e observação.
-— Se alguém piscar, você grita.
-
-— Gritar eu sei. — murmurou Runner.
-
-Mas ele não se moveu.
-
-— Eu devia estar lá. Eu vi eles chegando! Eu podia ter pulado, feito alguma coisa...
-
-— E teria sido o segundo a sumir. — respondeu Kael, dura.
-
-Runner socou a amurada.
-— Não é justo.
-
-— Nada é. Mas o navio ainda está aqui. E ele vai querer encontrá-lo inteiro, não em pedaços.
-
-Mina afastou-se, encostando o ombro na parede. Os olhos vermelhos não escondiam o tumulto.
-— E se ele já estiver morto?
-
-Silêncio.
-
-Kael respirou fundo.
-— Então a gente mata quem fez isso.
-— Mas até saber... a gente segue.
-
-Gilbert parou de escrever.
-
-— Sombra.
-
-Todos olharam ao redor.
-
-Ela não estava mais lá.
-
-
-Na amurada da popa, uma corda leve balançava.
-
-Sombra havia descido sozinha, durante a discussão.
-Ninguém percebeu.
-
-Mas deixara algo atrás.
-Um pedaço rasgado do tecido do capitão.
-Dobrado. Com uma pequena marca de sangue.
-E um bilhete escrito com tinta escura, quase seca:
-
-> “Não deixem o navio parar. Já volto”
-
-
-
-Mina pegou o bilhete com mãos trêmulas.
-Leu.
-E recuou dois passos.
-
-— Ela foi atrás dele.
-
-Kael apertou o punho.
-
-— Então vamos garantir que ela não precise voltar sozinha.
-
-
-Gilbert se colocou diante do leme.
-Kael tomou o comando.
-
-— Cortem as velas secundárias.
-— Sigam o traço de água quebrada.
-— Não mais pelo mapa.
-— Agora... pelo instinto.
-
-Brutus firmou os pés.
-Runner prendeu a adaga no cinto com raiva.
-Mina, de volta à proa, não chorava mais.
-
-A Coruja Eclipse avançou.
-
-Valen havia sido levado.
-
-Sombra partira atrás.
-
-E agora, o resto da tripulação navegava por algo mais que direção.
-
-Navegavam por honra.
-Por nome.
-Por retomar o coração.
-
-
-#Capítulo 21 – Sangue Ancestral
-
-A Coruja Eclipse avançava pela névoa como lâmina entre vísceras.
-
-Sem Valen.
-Sem Sombra.
-Mas com direção.
-
-Kael mantinha as mãos firmes no timão, os olhos duros.
-Gilbert orientava cada curva com precisão matemática, guiado por ruídos d'água e rachaduras de coral invisível.
-Ninguém falava sobre o que faltava.
-
-Até que, ao romper uma fenda estreita entre dois rochedos, a névoa se abriu como um suspiro.
-
-E a ilha apareceu.
-
-Cinza.
-Irregular.
-Erguida sobre costelas de pedra e silêncio.
-
-
-A tripulação desembarcou sem fala.
-
-O barco encostou em uma praia escura, de areia grossa e fria.
-Não havia som de pássaros, nem vento.
-Mas havia... corpos.
-
-Sete, talvez oito.
-
-Alinhados. Máscaras dos Klaen rachadas. Mantos rasgados. Olhos abertos.
-O sangue?
-Inexistente.
-
-Brutus foi o primeiro a se ajoelhar.
-
-— Não tem cortes.
-— Não é veneno.
-
-Gilbert já examinava as palmas pálidas dos mortos.
-
-— Isso foi drenagem.
-
-— Foram mortos por dentro. — disse Mina, em voz baixa. — Não por fora.
-
-Kael girava os olhos entre os corpos e a mata próxima.
-
-— Algo… passou por aqui.
-— E não passou calmo.
-
-Pegadas leves, fundos de joelho.
-Movimentos ágeis. Solo tocado com precisão.
-Sombra.
-
-Eles seguiram.
-
-
-Mais adiante, encontraram três Klaen pendurados em galhos por cordas cerimoniais.
-Pendurados pelo pescoço, mas com os olhos ainda abertos.
-
-— Isso é pessoal. — sussurrou Runner, a voz falhando.
-
-— Não. — respondeu Gilbert. — Isso é… ritual.
-
-Kael ergueu a mão, pedindo silêncio.
-— Escutem.
-
-Ao longe…
-Um ruído úmido.
-
-Sucção.
-
-E um murmúrio leve, ofegante, quase animal.
-
-Eles avançaram com cautela por entre pedras negras até uma clareira natural de pedra e raiz.
-
-E então, viram.
-
-
-Ela estava ajoelhada.
-
-As mãos firmes.
-O manto rasgado.
-E os lábios… pressionados ao pescoço de um dos Klaen, que ainda tremia levemente.
-
-Sombra.
-
-Sugando.
-
-Não como fera.
-Mas como alguém que sabe exatamente o que está fazendo.
-
-O sangue escorria pela mandíbula.
-E seus olhos…
-não eram mais os mesmos.
-
-Brilhavam com um tom violeta profundo, e as pupilas verticais pareciam expandir a cada batida do coração da vítima.
-
-Ela terminou.
-
-Ergueu-se.
-
-E apenas olhou para eles.
-
-Brutus recuou meio passo.
-Runner engoliu seco.
-Mina… não falou. Mas não tirou a mão da adaga.
-
-Gilbert, com o rosto pálido, murmurou algo quase inaudível.
-
-— Isso não é possível…
-
-Kael firmou os pés no solo.
-— Diga, Gilbert.
-
-— Aqueles olhos.
-— Aquelas presas.
-— Aquela marca no pescoço…
-
-Ele apontou. No lado exposto da pele de Sombra, algo brilhou por baixo da lama:
-um brasão prateado.
-A marca de Lua.
-
-— Sangreal. — completou ele, assustado.
-
-Sombra não disse nada.
-Mas havia aceitação no rosto.
-
-Ela caminhou até eles.
-
-Parou a poucos passos.
-E com a voz baixa, firme, disse:
-
-— Ele está vivo.
-— A corrente ainda pulsa.
-— Mas não por muito tempo.
-
-— O que você é? — perguntou Runner, quase sem ar.
-
-Sombra ergueu o capuz.
-Os olhos ainda brilhavam.
-
-— Eu sou a parte dele que sangrou…
-— E que agora sangra por ele.
-
-E virou-se, caminhando em direção à fenda entre as pedras.
-
-Sem ordem.
-Sem comando.
-
-Mas com instinto antigo.
-
-E todos, por mais que não entendessem o que haviam visto…
-
-…seguiram.
-
-
-
-#Capítulo 22 – Corrente Partida
-
-A fenda de pedra levou-os a um túnel úmido, esculpido em camadas de rocha viva. Cada passo fazia ecoar gotas presas no teto, como relógios tortos marcando o tempo de outro mundo.
-
-Sombra ia à frente.
-Silenciosa.
-Letal.
-Invisível, mesmo quando visível.
-
-Ninguém falava.
-O caminho era estreito demais para palavras.
-
-
-O corredor se abriu subitamente em uma câmara subterrânea.
-No centro, acorrentado a um altar de ferro encravado na rocha, estava ele.
-
-Valen.
-
-Braços suspensos.
-Rosto machucado.
-Casaco rasgado.
-Sangue seco cobrindo a lateral do corpo.
-
-Os olhos... fechados.
-Mas vivos.
-
-Mina foi a primeira a se mover.
-— Capitão... — a voz dela falhou.
-
-Sombra já se ajoelhava ao lado do altar, examinando as travas.
-— Forjadas com correntes  rudimentares. Consigo quebrar.
-
-Kael avançou com um pé de cabra de metal escuro, preso às costas.
-
-Brutus parou ao lado e olhou em volta.
-
-— Nenhum guarda?
-
-— Eles queriam que encontrássemos. — murmurou Gilbert, analisando inscrições na parede. — Isso aqui é um aviso. Ou uma armadilha.
-
-Runner mantinha-se na retaguarda, olhos atentos à escuridão.
-
-— Se for armadilha... já estamos dentro dela.
-
-
-Com um estalo seco, as correntes cederam.
-
-Valen caiu de joelhos, mas Sombra o segurou antes que o corpo batesse no chão.
-
-Ele respirou fundo. Uma. Duas vezes.
-
-Depois abriu os olhos.
-Castanhos, ofuscados pela dor.
-Mas ainda dele.
-
-— Capitão... — disse Mina, ajoelhando ao lado. — Estamos aqui. A gente veio.
-
-Valen olhou ao redor.
-Viu cada um.
-Sentiu o que estava ali.
-E o que não estava.
-
-A mão tremeu ao tocar o peito.
-O cordão.
-
-Não havia nada.
-
-Silêncio.
-
-Ele não gritou.
-Não praguejou.
-
-Apenas fechou os olhos por mais um segundo.
-
-E quando os abriu, falou.
-
-— Levaram a bússola.
-
-
-Ninguém reagiu.
-
-Porque não havia como reagir.
-
-A bússola sagrada.
-O artefato ancestral.
-A peça que guiava os vivos entre os mundos.
-
-Estava fora de suas mãos.
-
-E pela primeira vez…
-A Coruja Eclipse estava à deriva.
-
-
-
-#Capítulo 23 – Corrente Solta
-
-— Levaram a bússola.
-
-As palavras de Valen ainda ecoavam no túnel quando Kael puxou a última corrente quebrada e jogou para o lado. O som metálico ricocheteou pelas pedras como se quisesse gritar o que ninguém ousava dizer:
-falhamos.
-
-Sombra passou o braço por trás de Valen, sustentando-o com precisão contida.
-Mina se posicionou ao lado oposto, apoiando o ombro dele.
-Nenhum deles perguntou se ele podia andar.
-
-Ele foi.
-
-
-O caminho de volta até a praia parecia mais longo do que a ida.
-O mar não cantava.
-O céu pesava.
-
-Runner seguia em silêncio, à retaguarda.
-Gilbert andava cabisbaixo, analisando cada marca nas rochas como se procurasse uma saída que não dependesse do destino.
-
-Brutus foi o primeiro a quebrar o silêncio.
-
-— A gente não desiste, né?
-
-Kael respondeu sem virar o rosto:
-
-— Não.
-
-
-O bote tocou o casco da Coruja Eclipse ao anoitecer.
-
-As cordas baixaram devagar.
-Os braços que antes içavam carga agora içavam o corpo do capitão.
-
-Valen foi levado para a cabine de comando.
-Kael limpou os cortes com álcool bruto.
-Gilbert preparou compressas com ervas preservadas em frascos de cristal.
-Brutus ficou na porta, vigiando sem falar.
-Mina… não saiu do lado dele.
-
-Sombra, por outro lado, permaneceu fora da cabine.
-
-No mastro.
-
-Sozinha.
-
-O sangue secava nos braços.
-Mas o olhar... não desviava da linha do mar.
-
-
-Horas depois, Valen finalmente abriu os olhos novamente.
-Mina estava ali.
-
-Ele tentou falar, mas ela só tocou os lábios dele com dois dedos.
-
-— Agora não.
-— Só respira.
-
-Ele obedeceu.
-
-Kael apareceu ao fundo, braços cruzados.
-
-— Ainda não sabemos pra onde foram.
-— Mas deixaram um traço.
-— Um padrão nas marés. A bússola... foi levada, mas não sumiu.
-
-Valen tentou se erguer.
-
-— Capitão. — disse Gilbert, firme. — Ainda é o nosso navio. Mas por enquanto… você precisa descansar.
-
-Valen encarou todos.
-
-— Descanso...
-— só depois que ela voltar.
-
-
-No convés, enquanto a tripulação se revezava em silêncio, Mina sentou-se ao lado de Sombra.
-
-— Ele te viu diferente, não viu?
-
-Sombra manteve o olhar no mar.
-
-— Sempre viu.
-
-— E você... vai seguir?
-
-— Sempre sigo.
-
-— Mas dessa vez, a gente vai com você. — disse Mina.
-
-Sombra a olhou. Pela primeira vez naquela noite.
-
-E não havia ódio. Nem tristeza.
-
-Havia instinto de matilha.
-
-— Então seguimos.
-
-
-Naquela noite, a Coruja Eclipse flutuou sem rumo.
-Mas pela manhã, o leme giraria.
-E com ou sem bússola…
-o rumo seria caçado.
-
-
-
-#Capítulo 24 – O Peso do Sangue
-
-A tripulação esperava no convés.
-Valen ainda não tinha chamado por ninguém.
-Mas eles vieram.
-
-Kael, firme no leme.
-Mina, sentada na amurada com o olhar fixo.
-Gilbert, quieto, mãos entrelaçadas.
-Runner, apoiado nas cordas com o peso do mundo nas costas.
-Brutus, de pé, quase sem pisar.
-Sombra… já estava ali, como sempre.
-
-Valen ficou diante deles.
-A brisa noturna soprava devagar.
-E pela primeira vez… ele parecia cansado.
-
-— Eu sei que vocês querem respostas.
-— E eu… não sou mais capaz de fugir delas.
-
-Ele tocou a corrente quebrada em seu pescoço.
-
-— A bússola não era um troféu.
-— Era um luto.
-
-Silêncio.
-
-— Broaken a tinha.
-— Capitão de Sulheim.
-— Frio, preciso, implacável.
-— Ele usava a bússola como se fosse dele por direito.
-
-Valen baixou a cabeça por um segundo.
-
-— Eu a tomei das mãos dele.
-— E, em troca, ele tomou cinco dos meus.
-
-— Cinco nomes.
-— Cinco rostos que eu nunca mais vi.
-— Que não tive tempo de enterrar.
-
-Ele ergueu os olhos.
-
-— E mesmo assim... eu não me arrependi.
-— Porque aquela bússola levava à Névoa Sagrada.
-
-— E a Névoa... transforma a pessoa que a atravessa em lendas.
-
-Todos o escutavam, imóveis.
-
-— As histórias... vocês já ouviram.
-— Dizem que quem passa por ela volta marcado.
-— Mudado.
-— Mais do que homem. Volta como lendas.
-
-— Eu não sabia se era verdade.
-
-Ele se virou levemente.
-Olhou para a Sombra.
-
-— Até ela.
-— Ela é a prova de que as lendas são reais.
-
-Sombra não reagiu.
-Mas o brilho nos olhos dela — violeta, vivo — era suficiente.
-
-Valen voltou o olhar para o grupo.
-
-— Ela é a prova.
-— A lenda dos Marcados… é real.
-
-— E é por isso que Broaken a quer.
-— Ele quer o poder.
-— Ele quer atravessar.
-— E quer dominar o que encontrar lá dentro.
-
-O silêncio agora era pesado.
-Não de medo.
-De aceitação.
-
-— Eu perdi minha tripulação.
-— Mas roubei a bússola.
-— E agora... perdi ela também.
-
-Valen encarou cada um.
-
-— Eu não posso deixar Broaken tê-la.
-— Não depois do que custou.
-— Não depois de tudo.
-
-Mina se levantou.
-
-— Então a gente vai atrás.
-
-Kael firmou os pés.
-
-— Juntos.
-
-Runner, mais sério do que nunca:
-
-— Se você carrega cinco nomes…
-— A gente carrega você.
-
-Brutus bateu o punho no peito.
-
-— A bússola foi tomada.
-— Mas agora…
-— Ela vai ser reclamada.
-
-Valen fechou os olhos por um instante.
-
-— Obrigado.
-
-Mas não por seguir.
-
-Por ficarem.
-
-
-
-#Capítulo 25 – Sob a Pele
-
-A cabine do capitão estava mergulhada em semiluz.
-
-As velas queimavam baixas, projetando sombras nos móveis de madeira escura. O ar carregava o perfume discreto de ervas aquecidas e óleos de tratamento. A água da banheira fumegava com leveza, quebrando o silêncio com pequenos estalos contra o metal.
-
-Valen afundava até a cintura, os olhos semicerrados.
-O vapor envolvia seus ombros marcados de hematomas, os cortes ainda se fechando devagar. O braço mecânico repousava do lado de fora, coberto por um pano úmido.
-
-Sombra estava atrás dele.
-
-Pés descalços. Capuz no chão.
-As mãos mergulhadas na água enquanto limpava os ferimentos com movimentos delicados.
-Não havia palavras. Só o som da água, do metal contra madeira... e da respiração dele.
-
-— Vai deixar eles saberem? — ela perguntou, por fim. A voz baixa, como sempre.
-
-— Sobre nós? — murmurou ele, sem abrir os olhos.
-
-— Sobre o que sou.
-
-Silêncio.
-
-Valen inclinou levemente a cabeça, deixando que ela alcançasse melhor a base do pescoço. Ela passou um pano úmido com cuidado, evitando a cicatriz que agora cruzava seu ombro esquerdo.
-
-— Eles já sabem. — disse ele, por fim.
-— Não o nome da tua linhagem.
-— Mas sabem o que você faria por mim.
-
-— E isso basta?
-
-Ele respirou fundo.
-
-— Não sei o que basta pra eles.
-— Mas pra mim… basta que você esteja aqui.
-
-Sombra parou por um instante.
-As mãos ainda na água, os olhos fixos nas costas dele.
-
-— Eu não pedi pra ser marcada. — disse ela, quase num sussurro.
-— Nasci com isso. Herdado.
-— Como maldição.
-
-Valen abriu os olhos.
-Virou o rosto, só o suficiente pra vê-la por cima do ombro.
-
-— Não é uma maldição.
-
-— É sede. — ela murmurou. — E controle.
-
-— É poder. — completou ele. — E lealdade.
-— Você cruzou o mar, matou por mim, sangrou por mim.
-
-Ela abaixou o olhar.
-
-— Eu faria de novo.
-
-Valen apoiou o braço não ferido na borda da banheira e esticou a mão na direção dela.
-
-Sombra hesitou… e tocou.
-
-— Eles te aceitaram. — disse ele.
-— Não por causa de mim.
-— Mas porque viram.
-— Você é prova de que as lendas são reais.
-— E mesmo assim... você voltou. Não como arma.
-— Como aliada.
-
-Ela apertou levemente os dedos dele.
-
-— E se um dia… eu não conseguir controlar?
-
-Valen puxou a mão dela devagar, levando-a até seu peito.
-
-— Então eu estarei aqui.
-
-O coração batia. Forte. Vivo.
-
-Ela não sorriu.
-Mas não recuou.
-
-A água se acalmou.
-
-As sombras nas paredes pareciam respirar mais devagar.
-
-E por um instante… o mundo fora daquela cabine não existia.
-
-Só eles.
-
-A marca sob a pele dela.
-
-E a promessa… sob a pele dele.
-
-
-
-#Capítulo 26 – O Que Se Ouve Atrás da Porta
-
-A noite avançava devagar sobre o convés da Coruja Eclipse.
-
-A porta da cabine do capitão seguia fechada. Lá dentro, sombras e silêncios dançavam ao som abafado de água e vozes contidas.
-
-Mas do lado de fora…
-o ar estava tenso.
-
-Mina encostava-se ao mastro principal, os braços cruzados, os olhos fixos na madeira — mas os ouvidos… bem atentos.
-
-— Estão demorando. — disse Runner, soprando fumaça para o lado. — Se ele tá tão ferido assim, acho que banho quente virou ritual de cura.
-
-Kael levantou os olhos do mapa, impaciente.
-
-— Foco. A conversa lá dentro não é nossa.
-
-— Mas a névoa sim. — retrucou Gilbert, sentado na amurada com um grimório fechado sobre o colo. — E os Marcados. E... o que ela é.
-
-Brutus coçava o queixo com expressão confusa.
-
-— Ela não é ruim.
-— Mas também não é normal.
-
-— Isso é poético ou um aviso? — perguntou Runner.
-
-— Tô dizendo que ela é fria como sombra, mas o capitão... — Brutus fez um gesto circular com as mãos — ...ele confia.
-
-— Confia demais. — soltou Mina, sem levantar a voz.
-
-Todos a olharam.
-
-— Você ouviu o que ele disse. — ela continuou. — Atravessar a névoa muda quem passa.
-— E ela nasceu disso.
-
-— Não foi escolha dela. — pontuou Gilbert. — Isso é sangue herdado. Marca de uma linhagem antiga. — mas viva nela.
-
-— E por isso ele se deita com ela? — disparou Mina, antes de pensar.
-
-Silêncio.
-
-Kael ergueu uma sobrancelha.
-
-Runner assobiou, disfarçando o constrangimento.
-
-— Não estamos falando de deitar. — murmurou Gilbert, desconfortável.
-
-— Estamos sim. — Mina respondeu, firme. — Ninguém passa tanto tempo em silêncio numa banheira com alguém... 
-
-Brutus franziu a testa.
-
-— Talvez ele só confia nela. Como confia em todos nós.
-
-— Não. — disse Mina. — Não é igual.
-
-Ela se afastou do mastro.
-
-— E não tô dizendo que ele tá errado.
-— Mas quando ele falou dela...
-— Quando ele falou que ela é prova viva...
-— Foi como se tivesse encontrado uma parte dele que ninguém mais podia tocar.
-
-— Ciúmes? — soltou Runner, rindo com nervosismo.
-
-Mina encarou-o.
-— E se for?
-
-Ele silenciou.
-
-Kael cortou a tensão:
-
-— A questão não é com quem ele deita.
-— É pra onde ele vai nos levar. Queremos virar lendas? A que custo?
-
-Todos se calaram.
-
-Gilbert falou por fim.
-
-— A bússola mostrava o caminho pra fora da névoa.
-— Agora... talvez a sombra dele seja o que o guia.
-
-
-A porta da cabine continuava fechada.
-Mas ali fora, outra porta — invisível — se abria.
-
-A de quem eles eram,
-e de quem começavam a se tornar.
-
-
-
-#Capítulo 27 – Trama de Ferro e Névoa
-
-A porta da cabine rangeu ao se abrir.
-
-Valen saiu apoiado no próprio peso, ainda rígido, cada passo uma lembrança do que havia perdido. Mas o olhar — esse era o mesmo de sempre: o olhar de quem já decidiu.
-
-Sombra veio atrás, silenciosa.
-Mina cruzou os braços ao vê-los.
-
-— Dormiram bem? — disparou, sem tirar o sarcasmo da voz.
-— Água quente costuma aliviar... tensão.
-
-Runner sufocou um riso e virou o rosto.
-Sombra sequer piscou.
-
-Kael interrompeu:
-
-— Reunião. Agora.
-
-
-A tripulação se reuniu na mesa do convés, onde Gilbert desenhava as rotas possíveis sobre o couro velho. Um mapa parcial da ilha, esboçado com linhas vermelhas e símbolos antigos, repousava no centro.
-
-— O templo fica encravado em uma formação rochosa. — disse Gilbert. — Há três acessos prováveis: uma ponte suspensa guardada, uma trilha oculta por vegetação... e uma abertura submarina.
-
-Kael apontou direto.
-
-— Submersa é a melhor chance. Ataque surpresa, sem confronto direto.
-— Mas precisa de fôlego e sangue frio.
-
-— Temos fôlego. E sobra sangue. — respondeu Mina, de lado.
-Olhou para Sombra.
-Sorriu.
-— Alguns até bebem o próprio.
-
-Sombra apenas respondeu com um olhar firme, cortante.
-
-Brutus, do lado oposto, examinava o mapa como se fosse uma peça de caça.
-
-— Se entrar por baixo, quem segura lá em cima?
-
-— Eu. — disse Kael. — E o caos.
-
-Valen se apoiou na borda da mesa.
-
-— Duas frentes. Kael com Brutus e Runner: ataque frontal. Causar ruído. Forçar o deslocamento dos guardas.
-
-— Ah, o clássico "enquanto vocês apanham, a gente brilha". — murmurou Runner.
-— Eu sabia que ia sobrar porrada pra mim.
-
-Kael não respondeu.
-Mas afagou o cabo do martelo com um sorriso ameaçador.
-
-— Mina, Sombra e eu entraremos por baixo.
-— Precisamos ser rápidos. Precisos.
-
-Gilbert complementou:
-
-— A maré baixa será entre o quarto e o quinto sino. Se não voltarem até lá, o túnel se fecha. E aí, só por dentro... ou por milagre.
-
-— A gente já tem um milagre no grupo. — disse Runner, apontando o queixo para Sombra.
-— Sombra viva, né? Sombra molhada… já é tradição.
-
-— Runner... — começou Kael.
-
-— Tô indo! — ele levantou as mãos, rindo.
-
-Valen ergueu o braço mecânico.
-
-— Se der errado, vocês sabem o que fazer.
-
-Silêncio.
-
-Kael respondeu.
-
-— Não vamos precisar.
-
-
-Quando a lua começou a subir, os botes foram preparados.
-Cordas checadas. Armas alinhadas. Corações… ajustados.
-
-Valen apoiou-se levemente em Mina. Ela o segurou com mais firmeza do que precisava.
-
-— Você consegue?
-
-— Não sei. — disse ele. — Mas vou.
-
-Sombra veio ao lado, carregando duas adagas, as marcas quase invisíveis no pescoço.
-
-— Ninguém toca na bússola além de você. — disse ela, firme.
-
-Valen olhou para os dois grupos.
-
-— Vamos recuperar nossa bússola.
-
-E assim…
-a Coruja Eclipse entrou em formação.
-
-E foi pela primeira vez…
-caçar.
-
-
-
-#Capítulo 28 – Lâmina no Escuro
-
-O som da água escorria pelas pedras como um sussurro antigo.
-
-O túnel submerso era apertado, frio, e escuro como o fundo da própria névoa. Mina foi a primeira a emergir na abertura lateral da câmara inferior. Seguiu silenciosa, corpo colado à parede úmida. Sombra veio logo atrás, os pés leves, os olhos adaptados à penumbra. Valen, por último, movia-se com cautela, respirando com controle, sentindo cada contração no abdômen ferido.
-
-Do outro lado da estrutura, mais acima, Kael, Runner e Brutus já haviam iniciado a distração — martelo contra metal, palavras lançadas como isca. Eles ecoavam pelo templo cavernoso, forçando os guardas a se moverem.
-
-A missão corria como planejado.
-
-Até não correr mais.
-
-
-Mina avançava por um corredor estreito, iluminado por tochas de chama azulada, quando pisou sobre uma pedra ligeiramente afundada. O estalo foi seco. Mecânico. E final.
-
-— Mina! — gritou Valen.
-
-Mas foi Brutus quem se moveu.
-
-Antes que qualquer um pudesse reagir, ele pulou para a frente e empurrou Mina contra a parede oposta. Uma estrutura de pedra no teto deslizou, liberando três lanças de ferro preto, disparadas com brutal velocidade.
-
-Uma delas perfurou o ombro de Brutus com um som de carne rasgando e osso rachando.
-
-Ele caiu de joelhos.
-
-A lança ainda cravada. O sangue escorrendo devagar.
-
-— Brutus! — gritou Mina, tentando segurar o corpo enorme dele.
-
-— Tá... tudo bem. — disse ele entre dentes. — Foi só um machucadinho.
-
-Valen se ajoelhou ao lado, avaliando rapidamente.
-
-— Foi fundo. Passou pela escápula. Você não vai conseguir levantar nada com esse braço.
-
-— Então uso o outro. — Brutus sorriu, tonto.
-
-Sombra já cortava o cabo da lança com uma lâmina curva, puxando com precisão e controlando a hemorragia.
-
-— Ele vai sobreviver. Mas não por muito tempo se ficarmos aqui.
-
-Mina olhou ao redor.
-O som de passos já voltava.
-
-Valen se ergueu, respirando fundo.
-
-— Mudamos o plano.
-— Sombra, comigo. Mina, segura a retaguarda com Brutus.
-
-— Eu vou com você. — disse Mina, seca.
-
-— Você segura ele. Ou perco os dois. — respondeu Valen, firme.
-
-Ela não discutiu. Mas o olhar queimava.
-
-Brutus, já sentado contra a parede, olhou para ela e sorriu.
-
-— Valeu a pena. Melhor ser furado... do que ver você naquele lugar.
-
-Ela revirou os olhos, mas não conteve o leve tremor no canto da boca.
-
-— Idiota.
-
-
-Valen e Sombra sumiram pela abertura lateral.
-Os passos de guarda se aproximavam.
-
-E pela primeira vez desde que começaram a missão…
-a Coruja Eclipse sentia que as sombras não estavam apenas ao redor.
-
-Estavam dentro.
-
-
-
-#Capítulo 29 – Precisão Letal
-
-O som das botas dos Klaen ecoava pelos corredores do templo como tambores ocos de um culto sem música. Valen e Sombra avançavam em silêncio por uma das galerias internas, tentando se aproximar do salão central. Atrás, em outro setor, Mina mantinha Brutus encostado contra a parede, a mão firme sobre a ferida no ombro dele, enquanto Runner observava a escada com olhos arregalados.
-
-Gilbert vinha por último.
-
-Calmo. Sem ofegar.
-Os óculos embaçados de vapor.
-A bengala na mão direita. A mão esquerda enluvada, em silêncio.
-
-Foi então que o silêncio... se quebrou.
-
-— Alvos na escadaria! — gritou Runner.
-
-Cinco Klaen desceram pelos degraus em formação. Lâminas curvas, tridentes ritualísticos, olhos brancos sob capuzes negros. Moviam-se com precisão fanática, como se sentissem o cheiro do sangue fraco de Brutus.
-
-Mina levantou a arma.
-
-— Brutus, cobre!
-
-Mas ele mal conseguia levantar o braço.
-Um deles já vinha com a lança voltada para o peito dele.
-
-Foi nesse momento que Gilbert parou de andar.
-
-E finalmente, se endireitou.
-
-
-Com um movimento sutil, ele girou a bengala de madeira e a dividiu em duas partes — revelando sob o bastão duas pistolas artesanais de precisão, carregadas, polidas, e silenciosas como predadores.
-
-Os olhos dele mudaram.
-Não brilharam.
-Não se estreitaram.
-Mas calcularam.
-
-Os dedos dançaram com calma, sem pressa.
-
-— Sete alvos. — disse ele. — Primeiro impacto em três segundos.
-
-E atirou.
-
-
-O primeiro disparo atravessou o olho do líder da frente antes mesmo que o som alcançasse Mina.
-
-O segundo ricocheteou na parede de pedra, mudou de ângulo e atingiu a base do tornozelo de outro Klaen, fazendo-o cair sobre o terceiro.
-
-— O quê...?! — gritou Runner.
-
-— Mantenham-se abaixados. — disse Gilbert, a voz quase gentil.
-
-Ele girou sobre o calcanhar, levantou a segunda pistola e atirou na direção oposta.
-
-A bala passou rente à orelha de Mina, tocou a borda de um totem cerimonial e acertou em cheio a garganta de um inimigo que vinha pelas sombras laterais — sem que ninguém sequer o tivesse visto.
-
-Brutus tentou se erguer, mas Gilbert estendeu um dos braços como um muro de ordem.
-
-— Fica.
-
-Outro tiro.
-Outro acerto.
-Um no ombro, um no centro da máscara — rachada com perfeição.
-
-O último Klaen recuou, hesitando, e tentou correr.
-
-Gilbert deu dois passos lentos para o lado, levantou a pistola com a leveza de quem segura uma xícara de chá…
-
-E atirou na nuca dele sem piscar.
-
-
-Silêncio.
-
-A fumaça da pólvora flutuava.
-As pistolas ainda quentes em sua mão.
-O corpo dos sete caído ao redor.
-
-— ...terminado. — murmurou ele.
-
-Mina olhava boquiaberta.
-
-— Desde quando... você atira assim?
-
-Gilbert limpou a pistola com um lenço branco dobrado.
-
-— Desde sempre.
-— Só nunca foi necessário.
-
-Brutus soltou uma risada abafada, apesar da dor.
-
-Runner ficou de pé devagar.
-
-— Isso foi...
-— Isso foi de outro mundo.
-
-— Não. — respondeu Gilbert. — Isso foi só cálculo.
-— A diferença entre precisão e fé…
-— É que a fé erra.
-
-
-Ele guardou as pistolas.
-A bengala voltou ao formato original com um clique.
-
-— Agora levantem.
-— O capitão precisa de nós na sala central.
-— E eu tenho seis balas restantes.
-
-
-Eles seguiram.
-Mais atentos.
-Mais calados.
-
-E agora… com novo respeito no peito.
-
-
-
-#Capítulo 30 – O Cego que Vê
-
-A porta do salão principal cedeu com um gemido seco.
-
-Sombra entrou primeiro.
-Valen logo atrás.
-O cheiro era de pedra molhada, ferro e sangue velho.
-
-O salão era vasto, circular, iluminado apenas por archotes cravados em colunas curvas. No centro, sobre um pedestal cerimonial, a bússola negra repousava. Intocada.
-Ao redor dela... doze homens armados. Máscaras rituais. Capas negras. Cada um em posição de guarda. Prontos para morrer.
-
-E entre eles, um homem de túnica simples, sem máscara. Alto. Imóvel.
-
-Cego.
-
-Olhos leitosos. Postura de guerreiro.
-
-Valen parou ao lado de Sombra.
-
-— É ele. — murmurou.
-
-Os outros começaram a entrar. Mina. Kael. Brutus, mancando. Gilbert, por último, pistolas baixas. Runner praguejando entre os dentes.
-
-O homem deu um passo à frente.
-
-Não falou de poder.
-Não discursou.
-Apenas apontou uma das mãos…
-E os guardas avançaram.
-
-
-O salão virou caos.
-
-Mina mergulhou pela esquerda, girando as lâminas com velocidade. Brutus esmagou o primeiro guarda com o peso do próprio corpo, rugindo apesar da dor. Kael bateu o martelo no chão — a pedra vibrou.
-
-Gilbert recuou.
-A mira subiu.
-
-O disparo ecoou.
-Rápido.
-Certeiro.
-
-Mas o homem cego virou o rosto meio segundo antes.
-A bala passou onde deveria estar o crânio.
-Acertou o pilar atrás.
-
-— Ele desviou. — disse Gilbert, engolindo seco.
-
-Sombra não hesitou.
-Partiu para cima.
-
-Ele a sentiu.
-Girou em torno do próprio eixo.
-Defendeu o ataque com o antebraço, torcendo o corpo com uma precisão não humana.
-
-Runner disparou duas Adagas.
-Ambas desviadas no giro de um bastão cerimonial retirado do chão.
-
-— Isso não é instinto. — disse Kael entre dentes, derrubando um dos guardas.
-
-— Isso é a marca. — respondeu Valen, firme, ao cravar a lâmina no flanco de um Klaen.
-— Marca da Onda.
-
-Todos entenderam.
-
-O homem cego parou.
-O chão vibrou ao redor dele.
-A pele do pescoço — sob o colar cerimonial — brilhou brevemente em azul profundo, pulsando como círculos em água.
-
-Sombra recuou, ofegante.
-
-— Ele sente o ar. O som. O corpo.
-— Nós estamos dançando no templo dele.
-
-Valen cambaleou, apoiando-se na parede.
-
-
-
-Kael arremessou uma corrente.
-Ele desviou como se a tivesse visto.
-Mas não viu nada.
-
-— Ele não luta. — disse Gilbert. — Ele antecipa.
-
-O líder dos Klaen ergueu o bastão.
-Girou uma vez.
-O ar se partiu.
-Sombra foi jogada contra a parede, como se tivesse sido empurrada por uma onda invisível.
-
-— Vamos afogar ele. — disse Valen.
-
-Todos o encararam.
-
-— Tirem o som.
-— Tirem o ar.
-— Façam ele lutar no vazio.
-
-
-E assim, pela primeira vez, a Coruja Eclipse enfrentava um verdadeiro Marcado.
-
-E entendia o que era estar dentro da Névoa... mesmo sem atravessá-la.
-
-
-
-#Capítulo 31 – A Fera no Véu
-
-— Eles são meus.
-
-A voz de Sombra cortou o ar entre gritos, metal e sangue.
-
-Valen a olhou, ofegante.
-— Espere…
-
-Ela não esperou. Já avançava.
-
-— Sombra! — gritou Mina, mas a guerreira já tinha sumido na neblina de poeira e fogo.
-
-Os  Klaen que protegiam o altar se voltaram ao mesmo tempo.
-Como cães ao cheiro de presa.
-
-Mas não foi Sombra que recuou.
-
-
-O primeiro veio com duas lâminas curvas.
-Sombra girou por baixo, mas foi atingida no abdômen — um corte profundo, horizontal.
-
-Ela nem gritou.
-Arrancou a adaga da cintura e cravou na garganta dele com precisão seca.
-
-O segundo a acertou pelas costas.
-
-Uma lança entrou por seu ombro esquerdo e saiu pela frente.
-
-Ela cambaleou, caiu de joelhos, mas segurou o cabo da lança e puxou com força.
-O sangue espirrou.
-Mas os olhos dela… brilhavam em violeta vivo.
-
-A marca — em sua clavícula, agora visível — acendeu como brasão antigo.
-
-
-
-— O que ela está fazendo? — murmurou Runner, ao longe.
-
-— Sangrando. — respondeu Kael. — E se levantando.
-
-
-O terceiro e o quarto vieram juntos.
-Um cortou o braço esquerdo de Sombra quase inteiro fora.
-O outro enfiou uma adaga em sua coxa.
-
-Ela caiu.
-O rosto na pedra.
-O sangue formando poça.
-
-Por um segundo... todos pensaram que ela havia parado.
-
-Mas então, ela sorriu.
-
-O braço começou a reconstruir-se diante dos olhos dos inimigos.
-
-Tendões se alongando. Ossos ressurgindo sob pele.
-A carne se costurando sozinha.
-
-E ela se ergueu com a adaga ainda na perna.
-
-— Vocês vão ter que fazer melhor do que isso. — ela rosnou.
-
-
-O quinto morreu com o crânio esmagado por uma cabeçada.
-
-O sexto foi arrancado do chão com as próprias correntes e arremessado contra a parede.
-Partiu o pescoço ao impactar.
-
-O sétimo conseguiu cortar os dois lados do rosto de Sombra.
-Mas não teve tempo de se afastar antes que ela abrisse o ventre dele com as garras nuas.
-
-Agora havia sangue em tudo.
-E ainda assim… ela não parava.
-
-
-Brutus, ao longe, apertava o punho com força.
-— Ela não tá lutando.
-— Ela tá massacrando.
-
-Valen apertou os olhos, sussurrando:
-
-— Sangreal.
-
-Gilbert murmurou:
-
-— É isso que acontece… quando a lenda não está mais dormindo.
-
-
-Os últimos Klaen tentaram cercá-la.
-
-Ela ergueu os olhos.
-
-Com o braço regenerado e os cabelos grudados no rosto pelo sangue, ela girou no próprio eixo, como uma loba cercada.
-
-Um salto.
-Um giro.
-Uma sequência de estocadas brutais, silenciosas, precisas.
-
-Três tombaram.
-
-Os dois restantes recuaram.
-
-Sombra os olhou… e deixou que corressem.
-
-— Levem o medo com vocês. — sussurrou ela.
-
-Mas eles não saíram vivos.
-
-Um tropeçou.
-O outro hesitou.
-
-Ambos morreram com lâminas no pescoço antes de saírem da sala.
-
-
-No fim, Sombra estava de pé.
-
-Entre corpos.
-Sangrando.
-Respirando.
-
-Mas viva.
-
-E, mais do que isso…
-
-Desperta.
-
-
-
-#Capítulo 32 – Contra a Onda
-
-Enquanto os gritos dos Klen morriam atrás das colunas, abafados pelas lâminas de Sombra, o restante da tripulação cercava o verdadeiro abismo no centro do templo.
-
-O líder dos Klaen estava parado.
-Calmo.
-Cego.
-
-Mas não havia fragilidade em sua postura.
-Ao contrário — ele parecia mais ancorado do que todos ali.
-
-Kael foi a primeira a avançar.
-
-Martelo alto. Passos largos. Grito seco.
-
-Ele não a olhou.
-
-Mas giro após giro, o bastão de combate dele desviava cada ataque com suavidade brutal.
-No quarto movimento, ele bateu com a base no joelho de Kael — e ela caiu com a perna dobrada ao contrário.
-
-Ela gritou, mas não recuou.
-
-Brutus veio logo atrás, ainda com o ombro perfurado, segurando um machado cerimonial com a mão boa.
-
-Gritou. Saltou.
-
-O líder inclinou o corpo, girou de volta, e o puxou no ar pela alça da arma — arremessando Brutus contra uma coluna. O som da madeira rachando no impacto ecoou como sentença.
-
-Gilbert tentou agir.
-
-Dois tiros.
-Um ricochete.
-Outro na parede.
-
-O inimigo se moveu antes dos disparos.
-Ele ouvia tudo. Antecipava tudo.
-
-— Isso não é reflexo... — murmurou Gilbert. — É leitura. Ele lê o espaço.
-
-Mina tentou pegar pela retaguarda.
-Desferiu um corte lateral com as duas adagas.
-
-Ele virou o corpo e a chutou na boca do estômago.
-Ela voou dois metros para trás, bateu nas pedras e caiu de lado, tossindo sangue.
-
-Runner, sem hesitar, lançou duas adagas em sequência.
-
-O inimigo girou, desviou da primeira, segurou a segunda no ar e jogou no chão.
-
-— Isso é um maldito pesadelo. — rosnou Runner, sacando uma lâmina.
-
-Gilbert tossiu.
-
-— Ele não precisa ver a gente. Ele é a sala.
-
-Valen observava tudo com os olhos apertados de dor.
-O peito latejava.
-Mas a raiva era maior que a dor.
-
-Ele avançou.
-
-— Capitão! — gritou Mina.
-
-Valen fingiu um passo à esquerda, escorregou no chão e girou com a lâmina baixa.
-
-Era um golpe real.
-
-Mas o inimigo deu meio passo lateral…
-e o cravou no chão com uma das mãos abertas, sem usar armas.
-
-O braço mecânico de Valen rangia sob a força.
-
-— Você carrega ferro. — disse o líder. A voz era grave. Seca.
-— Mas sua alma ainda pesa mais.
-
-Valen cuspiu sangue no chão.
-
-— E você... está prestes a provar a própria.
-
-Ele girou o braço mecânico. A lâmina embutida tentou se ativar.
-
-Mas o inimigo foi mais rápido.
-Um golpe seco na base do ombro.
-Valen caiu com o braço apagado.
-
-
-Em menos de dois minutos… todos estavam feridos.
-Tombados.
-Respirando pesado.
-Mas vivos.
-
-E o líder… não sangrava.
-
-Kael, com a perna apoiada em Runner, disse com raiva:
-
-— Não dá. Ele é diferente.
-
-Gilbert se arrastava para recarregar.
-
-Mina limpava o rosto com o antebraço.
-
-Valen tossia sangue.
-
-Brutus estava imóvel — mas respirando.
-
-E então…
-
-Sombra surgiu.
-
-Silenciosa.
-Encharcada.
-E com sangue nos olhos.
-
-— Saiam. — disse ela.
-
-— Sombra… — começou Valen.
-
-Ela não olhou para ninguém.
-
-— Saiam agora.
-
-O líder dos Klaen se virou.
-A primeira vez que se mexia sem reagir.
-
-— Ah…
-— A outra marca.
-
-
-#Capítulo 33 – Entre Marcas
-
-A sala cheirava a ferro quente, pedra partida e medo.
-
-O líder dos Klaen ergueu o queixo ao sentir a presença dela.
-Sombra avançava devagar, mas o som dos passos era silêncio puro.
-Atrás dela, os outros seis estavam no chão — feridos, vivos, derrotados.
-
-— Outra marcada... — murmurou ele.
-— Mas diferente.
-— Mais densa.
-
-Sombra não respondeu.
-
-Ela apenas desapareceu.
-
-
-O primeiro movimento foi invisível.
-
-Em um instante, estava diante dele.
-No seguinte, atrás.
-
-O líder girou com o bastão. Um arco perfeito.
-Mas Sombra já não estava ali.
-
-Ela deslizou pelo chão, ergueu-se pelas sombras e desferiu um golpe no flanco.
-
-O impacto fez o ar da sala tremer.
-
-Ele cambaleou.
-Pela primeira vez.
-
-— Você... é rápida demais. — ele disse, a voz com um leve tremor.
-
-Ela não respondeu.
-
-
-O segundo golpe foi na clavícula.
-O terceiro, na lateral do rosto.
-
-Ele tentou se adaptar.
-Girava, ouvia, rastreava.
-
-Mas o corpo não acompanhava.
-
-Ele percebia os rastros no ar —
-mas quando virava, ela já tinha deixado dois passos para trás.
-
-Valen observava do chão, a visão turva.
-Mas o que via…
-era claro:
-
-— Ela não está lutando contra ele.
-— Está apenas... mostrando a diferença.
-
-
-A marca de Sombra brilhou na lateral do pescoço, subindo até o rosto —
-violeta intenso, como sangue lunar.
-
-Ela girava como fera.
-Saltava.
-Rasgava.
-O líder caiu de joelhos. Tocou o chão com a mão trêmula. Tentou girar mais uma vez o bastão.
-Sombra já estava nas costas dele. Ela ergueu as lâminas para o golpe final, mas o limite chegou. O preço do próprio sangue cobrou a conta. Sombra engasgou e desabou pesadamente, o corpo finalmente cedendo a todos os ferimentos.
-O Marcado viu a brecha. Com um sorriso úmido e desesperado, ergueu o bastão para esmagá-la.
-O golpe nunca chegou. Mina surgiu do ponto cego, fria e invisível. Um único movimento perfeito de sua adaga rasgou a garganta do líder antes que ele pudesse piscar.
-Ele caiu. A marca azul da Onda pulsando uma última vez... antes de apagar.
-
-
-Silêncio.
-
-A sala inteira sentiu quando o peso da presença dele que se dissipou.
-
-Sombra se levantou.
-Respirando devagar.
-
-O sangue escorria das laterais do rosto, mas os cortes… fechavam mais devagar enquanto ela andava.
-
-Ela não gritou.
-
-
-Apenas olhou para os companheiros feridos no chão.
-
-E disse, com a voz calma e firme:
-
-— A bússola... 
-
-
-#Capítulo 34 – O Peso da Escolha
-
-O corpo do Marcado da Onda jazia no chão, a pele ainda vibrando em ondas residuais — como se o próprio templo lamentasse sua queda.
-
-A luz das tochas tremia nas colunas.
-
-Sombra caminhou até o altar, os pés pisando em sangue fresco e poeira antiga.
-A bússola negra estava ali.
-
-Fria.
-Pesada.
-E pela primeira vez… silenciosa.
-
-Ela estendeu a mão.
-O metal respondeu ao toque como se reconhecesse o nome não dito.
-
-
-Valen foi o primeiro a se levantar, apoiado no próprio braço mecânico.
-O rosto coberto de hematomas.
-Mas os olhos... intactos.
-
-— Está com você? — perguntou.
-
-Sombra assentiu e lhe entregou a bússola.
-
-Ele a segurou por um instante.
-A ponta brilhou — fraca, como se tivesse respirado.
-Mas era o bastante.
-
-Kael se apoiava no cabo do martelo.
-Brutus, com o braço amarrado, sangrava em silêncio.
-Mina mordia o lábio inferior, ainda com o gosto de sangue na garganta.
-Runner tentava se manter em pé sem mostrar que tremia.
-Gilbert ajeitava os óculos com a mão ensanguentada.
-
-Todos encararam Valen.
-
-Ele ergueu a bússola.
-Girou-a.
-
-O ponteiro se moveu com lentidão…
-e apontou.
-
-Direto para o norte.
-Para o mar.
-
-Para a Névoa.
-
-
-Silêncio.
-
-— Isso é o que sobrou. — disse Valen.
-— Não temos um exército.
-— Não temos aliados.
-— E agora sabemos... O que um Marcado é capaz de fazer.
-
-Ele olhou para cada um.
-
-
-Gilbert apertou os olhos.
-
-— Não é só mapa.
-— Essa bússola agora... é poder.
-
-Kael firmou o pé.
-
-— E arma.
-
-Brutus rangeu os dentes.
-
-— E único caminho.
-
-Valen abaixou o olhar para o objeto.
-
-— Essa bússola já me custou cinco vidas.
-— E salvou as de vocês.
-
-— Mas agora… ela vai nos dar o que ninguém mais tem.
-
-Mina se aproximou.
-
-— Você quer atravessar?
-
-— Eu quero sobreviver.
-— E só há um jeito.
-
-Sombra falou por último.
-
-— A pergunta não é se queremos.
-— É se aguentamos o que vem do outro lado.
-
-Valen apertou a bússola entre os dedos.
-
-— Vamos descobrir.
-
-
-
-
-
-#Capítulo 35 – Fôlego Antes do Abismo
-
-O mar batia contra o casco da Coruja Eclipse com o mesmo ritmo do coração dos que voltavam.
-
-Silencioso.
-Irregular.
-Sobrevivente.
-
-A escadaria lateral foi baixada, e os corpos feridos da tripulação subiram um a um. Nenhum deles falou durante a travessia da praia de pedra até o navio. Cada passo era uma lembrança do que viram no templo — do que quase perderam.
-
-
-Valen foi o último a embarcar.
-
-Sombra o ajudou sem dizer uma palavra.
-O braço mecânico dele ainda estava travado. O ombro esquerdo, enfaixado de maneira improvisada.
-
-No convés, o silêncio era o luto dos que ainda respiravam.
-
-
-Kael sentou-se no chão da forja, o martelo ao lado, a perna quebrada sendo imobilizada por Brutus — que usava o braço bom com mais delicadeza do que alguém esperava.
-
-Mina permaneceu na amurada por longos minutos, olhando o horizonte com os olhos apertados. Havia sangue seco no canto da boca e hematomas espalhados pela lateral do pescoço. Mas nada disso era pior que o que carregava por dentro.
-
-Runner tratava o próprio corte nas costelas com álcool e teimosia. Resmungava baixinho, como se xingasse o universo em sequência.
-
-Gilbert costurava a lateral do próprio paletó. Havia um curativo por baixo — discreto, funcional. Seus olhos, porém, estavam fixos na bússola sobre a mesa central da cabine de navegação.
-
-
-Sombra não se recolheu.
-Não sentou.
-Não descansou.
-
-Ela passou a noite no mastro superior, olhos voltados para o mar negro.
-
-Seus cortes estavam quase todos curados.
-Mas a marca ainda pulsava.
-
-
-Na cabine, Valen retirava as faixas com cuidado.
-
-A água de um novo balde estava quente. Ele mergulhou o pano limpo e respirou fundo.
-A dor era menor que o vazio.
-Mas o olhar… ainda era dele.
-
-— Gilbert. — chamou.
-
-O navegador entrou com passos lentos.
-
-Valen apontou para o mapa.
-— Preciso da rota mais reta até o limite da névoa.
-
-— Direta?
-
-— Sem atalhos.
-
-Gilbert assentiu.
-
-— Vamos precisar de vento, sorte e talvez… algo mais.
-
-Valen ergueu a bússola.
-
-— Já temos tudo que precisamos.
-
-
-Ao amanhecer, a Coruja Eclipse cortava o mar como uma lâmina cansada, mas afiada.
-
-E agora… cada vela erguida
-era uma decisão.
-
-Atravessar.
-Ou ser engolido pelo que virá.
-
-
-
-#Capítulo 36 – À Beira do Abismo
-
-O horizonte sumia.
-O mar tornava-se mais escuro a cada milha.
-Se passaram 36 dias.
-
-A Coruja Eclipse avançava entre ondas altas e céu em guerra.
-O vento, antes aliado, agora gritava nos mastros como fera presa.
-
-Na linha diante deles, começava a se formar… a Névoa Negra.
-Densa. Profunda. Viva.
-
-Mas não era só ela.
-
-— Bandeiras a estibordo! — gritou Runner do posto de vigia.
-
-Todos olharam.
-
-E então o mundo ficou menor.
-
-Um navio surgia entre as sombras da tempestade.
-Escudo dourado em vela negra.
-Sulheim.
-
-E no convés… ele.
-
-— Broaken. — disse Valen, a voz baixa, mas afiada.
-
-Kael rangeu os dentes.
-
-— Como ele chegou tão perto?
-
-— Ele seguiu os mesmos ecos que nós. — respondeu Gilbert, os olhos fixos na bússola.
-
-Mina já sacava as lâminas.
-
-— Então agora ele quer cruzar também?
-
-Valen manteve os olhos fixos no navio inimigo.
-
-— Ele quer a bússola.
-— Ele quer o que vem do outro lado.
-— E não vai deixar a gente passar.
-
-
-A chuva começou a cair como flechas.
-As ondas batiam contra o casco, fazendo a madeira ranger.
-
-— Ajustem as velas! — gritou Kael.
-— Corrijam o leme, recuem as estacas de estabilização! Brutus, prende os tonéis!
-
-Sombra descia pelas cordas com os olhos fixos na linha da Névoa.
-
-— Ela sente. — murmurou. — A bússola… ela sente que estamos perto.
-
-Gilbert apoiava o cotovelo sobre a mesa de navegação interna.
-As cartas de mar, já molhadas, estavam sendo redesenhadas com base no vento.
-
-— Se formos direto, cruzamos em quatro minutos.
-— Mas eles também podem.
-
-Valen fechou a mão sobre a bússola.
-
-— Então ele vem atrás.
-— Ou à frente.
-
-Mina se aproximou.
-
-— E se tentarmos afundar o navio dele antes?
-
-— Então lutamos em tempestade, à vista da Névoa.
-— E se a gente morrer, ela morre com a gente.
-
-Brutus prendeu a última corda e gritou:
-
-— Então escolhe, Capitão!
-— A gente vira pro combate… ou entra na escuridão!
-
-Valen fechou os olhos por um segundo.
-
-O navio tremia.
-
-A Névoa… chamava.
-
-E atrás deles… Broaken os caçava.
-
-
-
-#Capítulo 37 – Travessia e Caçada
-
-O céu não era mais céu.
-
-Era chumbo líquido, rompido por relâmpagos distantes.
-As nuvens se fechavam em espiral sobre a Coruja Eclipse, e o mar abaixo rugia como fera encurralada.
-
-À frente, a Névoa Negra.
-Um muro vivo, pulsante, que tremia sem som.
-
-Gilbert segurava firme a bússola.
-— Estamos na linha.
-— Quatro nós para a fronteira.
-
-Amarrada ao pilar de sustentação para poupar a perna quebrada
-Kael ajustava o leme com os dentes cerrados.
-
-A vela rasgada chicoteava o vento, mas ainda sustentava o curso.
-
-Valen apoiava-se com dificuldade na amurada. O braço mecânico travado pelo sal e pela luta. Mas os olhos… mantinham o foco na escuridão viva.
-
-— Todos nos seus postos.
-— Sem hesitação.
-
-Sombra estava acima, nas cordas.
-
-Ela ouvia a Névoa como quem escuta a respiração de um predador do outro lado da porta.
-
-— Ela está faminta. — disse, enfim. — E não gosta de navios.
-
-Mina se aproximou de Valen.
-
-— Vai mesmo entrar assim, ferido?
-
-— Não temos escolha.
-
-— E se ela mudar a gente?
-
-Valen respondeu sem virar o rosto.
-
-— Ela já mudou.
-
-
-Atrás… o som de um trovão diferente.
-
-Não era céu.
-Não era mar.
-
-Era casco cortando água com fúria calculada.
-
-— Capitão. — disse Runner, apontando.
-
-O navio de Sulheim avançava como uma flecha.
-Velas pretas. Casco dourado.
-Luzes protegidas por runas de choque.
-
-E no convés… Broaken.
-
-Postura reta. Capa esvoaçante.
-Um braço dobrado sobre o peito.
-E no outro… uma arma rúnica de longo alcance.
-
-Valen estreitou os olhos.
-— Ele veio.
-
-Gilbert confirmou.
-
-— E vai chegar antes da névoa engolir nossa traseira.
-
-Kael cuspiu ao mar.
-
-— Que tente.
-
-Brutus, no fundo do convés, girava a corrente de ferro como se estivesse pronto para arremessar o próprio navio de volta.
-
-
-A Névoa estava a dois minutos.
-
-O mar agora se agitava de maneira anormal.
-Como se algo vivo empurrasse o casco para trás.
-
-— Ela está tentando nos repelir. — murmurou Gilbert.
-
-Valen passou a bússola para Sombra.
-
-— Se eu cair...
-— Você segue.
-
-Ela não respondeu. Mas os olhos dela brilharam em silêncio.
-
-Mina se colocou entre eles.
-
-— Ninguém vai cair.
-
-
-Broaken ergueu o braço.
-
-No convés do navio inimigo, quatro batedores correram com arpéus.
-Um tiro cortou o ar — longo e luminoso.
-
-A onda de impacto bateu contra o flanco da Coruja Eclipse, jogando Runner no chão.
-
-— AGORA! — gritou Valen.
-— TRAVESSIA!
-
-Kael virou o leme.
-Brutus forçou as velas.
-Gilbert gritou as coordenadas.
-
-E o casco cortou a primeira camada da Névoa...
-
-
-Atrás, Broaken os perseguia.
-Diante, o desconhecido os recebia.
-
-E a partir daquele instante, o mundo…
-não seria mais o mesmo.
-
-
-
-#Capítulo 38 – As Garras da Névoa
-
-A Coruja Eclipse mergulhava.
-
-A primeira camada da Névoa Negra tocou o casco como um manto de carne fria.
-A luz sumiu.
-O mundo em volta morreu em som.
-
-O barulho do mar cessou.
-O vento… calou.
-E só restava o som das respirações.
-
-— A bússola está reagindo. — disse Gilbert, as mãos trêmulas sobre o metal. — Mas devagar.
-— É como se… a Névoa estivesse interrogando a gente.
-
-Valen fechou os olhos.
-Podia sentir a pressão no peito, como se algo estivesse dentro de seus ossos.
-
-
-
-Kael firmava o leme com as duas mãos.
-
-— Isso não é só escuridão. É memória.
-— Ela… me mostrou algo.
-
-— Não olhem pra ela. — disse Sombra. — A Névoa mostra o que você mais odeia.
-
-Mina estava pálida.
-— Eu vi… ela me mostrando... ele morto.
-
-Valen se virou para ela.
-— Isso não é verdade.
-— É armadilha.
-— A Névoa quer fragmentar. Desorientar.
-
-— Está funcionando. — murmurou Gilbert, ofegante.
-
-
-E foi nesse momento que ouviram.
-O som metálico.
-O estalo de corda partida.
-O impacto.
-
-— Barco invasor! — gritou Runner, os olhos arregalados.
-
-Mas não era mais um navio inteiro.
-
-Era Broaken.
-Pessoalmente.
-A bordo.
-
-
-Ele veio pela lateral.
-Escalou o casco em silêncio.
-Surgiu no convés como uma lembrança amarga.
-
-A capa preta agora encharcada de Névoa.
-O rosto coberto por uma máscara parcial dourada.
-E nos olhos…
-nenhuma hesitação.
-
-— Valen. — disse ele, como quem cumprimenta um velho hábito.
-
-Valen cambaleou para frente, puxando a espada curta.
-— Você veio terminar?
-
-— Não. — respondeu Broaken. — Vim recuperar o que é meu.
-
-Ele avançou como uma onda sem som.
-A espada rúnica cortou o ar e explodiu contra o convés.
-
-Sombra apareceu entre ele e Valen em um piscar.
-
-A lâmina de Broaken riscou o ombro dela — mas não penetrou.
-Ela empurrou de volta. Ele recuou.
-Mas com um sorriso.
-
-— Sangreal... — sussurrou ele. — Agora eu entendo.
-
-Mina gritou da lateral.
-— Defendam o núcleo!
-
-Gilbert pegou a bússola e correu.
-Kael girou o leme e trancou a cabine.
-Brutus, mesmo ferido, ergueu a corrente para barrar a entrada.
-
-O convés se tornou um campo estreito.
-
-E Broaken…
-não precisava vencer.
-Só precisava pegar.
-
-
-E tudo isso…
-enquanto a Névoa fechava.
-
-Enquanto os pesadelos ganhavam forma.
-E o tempo… parava de existir.
-
-
-#Capítulo 39 – Lança Silenciosa
-
-O convés da Coruja Eclipse tremia.
-
-Névoa por todos os lados.
-O mar calado.
-E o casco rangendo como se estivesse sendo dobrado por mãos invisíveis.
-
-Broaken avançava.
-
-Sombra era a última barreira.
-Postura firme.
-Pés cravados como raízes.
-
-Valen, atrás dela, mal conseguia erguer a espada.
-Mas Sombra não precisava de ordens.
-Ela estava pronta.
-
-Ou achava que estava.
-
-
-Broaken ergueu um único dedo.
-Um gesto curto.
-
-De dentro da Névoa, acima — um som cortante.
-Ar rasgado.
-Metal veloz.
-
-Um arpão de balista
-
-
-Ela rompeu o espaço como uma sentença.
-Desceu reta.
-Imparável.
-
-O projétil de cerco acertou Sombra em cheio, perfurando seu flanco direito e atravessando-a até cravar no mastro central.
-
-O impacto a ergueu meio metro do chão.
-O corpo travou no ar.
-E só parou quando a madeira gemeu ao receber o ferro.
-
-
-
-Ela não gritou.
-
-Mas os olhos… arregalados.
-A boca... entreaberta.
-A marca… acesa, pulsando contra a pele do pescoço.
-
-Mina correu primeiro.
-— Sombra! — o grito rasgado.
-
-Brutus tentou alcançar a lança.
-Imóvel.
-
-Kael rosnou.
-— Droga, ela tá presa!
-
-Sombra tentou puxar o próprio corpo.
-Nada.
-O sangue escorria.
-A regeneração reagia — mas o golpe havia travado a estrutura dela inteira contra a madeira.
-
-Ela estava viva.
-Mas fora de combate.
-
-
-Broaken andava.
-
-Sem pressa.
-
-— Vocês tinham uma arma.
-— Agora… só têm esperança.
-
-Valen se pôs entre ele e a bússola.
-
-— Se der mais um passo, eu juro…
-
-— Você jura? — Broaken sorriu por trás da máscara parcial.
-— Capitão… você já perdeu essa guerra quando roubou o que era meu.
-
-Kael se colocou ao lado de Valen.
-Mina, adagas em punho, os flanqueava.
-Gilbert preparava o último disparo.
-
-— Então vamos ver — disse Broaken — o quanto vocês aguentam… sem a sangreal de vocês.
-
-
-Sombra não gritava.
-Mas seus olhos ainda queimavam.
-
-E a haste de ferro tremia…
-como se o sangue recusasse aceitar o fim.
-
-
-
-#Capítulo 40 – Quando o Convés Sangra
-
-Broaken ergueu o braço pela segunda vez.
-
-Não gritou.
-Não sorriu.
-Apenas fez o gesto —
-e o destino entrou em cena.
-
-Cordas se estenderam do navio inimigo como tentáculos.
-Ganchos cravaram-se no casco da Coruja Eclipse.
-E então, eles vieram.
-
-
-A tropa de Sulheim cruzou os ares como sombras envenenadas.
-Máscaras negras, sem boca, com runas desenhadas onde antes haveria olhos.
-Armaduras leves.
-Espadas curvas.
-E silêncio absoluto.
-
-Soldados de guerra.
-Soldados de culto.
-Soldados de Broaken.
-
-
-Kael tentou fechar a escotilha com o martelo.
-Mas uma lâmina cruzou o ar e rasgou sua coxa.
-Ela caiu com um grito engolido, e se ergueu num só joelho, protegendo com o martelo em giro baixo.
-
-Brutus arremessou a corrente, mas seu ombro já ferido traiu o movimento.
-Três soldados o cercaram.
-Um o atingiu com um estalo no mesmo ponto — e ele caiu de lado, arfando.
-
-Gilbert acertou um disparo certeiro, derrubando um invasor com um tiro na coxa.
-Mas outro se aproximou por baixo, desarmou-o com um movimento de bastão e o empurrou contra o mastro.
-
-Mina dançava entre os invasores com as lâminas de gume invertido.
-Ela feriu dois, abriu o pescoço de outro.
-Mas um escudo a atingiu na costela.
-Ela caiu, arquejando.
-E se ergueu.
-Ela sempre se erguia.
-
-
-Valen atravessou o caos até chegar diante de Broaken.
-
-Ambos pararam.
-
-A Névoa os envolvia.
-A chuva era morna.
-O convés gemia sob os pés deles.
-
-— Valen. — disse Broaken.
-— Chegou sua hora de cair sem honra.
-
-Valen atacou com a espada curta.
-Broaken defendeu, girou o braço e acertou a base da costela de Valen com o cotovelo.
-
-Estalo seco.
-
-Valen caiu de lado.
-
-O braço mecânico falhou por um segundo.
-Ele respirou fundo.
-Cuspiu sangue.
-
-— Ainda de pé? — provocou Broaken.
-
-Valen se levantou.
-— Ainda com a bússola. — cuspiu.
-
-Eles voltaram a se chocar.
-
-Espada contra espada.
-Metal contra dor.
-
-
-No porão do navio, entre barris e redes, Runner ouvia.
-
-Ouviu o som de Kael caindo.
-O impacto da corrente de Brutus falhando.
-O grito curto de Mina.
-O disparo seco de Gilbert.
-E o baque de Valen no convés.
-
-Ele suava.
-Respirava como criança presa.
-
-— Eu não posso… — sussurrou.
-
-Mas a memória voltou.
-Uma voz antiga. Um irmão.
-
-> “Se você correr de novo, não volta.”
-
-
-
-Runner encostou a testa na madeira.
-
-O navio estalava.
-Sangrava.
-
-O Coruja Eclipse chorava.
-
-E ele...
-correu.
-
-Fugiu da escada lateral.
-Desceu para o armário de suprimentos.
-Trancou por dentro.
-Encostou a boca nos joelhos.
-
-E chorou.
-Sem som.
-
-
-Lá em cima…
-a tripulação quebrava.
-
-E a Névoa, ao redor…
-apenas assistia.
-
-
-
-#Capítulo 41 – A moral
-
-A espada de Valen caiu no convés.
-
-O braço não respondeu.
-O sangue escorria pela lateral do rosto.
-A visão turva.
-A respiração falha.
-
-Um impacto brutal atirou Gilbert contra a amurada, o ar sumindo de seus pulmões.
-E a bússola negra, rolando para longe…
-
-parou diante das botas de Broaken.
-
-O inimigo apenas se abaixou e a pegou com a mesma naturalidade com que se apanha algo que sempre pertenceu.
-
-O peso do objeto em suas mãos pareceu selar a vitória.
-
-— Sabe o que mais gosto nela, Valen? — disse ele, erguendo-a para o alto.
-— Não é o poder.
-— É o custo.
-
-
-Valen ficou de joelhos.
-
-Olhou ao redor.
-Viu Kael caída, sangrando da perna, com os olhos semicerrados.
-Brutus imóvel, encostado no mastro.
-Mina com o rosto machucado, ainda tentando erguer uma adaga com os dedos trêmulos.
-Gilbert ajoelhado, respirando com dificuldade.
-Sombra ainda cravada no mastro — o arpão fincada no corpo, olhos fixos no nada.
-
-Valen tentou contar.
-Um, dois, três...
-
-Faltava um.
-
-O olhar percorreu o convés outra vez.
-
-Runner não estava ali.
-
-Valen sentiu um nó frio no estômago.
-Não perguntou.
-Não precisava.
-
-
-Broaken se aproximou mais uma vez.
-Ergueu a bússola até a altura do rosto de Valen.
-
-— Já viu essa cena antes? — sussurrou.
-— Tripulação no chão. Gente boa morrendo por causa de uma ideia… e você, ajoelhado, com nada nas mãos.
-
-Valen fechou os olhos.
-O rosto de Elyra, o riso de Kaer, o sangue de Harvim, os olhos de Thom sem vida…
-
-Tudo voltou.
-
-A antiga tripulação.
-A traição.
-A bússola no peito.
-
-E agora…
-de novo.
-
-Ele sentiu o peso esmagando o peito.
-
-— Não é a bússola que te amaldiçoa. — disse Broaken, com um sorriso torto.
-— É você que amaldiçoa os outros com ela.
-
-
-Valen tentou se levantar.
-As pernas falharam.
-O braço mecânico não respondia.
-
-Ele apenas olhou para o convés.
-
-Para o sangue nos olhos de Mina.
-Para a respiração falha de Kael.
-Para o silêncio absoluto de Sombra.
-
-
-Broaken virou de costas.
-
-— Quando eu cruzar a Névoa… vou mudar tudo.
-— Vou encontrar o que está do outro lado.
-— E você vai assistir esse mundo… ruir sem você.
-
-Ele caminhou até a borda do navio.
-
-Mas então…
-
-O ar mudou.
-
-
-O chão vibrou.
-
-O vento cortou de dentro para fora.
-Uma pressão súbita caiu sobre todos os corpos no convés — como se algo, dentro da Névoa, os tivesse finalmente notado.
-
-O céu escureceu de forma desigual.
-Relâmpagos silenciosos cruzaram o manto cinza.
-E uma nova tempestade começou a nascer… de dentro.
-
-Não era natural.
-
-Era a própria Névoa reagindo.
-
-Broaken parou.
-
-Olhou para o horizonte.
-Depois para cima.
-
-— Não...
-
-Ele apertou a bússola entre os dedos.
-
-— Já é tarde…
-
-Sussurrou, para si mesmo, ao ver a escuridão fechar-se em espiral ao redor do casco.
-
-Eles não estavam entrando na Névoa.
-
-A Névoa os estava puxando para dentro.
-
-E nem mesmo Broaken…
-conseguiria sair agora.
-
-
-
-#Capítulo 42 – Corrida pelo Fio 
-
-A Névoa estremecia o mundo.
-
-Rugidos abafados.
-Relâmpagos mudos.
-O mar se contorcia como se algo estivesse nascendo dentro dele.
-
-No convés, tudo estava em suspensão.
-
-Sombra cravada no mastro.
-Brutus desmaiado.
-Kael inconsciente.
-Gilbert sem forças para se erguer.
-Mina, de joelhos, respirando como fera ferida.
-Valen, de pé — trêmulo — sangrando.
-
-E Broaken.
-De costas para todos.
-Com a bússola nas mãos.
-
-A vitória estava ali.
-Pulsando.
-
-Valen levantou o braço.
-Não era desafio.
-Era chamado.
-
-Um sinal silencioso.
-Feito para ele.
-
-
-Lá embaixo, entre as sombras do porão… Runner ouviu.
-
-A voz não veio do mundo.
-Veio de dentro.
-
-> “Hora de correr, garoto.
-Você prometeu.”
-
-
-As palavras de Valen.
-A promessa esquecida.
-
-Runner ofegou.
-Ergueu-se num impulso.
-O peito travado.
-
-Subiu os degraus.
-Saltou a escotilha.
-
-O convés era caos.
-Fumaça. Sangue. Restos de esperança.
-
-
-
-Um dos soldados de Sulheim o viu.
-Tentou cortar-lhe o caminho.
-
-Runner deslizou por baixo da lâmina, raspando a bochecha na madeira encharcada.
-Saltou sobre uma tábua quebrada.
-
-Uma viga caiu do mastro — ele girou no ar e passou por baixo.
-
-Correu como nunca correra.
-Mas dessa vez, não para fugir.
-
-No centro… Broaken.
-
-A bússola ainda em mãos.
-
-O chão tremeu.
-O casco gemeu.
-Broaken cambaleou — um desequilíbrio mínimo.
-
-Runner saltou com o corpo todo.
-
-Tomou a bússola no ar.
-E aterrissou em queda lateral.
-Rolando.
-Segurando.
-Gritando.
-
-
-Broaken virou com ódio nos olhos.
-
-— Não.
-
-Avançou.
-Mas a Névoa se fechou entre eles.
-
-Um vento girou o mundo.
-Um trovão explodiu dentro do casco.
-
-O navio partiu.
-O mar os engoliu.
-E o mundo... acabou.
-
-
-Valen sentiu o impacto.
-O corpo sendo puxado.
-A água invadindo tudo.
-
-Gritos.
-Formas se desfazendo.
-Tempo dobrando.
-
-
-E então...
-a areia.
-
-Ele abriu os olhos.
-Tossiu água.
-Olhou o céu.
-
-Era azul.
-Mas errado.
-Como se não fosse feito para respirar.
-
-A vegetação era escura.
-O vento... sem som.
-
-Ele se virou.
-
-— Mina... — a voz falhou.
-
-Ela estava ali, caindo de lado na praia, viva.
-
-E ao lado dela...
-
-Runner.
-
-De pé.
-Tremendo.
-E com a bússola firme nas mãos.
-
-O resto da tripulação?
-Desaparecida.
-Broaken?
-Sumido.
-
-Mas a bússola…
-
-Ainda apontava.
-
-E Valen…
-sentia o sangue correr diferente.
-Como se algo dentro dele… já não fosse mais só dele.
-
-
-
-#Capítulo 43 – A Marca e o Sal
-
-O vento arranhava a pele como vidro fino.
-
-Valen avançava devagar pela areia compacta, a bota afundando até o tornozelo a cada passo. O céu estava limpo demais. Azul demais. O tipo de azul que não pertence a nenhum mapa.
-
-Mina vinha logo atrás, limpando o rosto. A pele queimava. O sal grudava em cada corte.
-
-Runner era o mais quieto.
-Talvez por vergonha.
-Ou porque ainda segurava a bússola como se fosse tudo o que restava entre eles e o nada.
-
-
-Foi Mina quem parou primeiro.
-
-— Valen...
-
-Ele se virou.
-Ela erguia o braço.
-
-Havia algo no ombro.
-Um brilho discreto. Um traço escuro, curvo, marcado sob a pele — como carvão enraizado.
-
-— Isso… não estava aqui antes.
-
-Valen sentiu o sangue gelar.
-
-
-Na lateral da mão direita de Valen, uma marca semelhante.
-Um símbolo.
-Estranho.
-Orgânico.
-
-— Não é tatuagem. — disse Runner, ofegando. — Tá… dentro da pele.
-
-Ele puxou a gola da camisa.
-
-A marca dele estava no lado esquerdo do pescoço. Uma espiral fina com linhas verticais, como raízes.
-
-Valen tocou a própria com cautela.
-
-— Estamos… marcados.
-
-— Mas não sinto nada. — disse Mina.
-
-— Nem eu. — completou Runner. — Nem frio. Nem calor. Nem dor. Nem poder.
-— Só… ela.
-
-Ele olhou para a bússola.
-
-A agulha girava levemente.
-Depois travava.
-Como se ainda estivesse se orientando.
-
-
-O chão começou a mudar.
-
-A areia fina cedeu lugar a uma crosta branca, salina.
-Estalos secos vinham dos próprios passos.
-
-Valen se ajoelhou e tocou o solo.
-
-Sal.
-Cristalizado.
-Antigo.
-
-Ele olhou ao redor.
-
-E então percebeu.
-
-— Deserto... mas não qualquer um.
-
-O ar pesava de maneira estranha.
-E o gosto nos lábios... era de lenda.
-
-— Estamos no litoral do Deserto Salgado.
-— Vaelzar.
-
-
-Mina se virou, os olhos varrendo o horizonte.
-
-— Esse lugar... não é só seco.
-— É morto.
-— E velho demais.
-
-Valen se levantou.
-
-— E agora ele nos aceitou.
-
-
-O sol começava a baixar.
-As marcas não brilhavam.
-Mas estavam ali.
-
-Silenciosas.
-Como promessas.
-
-E mesmo que ainda sem poder...
-
-algo dentro deles já havia mudado para sempre.
-
-
-#Capítulo 44 – Areia, Marcas e Estandartes
-
-O sol se tornava cruel.
-
-Valen sentava-se sobre uma rocha achatada, o braço direito apoiado no joelho e a respiração pesada. Mina caminhava em círculos curtos, chutando o sal acumulado no solo duro. Runner permanecia perto, em silêncio, a bússola entre as mãos.
-
-— Já foram horas. — disse ela. — E ainda nada.
-
-— Não sabemos se eles caíram no mesmo ponto. — respondeu Valen, olhando o horizonte. — A Névoa não segue lógica de mapas.
-
-— Nem de misericórdia. — completou Runner, num sussurro.
-
-Valen virou-se lentamente para os dois.
-
-— A tripulação… pode estar morta.
-— Ou pior.
-
-Ninguém contestou.
-
-— Sombra foi atingida. — continuou ele. — Kael e Brutus estavam desacordados. Gilbert mal conseguia respirar.
-
-— Eles são fortes. — disse Mina, firme. — Se estiverem vivos… vão encontrar o caminho.
-
-Runner olhou para a bússola.
-
-— E se eles também forem marcados agora?
-
-Valen assentiu, quase imperceptível.
-
-— Então talvez estejam lidando com o mesmo vazio que a gente.
-
-
-O vento empurrava grãos de sal seco pela superfície dura do chão.
-O som era semelhante a cinzas sendo sopradas por cima de pedra.
-
-— A marca não muda tudo. — disse Valen.
-— Não por fora.
-— Mas ela te observa por dentro.
-
-Mina se aproximou.
-
-— E agora? Esperar? Andar? Apostar?
-
-— Sobreviver. — disse ele, se erguendo.
-
-Os três se entreolharam.
-
-— Não somos mais quem éramos.
-— Mas ainda somos nós.
-
-
-Andaram por mais de uma hora.
-Não havia estrada.
-A bússola os guiava, mesmo sem destino.
-
-Até que…
-no fim de uma elevação arenosa…
-
-viram.
-
-Longe.
-Silhuetas se movendo com precisão.
-Bandeiras tremulando sob o sol.
-Estandartes em vermelho escuro, costurados à mão.
-
-Formações protegidas por lanças.
-Ritmo de caravana.
-Disciplina de grupo.
-Marcha de quem não teme o deserto.
-
-
-Mina parou.
-
-— Vocês estão vendo isso?
-
-Runner estreitou os olhos.
-
-Valen respirou fundo.
-
-— Sim.
-
-E pela primeira vez desde a praia…
-alguém mais andava por aquele mundo.
-
-
-
-
-#Capítulo 45 – Filhos da Areia 
-
-O chão vibrava embaixo dos pés de Valen.
-
-Era sutil — como se algo dentro da areia pulsasse, como um coração escondido sob o sal seco. Ele parou de andar.
-
-— Algo errado? — perguntou Mina.
-
-Valen não respondeu.
-Olhou para o próprio braço.
-O metálico estava intacto.
-O outro… não.
-
-A pele da mão direita exibia agora uma linha que não estava ali antes.
-Negra, curvada, fina como um corte antigo — mas viva.
-Pulsava no mesmo ritmo da terra.
-
-Ele sentiu o peito apertar.
-Depois, o ar ficou mais denso.
-E, por um instante, viu antes de acontecer: uma sombra movendo-se no canto da visão.
-Quando olhou, ela já não estava mais ali.
-
-— Vocês sentiram…? — murmurou ele.
-
-— Só calor e areia. — respondeu Runner, jogando a bússola para cima e pegando de volta.
-
-— E essa sensação de que tudo tá te olhando. — completou Mina.
-
-
-Avançaram por mais uma hora.
-O sol começava a cair, mas o calor ainda agarrava a pele.
-
-Foi então que as marcas no horizonte se tornaram claras.
-
-Silhuetas em marcha.
-Lanças em mãos.
-Bandeiras vermelhas balançando com orgulho e peso.
-
-Uma caravana.
-
-Mas não qualquer uma.
-
-Os homens usavam turbantes rústicos, couro marcado por escamas e símbolos entalhados com brasa.
-As mulheres tinham os rostos pintados com traços escuros e olhos que não tremiam com o vento.
-
-No centro… uma tenda móvel, guardada por três lanças de prata.
-
-— Devemos nos aproximar? — perguntou Runner.
-
-Valen olhou adiante.
-O braço mecânico contraiu por reflexo.
-
-— Eles já nos viram.
-
-Mina ergueu as mãos devagar.
-— E não estão correndo.
-— Isso é bom… ou é pior.
-
-
-A caravana desacelerou.
-Dois homens desceram das dunas.
-Olhos dourados.
-Silêncio seco.
-
-Valen deu um passo à frente.
-
-O braço direito — o de carne — voltou a pulsar.
-
-A marca queimava… mas não doía.
-Era como um aviso.
-Ou um chamado.
-
-
-No alto da caravana, sobre uma plataforma de couro rígido, uma mulher permanecia sentada.
-
-Alta. Imóvel.
-Tranças negras sobre os ombros.
-Uma lança cravada ao lado, fincada no metal do suporte, como se ela fosse a raiz daquela marcha.
-
-Sem dizer nada, ergueu uma das mãos.
-
-A caravana parou.
-
-E o deserto ficou em silêncio.
-
-Valen sentiu a marca pulsar mais forte.
-Mas não era medo.
-
-Era respeito.
-
-
-
-#Capítulo 46 – A Anomalia do Deserto
-
-O ar em Vaelzar não se movia.
- Era um forno parado — um peso dourado que esmagava os ombros e secava a alma.
-Valen, Mina e Runner formavam um triângulo de exaustão e desafio. Diante deles, dois batedores da caravana dos Escorpiões de Shandarin surgiam como sombras do deserto: autoridade e ameaça em forma humana.
-O homem corpulento, Irbak, mantinha-se em silêncio, a mão enorme pousada no cabo de um machado que parecia extensão de sua carne.
- O outro, magro, de olhos dourados e sorriso debochado, foi o primeiro a falar.
-— Ora, ora, Irbak — disse Nash, a voz arrastada, com um humor que cheirava a poeira e escárnio. — Olha o que o sol nos trouxe. Peixes. Bateram as nadadeiras com força pra chegar tão longe do mar?
-Valen manteve o olhar fixo, o braço mecânico girando no pulso, o som do metal ecoando como um tique nervoso.
- — Não procuramos problemas.
-— Que pena. — Nash deu um passo preguiçoso para o lado. — Problemas são a única bebida que servimos de graça nestas areias. E vocês parecem... sedentos.
-Mina cerrou os dentes.
- — Onde estamos? Quem são vocês?
-Nash riu, mostrando dentes brancos demais para aquele deserto.
- — Tantas perguntas, peixinha. Regra número um de Vaelzar: só quem tem as lâminas mais afiadas faz as perguntas. — Voltou-se para Irbak. — Desarma-os. Com cuidado. Não queremos estragar a mercadoria.
-Irbak assentiu. Moveu-se com a lentidão de uma rocha viva, cada passo pesado, inescapável. Ignorou Valen e Mina — foi direto a Runner, o mais leve, o mais vulnerável.
-E o perigo disparou.
-Mas para Valen, o mundo quebrou.
-O som morreu. O calor sumiu.
- O movimento de Irbak, o brilho do sol, o tremor da areia — tudo congelou num azul pálido e morto.
-E então... ele viu.
-Não o presente, mas ecos de futuros próximos, cintilando diante dos olhos.
-Flash 1: Irbak agarra Runner. Runner tenta revidar, mas o gigante quebra-lhe o pulso.
- Flash 2: Mina ataca pelas costas. Nash intercepta, as cimitarras riscando o ar — e Mina cai com o tendão cortado.
- Flash 3: Valen tenta o contragolpe. O machado bloqueia o braço mecânico, e Nash o fere no flanco.
-Três futuros. Três fracassos.
- Tudo em um piscar de olhos.
-O mundo voltou num solavanco brutal — o som, o calor, o tempo.
- Irbak ainda estava a meio passo de atacar Runner.
-Valen reagiu antes de pensar.
-— Mina! Faca! Seis horas!
-Em vez de enfrentar Irbak, ele avançou para o lado, bloqueando a linha de ataque que Nash usaria segundos depois.
- O braço mecânico subiu, não para atacar — mas para interceptar um golpe que ainda não havia acontecido.
-Mina confiou. Girou o corpo e lançou a faca para trás, exatamente onde Valen indicou.
- A lâmina cortou o ar.
-Nash, movendo-se para flanquear Mina como previsto, viu o aço vir em sua direção e recuou no último instante. A faca raspou-lhe a orelha — o sorriso dele desapareceu com o sangue quente que escorreu.
-Irbak hesitou. O alvo sumira. A formação quebrou.
- Em segundos, o combate terminou antes de começar.
-A tripulação estava reunida. Os batedores, separados e confusos.
-Mina e Runner olhavam para Valen — suados, trêmulos, assustados.
- Como ele sabia?
-Nash limpou a orelha ferida. A arrogância evaporou, substituída por uma fúria controlada. Ele desembainhou as duas cimitarras curtas, feitas de um metal negro e oleoso que parecia beber a luz do sol. Azarion.
-— Mas que truque foi esse? — rosnou. — Você não é um náufrago comum.
-— Eu disse... chega.
-A voz veio firme e feminina.
- Era a mesma de antes — agora próxima.
-Zareen desceu da caravana. As tranças negras balançavam ao vento seco. Os olhos verdes queimavam como esmeraldas sob sol.
-Nash e Irbak recuaram, curvando-se levemente.
-Zareen parou diante deles. Observou o cenário — a faca cravada na areia, o sangue, o silêncio.
- Dois de seus melhores guerreiros haviam sido neutralizados sem um único golpe.
-O olhar dela pousou em Valen.
- Ela viu o braço mecânico. A postura firme. E a forma como Mina e Runner o protegiam.
-— Um líder. — murmurou. — Um tático.
-— Ele é mais que isso, — disse Nash, ainda irritado. — Ele... viu antes de acontecer.
-Zareen se aproximou mais. Seu olhar desceu até a mão direita de Valen.
- Na pele queimada pelo sol, algo brilhava. Linhas azuis, tênues, pulsantes — a Marca de Kalimar.
-A expressão pragmática dela vacilou. O espanto e a curiosidade tomaram lugar.
-— A Marca do Mar... tão longe de casa.
-Valen não respondeu. O suor escorria pelo pescoço. Ele ainda sentia o eco do poder — aquela vibração entre o real e o impossível.
-— Vocês não são náufragos, — disse Zareen, por fim. — São anomalias.
-— Sobrevivemos à Névoa. — respondeu ele.
-Zareen assentiu lentamente. — E trouxeram seus fantasmas com vocês.
-Ela olhou para Nash e Irbak.
- — Guardem as armas. E tragam água. Eles não são inimigos.
-Então, voltou-se para Valen.
- — Vocês vêm comigo para o Oásis de Zahir. Tenho mil perguntas... e a primeira é: que tempestade vocês trouxeram para as minhas areias?
-
-#Capítulo 47 – O Peso das Areias
-
-O sol de Vaelzar era um juiz impiedoso.
-Nada escapava do seu olhar — nem mesmo os vivos que já pareciam mortos.
-As armas da tripulação da Coruja Eclipse haviam sido “guardadas” por Irbak
- — uma palavra gentil para confiscadas. Agora, caminhavam no centro da caravana, cercados pelos guerreiros de Zareen. Respiravam apenas por cortesia.
-A marcha era um inferno silencioso.
-A areia invadia as botas, o calor sugava a força, e cada duna parecia idêntica à anterior.
-O som ritmado dos passos dos guardas era o único lembrete de que ainda havia mundo ao redor.
-
-Zareen caminhava ao lado de Valen. Não o olhava diretamente, mas ele sentia seu olhar avaliador — a curiosidade de uma estrategista diante de algo novo.
-
-— A Marca Azul — disse ela por fim, a voz baixa, quase casual. — Kalimar. Muito longe do seu oceano.
-
-Valen manteve o passo, o braço mecânico balançando com o peso do metal.
-— O deserto não foi nossa primeira escolha.
-
-— Nunca é — respondeu Zareen. — Mas agora é o seu único lar.
-Ela o estudou, medindo cada palavra. — O que ela faz?
-
-— O que faz? — retrucou ele.
-
-— A Marca. — Os olhos dela eram duros, sem rodeios. — Em Vaelzar, toda marca é uma arma. Algumas cortam. Outras protegem. A sua... congelou o tempo? Criou uma ilusão? Meus homens pararam antes de atacar.
-
-Valen pensou nos ecos azuis, nas visões que o dilaceraram por dentro.
-— Eu não sei.
-
-Zareen arqueou a sobrancelha, surpresa. — Não sabe?
-
-— Ela se ativou sozinha. Foi a primeira vez.
-
-Ela caminhou em silêncio por alguns passos. Depois, um leve sorriso curvou seus lábios — mais pragmático do que gentil.
-— Uma arma que dispara sozinha... perigosa. Principalmente para quem a carrega.
-Fez uma pausa. — Vai precisar aprender a controlá-la. Rápido.
-
-— O que eu preciso — disse Valen, a voz rouca — é encontrar o resto da minha tripulação. Eles caíram conosco. Um homem mais velho, um gigante, uma ferreira e... uma mulher.
-
-— Se a Névoa os cuspiu, o deserto os encontrará — respondeu Zareen. — Mas se caíram perto do território do Sultão, já estão mortos... ou escravizados.
-Ela o olhou de lado. — Eu posso ajudar a procurá-los. Em troca...
-
-— Da minha Marca, — completou ele.
-
-— De você, Capitão. — corrigiu ela, firme. — Meu povo luta contra um tirano. Precisamos de todas as armas possíveis. E uma anomalia como você vale mais do que um exército.
-O olhar de Zareen desviou de Valen para a garota e o garoto encolhidos logo atrás dele. Os olhos treinados da líder rebelde semicerraram.
-— A Névoa marcou eles também. Eu sinto o cheiro.
-— Estão adormecidas — Valen cortou, a voz como pedra, entrando na frente dos dois. — Não sabem usar. Não servem para a sua guerra.
-Zareen o encarou por um longo segundo, medindo a postura defensiva do capitão. Um sorriso de canto surgiu nos lábios dela.
-— Tudo bem. A sua despertou  primeiro, de qualquer forma. É com você que eu vou negociar.
-
-Ela seguiu em frente, sem esperar resposta.
-A aliança estava proposta. Era aceitar... ou morrer de sede.
-
-Mais atrás, Nash caminhava leve, indiferente ao calor, como se Vaelzar fosse seu jardim pessoal.
-Ele se aproximou de Mina, o sorriso debochado de sempre.
-
-— Sabe, peixinha, eu vi aquele seu giro. Bonito. Pena que a faca não me acertou — teria tornado o dia mais interessante.
-
-Mina manteve o olhar fixo nas costas de Valen, ignorando-o.
-
-Nash riu baixo. — Você não fala muito, hein? Gosta mais de observar o chefe. Justo. Ele é o único com brinquedos novos.
-
-Runner, ao lado dela, resmungou:
-— Nós nem sabemos o que aconteceu... aquilo...
-
-— Foi poder, garoto. — cortou Nash, sem olhar para ele. — Puro e descontrolado.
-Apontou com o queixo para Zareen. — E ela... adora poder. Se o seu capitão for esperto, sobrevive. Se você for esperta — disse, encarando Mina — vai perceber que, nesse deserto, um amigo como eu vale mais do que uma sombra como ele.
-
-Mina parou.
-O suor escorria, mas o olhar dela era frio.
-— Se me chamar de peixinha de novo, eu arranco esses seus olhos dourados com as próprias mãos.
-
-Ela se virou e acelerou o passo.
-Nash ficou para trás, o sorriso agora genuíno.
-— Gostei dela. — murmurou.
-
-Seis horas depois, o sol mergulhava no horizonte como uma ferida aberta.
-Zareen ergueu a mão.
-
-— Vamos acampar aqui.
-
-A caravana parou com precisão militar. Em minutos, tendas se ergueram, e uma fogueira rompeu o silêncio.
-O calor deu lugar ao frio cortante do deserto noturno.
-
-Valen, Mina e Runner sentaram-se juntos, afastados do fogo principal.
-Irbak aproximou-se e entregou-lhes odres d’água e carne seca — sem uma palavra.
-
-Valen observava Zareen do outro lado do fogo. Ela discutia mapas com Nash, e mesmo à distância, irradiava controle.
-Era uma líder nata — forjada no deserto como ele fora forjado pelo mar.
-
-Ela ergueu o olhar.
-Por um momento, os dois se encontraram. Nenhum desviou.
-Reconhecimento. Respeito silencioso.
-
-— O Oásis de Zahir ainda está a um dia de marcha — disse ela, em voz alta o bastante para ele ouvir. — Descanse, Capitão do Mar.
-Amanhã... a sua nova vida começa.
-
-
-#Capítulo 48 – O Brilho do Metal Negro
-O frio do deserto era tão brutal quanto o calor.
- O vento uivava entre as dunas, trazendo consigo o gosto seco da areia e o eco distante de tambores noturnos.
-A maior parte da caravana dos Escorpiões já dormia.
- Somente algumas fogueiras sobreviviam, pequenas ilhas de luz engolidas pela vastidão escura de Vaelzar.
-Valen estava sozinho, de costas para os outros, observando Zareen e Irbak montarem guarda na entrada do acampamento.
- A chama distante projetava a sombra dele no chão — longa, distorcida, como se o deserto tentasse engolir o próprio capitão.
-
-Perto dali, Mina e Runner dividiam um cobertor grosseiro jogado por algum dos rebeldes.
- O fogo diante deles estalava, mas parecia impotente contra o frio.
-Runner esfregava as mãos, os olhos presos nas chamas.
- — Mina... o que foi aquilo, hoje?
-Ela não respondeu de imediato.
- Seu olhar estava fixo em Valen — uma silhueta imóvel diante da fogueira distante.
- — Eu não sei.
-— Como não sabe? — insistiu ele, inquieto. — Ele nos salvou. Ele viu. Gritou o comando antes daquele cara se mover. Ele sabia que o de olhos dourados ia te atacar.
-— Eu sei o que eu vi, Runner — respondeu Mina, com a voz baixa, tensa. — E é isso que me preocupa.
-Runner piscou, confuso. — Preocupa? Devíamos estar comemorando! O capitão tem um poder! É a Marca!
-— É descontrolado — cortou Mina. — Ele não sabia o que estava fazendo. Você viu o rosto dele depois? Parecia mais assustado do que a gente.
- Ela suspirou, o olhar duro. — Uma arma que dispara sozinha não é uma arma. É um acidente esperando pra acontecer.
-Runner ficou em silêncio. Olhou para as próprias mãos, girando-as diante do fogo.
- — Nós também atravessamos a Névoa... por que só ele mudou? Por que nós não ganhamos nada?
-Mina apenas apertou o cobertor. — Não sei. Mas isso muda tudo.
-
-— Conversa séria, crianças?
-A voz de Nash veio da escuridão, preguiçosa e provocadora.
- Ele se aproximou sem fazer som na areia, carregando duas canecas de metal.
-— Chá de raiz. Quente. Bom pra tirar o veneno do sangue — disse, oferecendo uma a Mina.
-Ela o encarou, desconfiada, e não se moveu.
-Nash deu de ombros.
- — Sua perda, peixinha. — Tomou um gole longo e se sentou perto do fogo sem ser convidado.
- Runner aceitou a outra caneca, hesitante.
-— Então... o capitão de vocês é um vidente — disse Nash, soprando a fumaça quente. — Interessante. Zareen adora coisas interessantes.
-— Não é da sua conta — rosnou Mina.
-— Na verdade, é sim — respondeu ele, com um meio sorriso. — Tudo o que acontece no meu deserto é da minha conta.
- Deu outro gole. — Especialmente quando envolve magia da Névoa que nem eu reconheço.
- Mas... — ele olhou para Valen, que continuava imóvel — o poder dele é bruto. Selvagem. Precisa de polimento.
-Nash pousou a caneca. Num movimento fluido, puxou uma das suas cimitarras.
- A lâmina não refletia o fogo — parecia bebê-lo.
- O metal era negro, oleoso, vivo.
-Runner engoliu em seco. — Que... que metal é esse?
-Nash sorriu.
- — Isto? — girou a lâmina, fazendo-a cantar no ar. — Isto é o que nos mantém vivos. Azarion. O Metal de Zahir.
- Forjado nas únicas forjas que importam — no coração do nosso oásis.
-Ele aproximou a lâmina do fogo.
- O metal não aqueceu, mas linhas finas começaram a pulsar sob a superfície escura, como veias vivas.
-— Não é como o aço morto que vocês carregam — continuou Nash. — O Azarion escuta. Ele sente o dono. Reage à vontade.
-Ele olhou para Mina, o sorriso se alargando.
- — É por isso que minhas lâminas são mais rápidas que suas facas. Elas querem cortar.
-— Você fala das suas armas como se fossem animais de estimação — disse Mina, com desprezo.
-— São melhores — retrucou ele, divertido. — São leais. E mortais.
- Embainhou a espada num único gesto. — Zareen acredita que Marcas são o futuro da guerra.
- Eu acredito em aço que morde.
- Talvez, juntos... — ele lançou um olhar para o fogo — possamos fazer o Sultão sangrar.
-Levantou-se, esticando os ombros.
- — Quem sabe, se você pedir com jeitinho, peixinha, eu convença nossos ferreiros a fazer uma faca decente pra você. Assim, da próxima vez, talvez acerte o alvo.
-Mina apenas o encarou, o olhar gélido.
-Nash riu, satisfeito. — Durmam bem, crianças. O Oásis de Zahir não gosta de receber gente mal-humorada.
-Ele desapareceu de volta na escuridão, como se o deserto o tivesse engolido.
-Runner observou o fogo, pensativo.
- — Marcas... metal vivo... onde é que a gente veio parar, Mina?
-Ela não respondeu.
- O olhar dela se voltou para Valen, imóvel diante das chamas distantes — um homem separado do mundo por um poder que ele próprio não compreendia.
-
-#Capítulo 49 – Ecos na Fogueira
-O silêncio do deserto era uma mortalha — pesado, frio e absoluto.
- As fogueiras se apagavam uma a uma, como se Vaelzar quisesse engolir a própria luz.
-Valen estava sentado sozinho, de costas para o acampamento, limpando o braço mecânico com um pedaço de couro. Fazia isso mais por hábito do que por necessidade. O metal negro absorvia a luz das brasas, como se bebesse a chama.
-Ele parou o movimento quando ouviu passos na areia.
- Não eram os passos leves e insolentes de Nash, nem o arrastar pesado de Irbak.
- Eram passos firmes, ritmados, seguros — de alguém acostumado a ser ouvido mesmo quando não falava.
-Zareen.
-Ela surgiu como uma sombra contra o brilho distante das estrelas, o véu leve dançando ao vento.
-— A noite é para os mortos... e para os que não conseguem dormir — disse ela, a voz carregando um toque de ironia.
-Valen não se virou. — O mar me ensinou que os mortos nunca dormem. — Uma pausa. — O deserto parece concordar.
-Zareen aproximou-se e se sentou do outro lado da fogueira.
- A luz tremulante do fogo refletiu em seus olhos verdes, quase felinos.
-— Eles não dormem — respondeu. — Mas gritam mais baixo que o Sultão.
-Ela estendeu as mãos em direção ao fogo, aquecendo-se.
- Por um momento, só o crepitar das chamas respondeu.
-— Nash me contou sobre seus homens. — Ela o olhou de soslaio. — Mina e o garoto têm medo de você. Da sua Marca.
-Valen apoiou o cotovelo no joelho, sem desviar o olhar da areia. — Eles têm medo do que não entendem. — Uma pausa breve. — Eu também.
-Zareen observou-o por alguns segundos. — Mas eu entendo. — Sua voz agora era quase um sussurro. — Vi o que fez. Antecipou cada golpe. Em Vaelzar, quem vê o futuro comanda o presente. A sua Marca é uma arma, Capitão.
-Valen deixou o couro cair. O braço mecânico fechou-se num punho silencioso.
- — Eu não sou uma arma — disse, baixo. — Sou um capitão à procura da minha tripulação.
-— Uma tripulação que está morta... ou em Karadesh — retrucou ela, sem suavidade. — E Karadesh pertence ao Sultão. Um homem que cobra impostos até do vento. Ele toma os grãos, as colheitas, a água — e chama isso de ordem.
-Ela olhou o fogo, o rosto iluminado pelas chamas. — Quem não paga, morre de fome. Quem paga, vive ajoelhado. É assim que ele mantém o trono.
-Valen a fitou, realmente escutando. — Então é por isso que você luta.
-— Eu luto porque ele deixou o Oásis sangrar. — O tom dela era calmo, mas carregado. — Zahir era o coração de Vaelzar, e ele o transformou em deserto. Eu vi crianças vendendo água, capitão. Água. — Ela o encarou. — O ouro de Karadesh é feito com a sede do meu povo.
-Houve um silêncio. O vento soprou, levantando um véu de areia entre os dois.
-— Você fala como uma rainha — disse Valen, finalmente.
-Ela sorriu — um sorriso pequeno, mas real. — Não. — Seus olhos brilharam. — Rainhas mandam. Eu convenço.
-Valen soltou um som baixo, quase um riso. — Convencer é mais difícil.
-— Especialmente você — respondeu ela, inclinando-se um pouco. — É como tentar negociar com o mar. Ele até escuta... mas sempre leva alguma coisa em troca.
-O olhar dele se ergueu devagar, encontrando o dela. Por um instante, o fogo pareceu prender o tempo entre ambos.
-— E o que você quer que eu entregue, Zareen? — perguntou ele, voz rouca.
-— O seu talento — disse ela, firme. — Sua mente de estrategista. A Névoa te marcou, mas foi o mar que te ensinou a pensar. Eu preciso disso.
-— E o que eu ganho?
-Ela se inclinou mais, o fogo riscando reflexos em sua pele dourada pelo sol. — Um exército. — Pausa. — E uma causa.
-Valen manteve o olhar. — Eu já tive uma.
-— E ela te matou? — Zareen arqueou uma sobrancelha. — Então talvez precise de uma melhor.
-Por um instante, ele quase respondeu. Mas algo em sua expressão o deteve — o brilho calculado, e ao mesmo tempo sincero, que misturava sedução e propósito.
-Ele desviou o olhar para o fogo. — Eu preciso de informações. Um mapa. Armas.
-— E eu preciso de você. — A frase saiu simples, direta. Mas o peso ficou no ar.
-O silêncio que seguiu não era desconforto — era um campo de batalha.
-Zareen inclinou a cabeça, estudando-o. — Você é frio. Cauteloso. Mas quando luta, é puro instinto. Essa mistura é rara. Letal.
-— E perigosa — completou ele.
-— Eu gosto do perigoso. — O sorriso dela voltou, breve e quase íntimo.
-Valen respirou fundo. Por um instante, sentiu algo que não vinha da Névoa — uma chama antiga, humana.
-— Você comanda pela lealdade — disse ele, tentando recuperar o terreno. — Nash é uma víbora, mas te segue. Irbak morreria por você. Isso é mais raro que qualquer magia.
-Zareen o olhou com algo que parecia respeito... e curiosidade. — A lealdade aqui é comprada com sangue. O Sultão nos deixa escolher entre ajoelhar ou lutar. Nós escolhemos lutar. E quem luta junto... aprende a amar o som do coração do outro.
-Ela se levantou, ajeitando o véu.
- — Amanhã chegaremos ao Oásis. Lá você vai treinar. Aprender a domar esse fantasma que carrega.
-O vento soprou forte, apagando parte do fogo.
-— E nós... — ela fez uma pausa, olhando-o de cima — vamos dar a você algo que não tem há muito tempo.
-Valen ergueu o olhar. — O quê?
-Zareen sorriu, enigmática. — Um motivo.
-Ela virou-se e caminhou para a escuridão, o som dos passos se perdendo entre as dunas.
-Valen ficou olhando as brasas, até que só restou o brilho fraco refletido no metal negro do braço mecânico.
- Por um instante, teve a impressão de ver seu próprio rosto ali — partido entre luz e sombra.
-
-
-#Capítulo 50 – O Coração do Deserto
-O sol era um martelo implacável.
- Após dois dias de marcha, a esperança de Valen, Mina e Runner tinha se tornado tão seca quanto a areia sob seus pés. O deserto era infinito — um oceano dourado sem costa, sem promessas.
-Foi Zareen quem parou a caravana no topo de uma duna alta.
- O vento chicoteava o véu em seu rosto, e ela ergueu a mão, ordenando silêncio.
-— Chegamos.
-Valen seguiu o olhar dela.
-E então viu.
-Entre desfiladeiros de rocha vermelha, aninhado como um segredo guardado pela própria terra, o Oásis de Zahir se revelava.
- Não era uma miragem. Era um milagre.
-Uma mancha de verde e azul no coração do nada — palmeiras dançando ao vento, canais de irrigação cortando as encostas em linhas prateadas, e um lago cristalino que refletia o céu como vidro líquido.
- As casas eram talhadas na rocha viva, entrelaçadas às raízes das palmeiras e às veias de água. Era uma cidade que parecia ter crescido, não sido construída.
-Runner soltou um assobio baixo.
- — É... real.
-Mina sorriu, cansada, mas com um brilho nos olhos. — Real demais pra ser sonho.
-
-Quando desceram pela passagem estreita que levava ao oásis, o ar mudou.
- O calor opressivo deu lugar a uma brisa úmida e fresca, carregada do cheiro de terra molhada e flores.
- O som do deserto foi engolido por outro — o som da vida.
-Crianças corriam pelas vielas de pedra. Ferreiros batiam martelos nas forjas abertas. Mulheres estendiam tecidos coloridos sobre varais de pedra.
- E entre tudo isso, o coração metálico de Zahir pulsava: o eco rítmico das forjas vivas, o som que marcava as horas e a alma do povo.
-As pessoas paravam para saudar Zareen. Não havia medo nos olhares — apenas respeito.
- Alguns tocavam o peito e murmuravam seu nome como se fosse bênção.
- Mas ao verem os estrangeiros, os rostos se fecharam em curiosidade e cautela.
-— Aqui vivemos como nossos ancestrais queriam — disse Zareen, caminhando à frente. — Livres.
-Valen respondeu apenas com um aceno, observando tudo como um homem que tentava entender um sonho desperto.
-
-No pátio central, dezenas de guerreiros treinavam sob o sol.
- Lanças tilintavam, escudos chocavam-se, e o som das ordens ecoava como música militar.
-No canto, Nash estava sozinho — um arco longo nas mãos, o corpo relaxado como o de um predador à espreita.
-— Observem — murmurou Zareen.
-Diante dele, uma fileira de alvos de madeira balançava ao vento, presos por cordas.
- Ele sacou uma flecha do coldre. A ponta era feita do mesmo metal negro das cimitarras que pendiam em suas costas — Azarion, o metal vivo.
-Ele disparou.
- A flecha cortou o ar com um som grave, quase como um sussurro. Atingiu o primeiro alvo no centro exato.
- Antes que o alvo balançasse de volta, ele disparou outra. E mais outra. Cada uma certeira, cada uma perfeita.
-Mina ergueu uma sobrancelha.
- — Qualquer bom arqueiro faria isso.
-Nash sorriu, como se tivesse ouvido.
- Virou-se para um pilar de pedra a dezenas de metros. Retirou a última flecha. Fechou os olhos.
-Disparou.
-A flecha voou reta — e então, curvou-se no ar, desviando suavemente.
- O som metálico que seguiu foi um tinir cristalino: a ponta cravara-se num pequeno sino pendurado atrás do pilar.
-O sino balançou, tocando uma nota pura que se espalhou pelo pátio como se o próprio oásis tivesse prendido a respiração.
-Mina deu um passo à frente, os olhos arregalados.
- Runner apenas murmurou:
- — Eu juro que ela... mudou de direção.
-— Mudou — confirmou Zareen, com um meio sorriso. — O Azarion escuta o arqueiro. Ele sente a intenção. E Nash... — ela o olhou com orgulho e um toque de desafio — é o único homem que nunca precisou errar para aprender.
-Nash deu um passo à frente, o sorriso habitual voltando ao rosto.
- — Bem-vindos ao meu recreio, peixes. — Ele fez uma reverência zombeteira. — Aqui, as flechas têm vontade. Só é preciso convencê-las de que querem obedecer.
-Zareen o ignorou, com um olhar que bastou para fazê-lo sair do caminho.
- — Venham. O Ancião os espera.
-
-Subiram as escadarias talhadas na rocha até o edifício mais alto — um templo de pedra clara adornado com tapeçarias antigas.
- As paredes contavam histórias: o levante de Khaarn Radun, o nascimento do escorpião vermelho, e a fundação do Oásis.
-No centro do salão, entre colunas entalhadas e incensários fumegantes, estava o Ancião Malik.
- A barba branca caía até o peito, e os olhos — de um âmbar desbotado — pareciam ver mais do que mostravam.
-— Zareen, minha filha — disse ele, com voz serena. — Você trouxe uma tempestade de areia para dentro da nossa casa.
-Zareen ajoelhou-se brevemente.
- — Eu trouxe aliados, Malik. Armas. E talvez respostas. — Ela fez um gesto em direção ao grupo. — Forasteiros marcados pela Névoa do Mar. Este é o Capitão Valen Draxor.
-Malik os observou com interesse contido.
- — O nosso oásis é um refúgio, não uma caserna, Capitão. — Caminhou até uma das janelas, observando o lago ao longe. — Prosperamos porque forjamos o melhor vinho, o melhor trigo... e o melhor aço de Vaelzar.
-Ele pousou as mãos nas costas, o tom mudando.
- — Mas o Sultão cobra caro pela nossa paz. Por cada barril que exportamos, ele exige dois em impostos.
- A nossa prosperidade é a fonte da nossa escravidão. — Um suspiro. — Queremos independência, não apenas guerra.
-Virou-se então para Valen.
- — Zareen é o nosso escudo e a nossa lança. Eu sou o coração do nosso povo.
-Deu um passo à frente.
- — Diga-me, Capitão... o que é você?
-O silêncio que se seguiu pareceu pesar mais que o ar do deserto.
- Zareen o observava, curiosa, como se esperasse uma resposta que nem ele sabia dar.
-Valen ergueu o olhar, o reflexo do fogo das forjas distante nos seus olhos.
- — Sou o eco do que perdi. — Uma pausa. — E talvez... o início do que vocês precisam.
-Malik sorriu, devagar.
- — Então talvez o deserto tenha nos mandado o tipo certo de tempestade.
-
-As chamas das forjas vivas ecoavam lá fora, pulsando como corações metálicos.
- E, pela primeira vez em muito tempo, Valen sentiu que o som não vinha de fora — mas de dentro dele.
-
-#Capítulo 51 – O Chifre do Sultão
-O Ancião Malik sorriu — um gesto lento, cansado, mas sincero.
- Parecia aceitar a resposta enigmática de Valen.
- Abriu a boca para falar, talvez para dar as boas-vindas àquela estranha tempestade que o deserto lhe enviara.
-Então o mundo tremeu.
-BROOOOOMMM.
-Um som profundo, gutural, atravessou os desfiladeiros, fazendo o chão vibrar.
- Não era um sino.
- Era um chifre de guerra.
- Um chamado antigo, pesado, que fazia a própria pedra estremecer.
-O Oásis congelou.
- Os martelos silenciaram, o riso das crianças morreu, até o som das forjas pareceu se retrair.
-O sorriso de Malik desapareceu. Em seu lugar, uma rigidez de aço.
- Zareen já estava em movimento — o corpo tenso, a mão na lâmina.
-— O Sultão — ela rosnou, o nome como uma praga. — Sempre pontual.
-
-Em segundos, o refúgio virou fortaleza.
- As portas de pedra se fecharam com um estrondo.
- Mulheres e crianças correram para as casas escavadas, enquanto os Escorpiões de Shadarin subiam aos muros, arcos de Azarion em punho.
-Do alto, o reflexo das flechas negras cintilava como olhos famintos sob o sol.
- O som do vento foi substituído por outro — o som das cordas esticadas, prontas para cantar.
-Zareen virou-se para Valen, Mina e Runner.
- O olhar dela era o de um predador — frio, meticuloso, sem espaço para dúvida.
-— Vocês três — disse ela, com voz baixa e firme. — Fiquem perto das forjas. Misturem-se com os ferreiros.
- Não olhem pra eles. Não falem. Não respirem alto.
- Hoje, vocês não existem.
-Ela não esperou resposta.
- Em dois passos, já descia as escadas, com Nash e Irbak logo atrás — o som das armaduras deles ecoando no pátio vazio.
-Valen puxou Mina e Runner para trás de um dos grandes caldeirões da forja central.
- Do ali, conseguiam ver o portão principal.
-
-A comitiva que atravessou o arco de pedra não era um exército — era um aviso.
-Na frente, cavalgava o General Tariq.
- Sua armadura, forjada em Olira, era uma peça de arte e ameaça: obsidiana polida, cruzada por veios vermelhos que pareciam pulsar sob a luz. O elmo, em forma de besta, respirava em silêncio, exalando poder e arrogância.
-Atrás dele vinham os Sete Punhos de Karadesh — guerreiros de elite.
- As armaduras negras refletiam o sol como espelhos quebrados, e cada movimento deles tinha o peso de quem mata em perfeita sincronia.
-Valen os observou.
- E então, algo dentro dele vibrou.
-A Névoa.
- A Marca.
-Não foi uma visão — foi um chamado.
- Um arrepio atravessou-lhe a nuca, um pulso frio percorreu sua +o direita.
- Por trás dos elmos uniformes, dois deles tinham o mesmo eco que ele sentira em si.
- Marcados.
- Mas servindo ao Sultão.
-Seu instinto gritou em silêncio.
- O perigo não estava apenas nas espadas — estava no sangue.
-
-O Ancião Malik avançou alguns passos, as mãos erguidas num gesto de paz.
- Zareen estava logo atrás, tensa, o rosto ocultando a fúria que lhe queimava os olhos.
-— General Tariq — disse Malik, a voz calma, mas firme. — A sua visita é... inesperada.
- A taxa de Zahir foi paga em ouro e em sangue.
-A voz de Tariq ecoou metálica sob o elmo.
- — O Sultão aprecia a vossa pontualidade no envio do Azarion, Ancião. — Pausa. — Mas a generosidade dele tem limites.
-— Generosidade? — Zareen deu um passo à frente, o tom gélido. — É assim que chama à pilhagem?
-Tariq ignorou-a, continuando com serenidade cruel.
- — O Sultão considera que a vossa prosperidade aumentou. Os campos parecem verdes este ano. As forjas não cessam.
- A partir desta lua, o imposto sobre a água e o trigo será duplicado.
-Um murmúrio indignado percorreu os muros.
- As cordas dos arcos estalaram sob a tensão contida.
-Zareen deu outro passo.
- — Isso é extorsão! O último imposto quase nos levou à fome!
-— Eu sei o que me foi ordenado — respondeu Tariq. — O Sultão protege-vos de salteadores e monstros de areia.
- A proteção tem um preço.
-— Estranho — disse Zareen, fria. — Nunca vi soldados do Sultão quando as hienas atacam os nossos comboios.
- Mas eles aparecem, sem falha, quando os nossos celeiros estão cheios.
-O elmo do General virou-se lentamente em sua direção.
- — Cuidado com a língua, mulher. — O som metálico da voz carregava um toque de prazer. — É o bem mais afiado que você tem... e o mais fácil de cortar.
-O silêncio que seguiu era cortante.
- Nash, à sombra de um pilar, já tinha as mãos nas cimitarras.
- Um movimento, e sangue mancharia a areia.
-Malik ergueu a mão, apaziguador.
- — Não vamos repetir os erros do passado, General. Zahir cumpre o seu dever. Mas se tirar mais, arrancará o coração do deserto — e sem ele, até o Sultão morrerá de sede.
-Tariq não respondeu.
- O elmo moveu-se devagar, varrendo o pátio, examinando o povo, as forjas, as defesas.
- Até que parou.
-O olhar do General fixou-se num ponto — nas sombras, perto das forjas.
- Três figuras.
- Roupas rasgadas, pele queimada de sol... e um braço mecânico que refletia a luz como uma lâmina viva.
-Valen sentiu o sangue gelar.
-Tariq levantou uma das mãos, e o pátio inteiro pareceu prender o ar.
- — E quem... — a voz metálica reverberou — são estes?
-
-O silêncio que se seguiu pesava como pedra.
- Até o vento pareceu temer a resposta.
-Zareen deu um passo à frente, e o som da areia sob as botas foi o único ruído no mundo.
- — Ferreiros. — A palavra saiu firme, sem hesitação. — Vieram do sul. Reparam ferramentas, nada mais.
-O elmo de Tariq inclinou-se, como se medisse a mentira.
- Um segundo. Dois.
-Depois, um som baixo — não de riso, mas de desdém.
- — Ferreiros... — repetiu. — O Sultão sempre disse que o deserto tem mais mentirosos do que grãos de areia.
-Ele virou o cavalo.
- — Rezem para que o vento não traga o meu nome de volta a este vale, Zareen.
-O exército começou a recuar, deixando atrás de si apenas o cheiro de ferro quente e tensão.
-Valen manteve os olhos fixos nos dois guerreiros que marchavam entre os Punhos — os dois cuja presença vibrava na sua Marca como um eco distorcido.
-Marcados.
- Escravizados.
-E, talvez, a chave de algo muito maior.
-
-Enquanto o som das ferraduras desaparecia, o Oásis exalou um suspiro coletivo.
- O perigo passara — por agora.
-Zareen olhou para Valen, os olhos cheios de uma fúria silenciosa.
- — O Sultão está a testar os limites. — Ela falou mais para si do que para os outros. — E eu... já decidi o quanto vou deixá-lo empurrar.
-O braço de Valen brilhou sob o sol poente.
- — Então é guerra.
-Zareen não respondeu.
- Mas o fogo das forjas respondeu por ela — com um rugido metálico que ecoou por todo o Oásis.
-#Capítulo 52 – O Preço da Liberdade
-A areia engolia o som das ferraduras.
- A comitiva do Sultão cavalgava em silêncio, sombras alongadas sob a luz moribunda.
-O General Tariq seguia na dianteira — uma estátua de obsidiana viva sobre um garanhão negro.
- Nenhum dos seus homens ousava falar. O deserto pertencia a ele, e o silêncio era a sua língua.
-Ele ergueu a mão enluvada.
- A marcha cessou instantaneamente.
-Tariq virou-se no selim, o elmo movendo-se com precisão mecânica.
- Não olhou para todos os Sete Punhos de Karadesh — apenas para dois deles, na retaguarda.
-— Relatório. — A voz metálica cortou o ar como lâmina.
-Os dois desmontaram em uníssono.
- O primeiro retirou o elmo. Sob ele, um rosto severo, marcado por cicatrizes que irradiavam do olho esquerdo.
- Na sua bochecha, uma Marca cinzenta brilhava como bruma contida — um selo de poder reprimido.
-— Sentimos, General — disse o homem, a voz baixa e rouca. — Três deles. A emanação era fraca, recém-despertada... mas inconfundível.
- Névoa Azul.
-O segundo Marcado manteve o elmo, mas assentiu.
-Tariq permaneceu imóvel por um longo momento.
- O vento assobiava entre as dunas, e o som do metal rangendo parecia o de um animal a despertar.
-— Zareen mente com a mesma naturalidade com que respira — murmurou o General. — “Ferreiros”... — a palavra soou como veneno.
-Virou-se lentamente para o Marcado sem elmo.
- — Ela os esconde. Usa-os. Ou os estuda.
-— Não creio que saiba o que são, General. — O homem manteve o olhar fixo na areia. — A energia era selvagem. Sem controle.
- Se ela soubesse o que tinha nas mãos... eles estariam acorrentados, não entre ferreiros.
-Tariq considerou por um instante.
- — Talvez. — O elmo inclinou-se. — Mas o Sultão deve saber. Hoje.
-Ele ergueu a mão, apontando para a formação.
- — Retornamos a Karadesh. Agora. Deixem tudo o que não for essencial.
-O olhar do General caiu sobre o último cavaleiro, o sétimo.
- — Você, Hakin. Fica. Vá até o posto de cobrança em Tell-Marr.
- Garanta que o novo imposto seja recolhido até à próxima lua.
- Faça deles um exemplo. E mantenha os olhos abertos.
-— Sim, General. — A voz do guerreiro soou abafada dentro do elmo.
-Tariq voltou-se uma última vez para a direção do Oásis, o vento a soprar areia sobre o elmo.
- — Zareen pensa que me enganou. — Um leve som metálico, quase um sorriso. — Deixemo-la acreditar nisso.
- A paciência é uma arma que ela ainda não aprendeu a usar.
-Com um estalar de rédeas, a comitiva dividiu-se.
- Sete cavaleiros partiram em disparada rumo ao norte, erguendo uma nuvem dourada.
- A guerra começara — e só um lado sabia.
-
-De volta ao Oásis de Zahir.
-O pátio estava silencioso. O portão permanecia fechado, o som distante dos cascos já se dissipara.
- Zareen, Valen e o Ancião Malik permaneciam lado a lado diante da muralha.
-— Ele não acreditou. — A voz de Valen quebrou o silêncio.
-— Não — respondeu Zareen, o olhar fixo no horizonte. — Mas recuou. Por quê?
-Valen passou o polegar no metal frio do braço mecânico.
- — Porque a incerteza é uma arma. — Pausa. — Ele não sabe o que somos... nem quantos somos.
- Atacar agora seria arriscar perder o controle. Foi buscar respostas.
-O Ancião Malik respirou fundo. As rugas em seu rosto pareciam mais fundas à luz do crepúsculo.
- — Quando voltar, não será com sete homens, mas com setecentos.
-— E nós estaremos prontos. — A voz de Zareen recuperava o aço.
-Ela virou-se para Valen.
- Toda a sedução e ironia haviam desaparecido — o que restava era pura determinação.
-— A sua mentira salvou-nos tempo, Capitão. — Ela cruzou os braços. — Mas custou-nos a paz. Agora, não há mais escolha.
-— Sempre há uma escolha. — O tom de Valen era calmo, mas carregado.
-Zareen se aproximou.
- — Não para nós. — Os olhos dela queimavam. — O meu povo vive há gerações sob a bota do Sultão.
- A sua chegada apenas acelerou o inevitável. — Pausa. — A questão agora é:
- você luta conosco... ou morre sozinho no deserto quando eles voltarem?
-O silêncio que se seguiu pesava mais que qualquer ameaça.
-Valen ergueu o olhar.
- — Eu luto. — As palavras saíram firmes, sem hesitação. — Mas não sou um dos seus Escorpiões.
- Tenho condições.
-Malik ergueu uma sobrancelha.
- Zareen inclinou levemente a cabeça, interessada.
-— Fale.
-— Primeiro — disse Valen — vocês me ajudam a encontrar a minha tripulação.
- Usem seus batedores, espiões, mercadores... todos os recursos que tiverem.
-— Concedido. — Zareen respondeu sem pensar. — Se estiverem vivos, nós os encontraremos.
-Ele fez uma pausa, o olhar endurecendo sob a luz das tochas.
-— Mas avisem seus homens: se encontrarem um guerreiro com armadura negra de Sulheim e uma máscara dourada, mandem  recuar e me avisem. Ele e os soldados deles são inimigo.
-— Segundo — continuou ele — quando os encontrarmos, e quando esta guerra terminar... vocês me ajudam a chegar a Kalimar.
- Quer seja por terra, quer seja construindo um novo navio.
-O olhar de Malik pousou sobre Zareen. A promessa era pesada.
- Zareen ponderou um instante.
- — Se vencermos o Sultão, controlaremos as rotas de comércio. — Um leve sorriso. — A sua passagem para Kalimar será o nosso primeiro ato como um povo livre. Concedido.
-Valen assentiu.
- — E por fim... — o tom tornou-se mais duro — eu não sou uma arma a ser apontada.
- Luto como aliado, não servo. As decisões estratégicas serão tomadas por nós três. Juntos.
-O pátio ficou mudo.
- Até o vento pareceu conter a respiração.
-Um forasteiro, um náufrago, exigindo um lugar no conselho de guerra.
- Nash e Irbak, que haviam se aproximado, pararam a alguns passos, observando.
-Zareen olhou para Malik. O Ancião nada disse — apenas inclinou a cabeça, lentamente.
-Ela voltou-se para Valen.
- Um sorriso se desenhou em seus lábios. Lento. Perigoso.
- Respeitoso.
-— Bem-vindo ao conselho, Capitão Draxor. — Ela estendeu a mão. — A sua primeira lição começa agora.
- Vamos ver se consegue domar essa Marca... antes que ela o devore.
-
-A noite caiu sobre o Oásis.
- As forjas voltaram a cantar, como corações despertos no escuro.
- E no centro de tudo, o fogo refletido no braço de Valen parecia respirar —
- metade homem, metade lenda.
-
-
-
-
-
-
-
-
-
-#Capítulo 53 - 
-
-
-O som das forjas nunca parava no Oásis de Zahir.
-Com a queda da noite, o calor punitivo do sol deu lugar a um frio cortante, mas o ar ao redor das tendas continuava denso, pesado com o cheiro de fumaça e suor. O bater rítmico dos martelos contra o metal de Azarion ecoava pelos desfiladeiros como o coração de uma fera encurralada.
-Na tenda principal de comando, iluminada por tochas que tremeluziam a cada rajada de vento, um mapa de couro curtido ocupava quase toda a mesa central. Pedras esculpidas marcavam dunas, rotas de caravanas e os postos avançados do Sultão.
-Valen estava debruçado sobre a mesa. O cansaço de dias lutando contra tempestades, névoa e areia cobrava seu preço em cada músculo, mas seus olhos castanhos varriam o mapa com a precisão fria de um predador. O braço direito — o de carne — formigava ocasionalmente, um eco fantasma da luz azul que havia pulsado ali horas antes. Ele o ignorou.
-Zareen estava do outro lado da mesa, os braços cruzados, observando o capitão em silêncio. Malik aguardava nas sombras, apoiado em seu cajado, enquanto Irbak e Nash flanqueavam a entrada, esperando ordens.
-— A tempestade nos cuspiu aqui — Valen apontou um dedo enluvado para a vastidão vazia ao sul do mapa. — Meus batedores calcularam meio dia de caminhada até encontrarmos os seus homens.
-— O Deserto das Lâminas — Zareen murmurou, analisando a região. — É um cemitério de dunas rasas e rochas afiadas. Se a sua tripulação caiu lá e não encontrou abrigo, o sol já fez metade do trabalho do Sultão.
-— Eles são difíceis de matar. — A voz de Valen era seca, cortando a insinuação dela. Ele ergueu o olhar para Nash e Irbak. — Quero que seus rastreadores saibam exatamente o que estão procurando. Se atirarem primeiro, vão morrer.
-Nash cruzou os braços, a expressão fechada. — Diga como eles são, forasteiro.
-— Um homem mais velho. Roupas de navegador, olhar calculista. O nome é Gilbert. Ele não é um combatente de frente, mas não o subestimem.
-Valen moveu uma das pedras no mapa, traçando um raio de busca.
-— Kael. Uma mulher, forjadora. Ela tem uma perna imobilizada, ferimento de batalha antes de cairmos aqui. Mas se ela tiver um martelo nas mãos e vocês a assustarem, ela vai esmagar crânios antes de perguntar quem são.
-Irbak soltou um riso baixo, que morreu assim que Valen o encarou.
-— Brutus — continuou o capitão, o tom ainda mais grave. — Um gigante, cicatrizes pesadas. .
-Valen fez uma pausa. A imagem do mastro quebrado e da lança de balista cruzou sua mente.
-— E Sombra.
-O nome pareceu diminuir a temperatura na tenda.
-— O que tem ela? — Zareen perguntou, estreitando os olhos.
-— Ela está gravemente ferida. Um projétil de cerco a atravessou no convés. — Valen apoiou as duas mãos na borda da mesa, a esquerda de metal negro rangendo levemente sob a pressão. — Mas se a encontrarem, não a toquem. Não a ameacem. Apenas digam o meu nome e recuem. Se o sangue dela cair na areia... não sobrará nada dos seus batedores para me contar onde ela está.
-Zareen avaliou o peso na voz do capitão. Ela acenou devagar para Nash. — Ouviu o homem. Divida os batedores em quatro grupos de busca. Varram os quadrantes sul e oeste a partir do ponto de impacto.
-— E quanto aos outros? — Irbak perguntou, ajeitando a adaga no cinto. — Os de armadura negra.
-A expressão de Valen endureceu de uma forma que fez até Malik dar um passo à frente.
-— Os soldados de Sulheim. — Valen olhou diretamente para Zareen. — Eles não são resgate. São a praga que afundou meu navio. Estão fortemente armados, treinados para matar e não negociam. O líder deles usa uma meia-máscara dourada. Broaken. Se os seus homens virem brasões de serpente e tridente, a ordem é recuar e me avisar imediatamente.
-— Nós não fugimos de soldados no nosso deserto — Nash rosnou, o orgulho ferido.
-— Vão fugir desses — Valen rebateu, sem piscar. — Ou vão morrer tentando ser heróis de areia. A escolha é de vocês.
-Zareen ergueu a mão, silenciando Nash antes que ele pudesse retrucar. — A ordem está dada. Encontrem a tripulação do Capitão Draxor. Evitem os invasores de armadura negra. Vão.
-Nash e Irbak assentiram a contragosto e desapareceram na noite, as cortinas da tenda balançando violentamente com a saída deles.
-O silêncio reinou por alguns segundos, quebrado apenas pelo estalar das tochas. Zareen contornou a mesa, parando a poucos passos de Valen. O olhar dela desceu para o braço direito dele.
-— Você joga as pedras no mapa com facilidade, Capitão. Mas ainda não me disse como pretende cumprir a sua parte do acordo. A sua marca despertou, mas não vi você controlá-la.
-Valen puxou a luva, cobrindo melhor o pulso.
-— Um problema de cada vez, Zareen. Primeiro meu povo. Depois a sua guerra.
-— Em Vaelzar, as duas coisas costumam ser a mesma. — Ela sorriu, um misto de aviso e promessa. — Descanse algumas horas. Quando o sol nascer, o verdadeiro trabalho começa.
-Valen não respondeu. Apenas encarou o mapa de couro, imaginando quem, entre aquelas dunas intermináveis, ainda respirava.
-Meia hora depois, o capitão deixou a tenda de comando.
-
-O ar gelado da madrugada no deserto era um alívio bem-vindo. Valen caminhou até um canto mais isolado do acampamento, perto do calor residual de uma forja apagada. Sentou-se sobre um caixote de madeira escura, escorando a cabeça na parede de pedra bruta. Fechou os olhos, o som do próprio coração batendo nos ouvidos.
-
-Um cantil de couro pesado atingiu seu peito.
-
-Valen abriu os olhos no reflexo, a mão esquerda de metal já tensionada. Nash estava parado a dois passos de distância. O guerreiro usava um manto grosso sobre a armadura, a alabarda repousando casualmente no ombro, o rosto coberto até a altura de seus olhos cínicos.
-
-— Água. Não beba tudo de uma vez, ou vai mijar areia amanhã — disse Nash, a voz arrastada num tom carregado de sarcasmo.
-
-Valen soltou a respiração devagar, pegou o cantil e bebeu. A água tinha gosto de ferro e poeira, mas desceu como salvação.
-
-— Seus homens já partiram? — Valen perguntou, limpando o canto da boca com as costas da mão de carne.
-
-— Irbak já está no desfiladeiro. Eu saio em seguida. — Nash deu um passo à frente. O tom casual sumiu, substituído por uma hostilidade fria. — Sabe por que ainda não cortei a sua garganta enquanto dormia, marinheiro?
-
-Valen sustentou o olhar.
-— Ilumine-me.
-
-Nash soltou um riso seco.
-— Porque ela mandou. E aqui, a palavra dela é o que nos mantém vivos. Não porque ela é simpática ou fala bonito. O sangue que corre nas veias dela, forasteiro, é o mesmo que cavou este Oásis na pedra seca quando os tiranos nos viraram as costas. O sangue de Radun.
-
-Valen não demonstrou surpresa. Apenas girou a tampa do cantil.
-— Linhagem não ganha guerra sozinha.
-
-O maxilar de Nash travou. Ele se curvou levemente, a voz baixando para um rosnado áspero.
-— O escorpião sob a pele dela ainda dorme. Tem dormido desde que ela nasceu. Mas o dia em que o veneno acordar... o dia em que a marca de Shadarin abrir os olhos nela... o Sultão vai engasgar na própria coroa, e não haverá nada em Vaelzar que não curve a cabeça pra ela. Ela é o nosso futuro.
-
-Nash endireitou a postura, os olhos cravados em Valen.
-
-— Eu vou engolir o meu orgulho. Vou entrar naquele deserto maldito e caçar a sua tripulação de desajustados. Mas preste bem atenção na nossa troca, capitão. — Nash apontou um dedo enluvado para o peito de Valen. — Enquanto eu estiver varrendo a areia, você vira a sombra dela. Se a herdeira de Radun tomar um arranhão sequer por sua causa... eu volto e arranco esse seu braço de carne para equilibrar com o de metal.
-
-Valen jogou o cantil de volta. Nash o pegou no ar, sem desviar o olhar.
-
-— Apenas ache o meu povo, Nash — Valen respondeu, a voz tão letal quanto a do guerreiro. — E não se preocupe. Sua líder sabe muito bem como usar as garras que tem.
-
-Nash bufou por trás do pano, dando as costas.
-— É bom mesmo, forasteiro. Durma com um olho aberto.
-
-O guerreiro desapareceu nas sombras do Oásis, deixando Valen sozinho com o som distante do vento batendo nas pedras.
-
-
-#Capítulo 54 – Ecos na Areia
-O sol começava a castigar as dunas de Vaelzar quando um batedor com o rosto coberto por trapos manchados de poeira deslizou para dentro da tenda de Nash, no coração do Oásis de Zahir.
-Nash estava afiando a lâmina de sua cimitarra com movimentos curtos e irritados. Ele ergueu os olhos escuros, esperando o relatório.
-— Falem — ordenou Nash, testando o fio da espada com o polegar.
-— Rastreamos a movimentação das tropas do Sultão ao norte, próximo à Garganta de Areia — disse o batedor, ofegante. — Eles montaram um entreposto temporário. Estão guardando os suprimentos e o Azarion que roubaram da nossa última caravana. Mas tem algo mais, Nash. Tem uma forasteira lá.
-Nash parou de afiar a espada. — Uma forasteira? Prisioneira?
-— Não parecia. Mas definitivamente não é do deserto. Cabelos estranhos, roupas de fora.
-Um sorriso cínico e sem humor repuxou o canto da boca de Nash. Ele guardou a espada na bainha com um estalo seco. — Parece que um dos vira-latas do nosso estimado capitão resolveu aparecer.
-Minutos depois, Nash empurrou a lona da tenda de comando onde Valen estudava um mapa esgarçado ao lado de Mina e Runner. O som do braço metálico do capitão zumbia baixinho enquanto ele traçava rotas com o dedo indicador de carne.
-— Tenho boas e más notícias, Draxor — Nash anunciou, encostando-se na viga de madeira da tenda e cruzando os braços. — A boa é que meus batedores acharam alguém que não sabe se vestir pro deserto. Provavelmente um dos seus. A má é que essa pessoa está no meio de um entreposto do Sultão, cercada de soldados de Karadesh.
-Valen ergueu o rosto. Os olhos castanhos assumiram aquela frieza analítica de quem já estava calculando o risco. — Onde?
-— Garganta de Areia. Meio dia de caminhada se formos rápidos. — Nash desencostou da viga, o tom carregado de sarcasmo. — Eu levo vocês lá. E vou levar três dos meus melhores Escorpiões comigo, porque pelo visto, além de lutar contra o Sultão, eu agora trabalho como babá de marinheiro perdido.
-Mina girou uma de suas adagas entre os dedos, lançando um olhar afiado para o guerreiro do deserto. — Ninguém pediu sua ajuda, Nash. Podemos trazer os nossos de volta sozinhos.
-— No meu deserto? Vocês não duram até o pôr do sol — ele retrucou, já dando as costas. — Preparem seus cantis. Saímos em dez minutos.
-A jornada até a Garganta de Areia foi silenciosa e brutal. O calor deu lugar ao frio cortante da noite de Vaelzar. Escondidos pela escuridão, o grupo avançou pelas cristas de pedra que cercavam o cânion.
-Enquanto se esgueiravam para a posição de observação, Valen parou e segurou o ombro de Nash. O aperto de seu braço de metal era um aviso claro.
-— Preste atenção — Valen sussurrou, a voz dura como chumbo. — Nós vamos entrar, pegar a minha tripulante e sair. O objetivo é o resgate. Nenhuma morte desnecessária. Nenhuma guerra declarada esta noite. Entendido?
-Nash trincou o maxilar, olhando para o vale abaixo. Ele sabia o que havia naquelas tendas. O Azarion. O metal de seu povo. — Eles estão com o nosso minério, Draxor.
-— O objetivo. É o resgate — repetiu Valen, sem ceder um milímetro.
-Nash soltou um suspiro irritado por baixo do lenço que cobria o rosto, mas assentiu a contragosto. — Certo, capitão. Você manda nesta areia... por enquanto.
-Eles rastejaram até a beirada do penhasco. Lá embaixo, o entreposto militar estava iluminado por fogueiras e tochas. Havia dezenas de soldados patrulhando, caixotes empilhados com o selo do Sultão e, no centro de tudo, uma tenda aberta que funcionava como uma forja improvisada.
-Runner puxou uma luneta de latão e espiou. Seu queixo caiu levemente. — Pelos deuses... é a Kael.
-Valen pegou a luneta da mão de Runner.
-Lá estava ela. Kael não estava acorrentada, nem parecia ser torturada. Pelo contrário. Ela estava no centro da forja, suada, batendo um martelo contra uma bigorna. Um soldado do Sultão — o sobrevivente da última emboscada — estava sentado por perto, bebendo vinho e sorrindo como se tivesse domado uma fera rara.
-— Ela mudou de lado? — Nash sussurrou, o ódio vazando na voz. — A sua garota está forjando armas para os cães de Karadesh.
-— Ela não mudou de lado — Valen respondeu, os olhos semicerrados enquanto analisava a cena. — Ela caiu num lugar que não conhece, não tem para onde ir e deram a ela o metal mais fascinante do continente para brincar. Ela está fazendo o que sabe fazer para sobreviver.
-Mas não foi a lealdade de Kael que silenciou o grupo no segundo seguinte. Foi o que ela estava fazendo com o metal.
-Mina arregalou os olhos, apontando para baixo. — Capitão... o que é aquilo no ar?
-Valen ajustou o foco da luneta. A respiração dele falhou por uma fração de segundo.
-A marca de Kael, antes adormecida, agora pulsava com uma luz intensa por baixo de suas roupas sujas de fuligem. Ela não estava apenas batendo no metal. Pedaços brutos de Azarion — o metal vivo de Vaelzar — estavam literalmente flutuando ao redor dela, orbitando seu corpo como satélites escuros. Ela movia a mão livre e os fragmentos de metal seguiam seus dedos no ar, sibilando e mudando de forma antes mesmo de tocarem a bigorna.
-Runner engoliu em seco ao lado de Valen. — Desde quando a nossa ferreira faz metal voar?
-
-
-#Capítulo 55 – A Canção do Azarion
-Valen abaixou a luneta de latão lentamente. O zumbido das runas em seu braço mecânico parecia acompanhar o compasso acelerado de seu coração.
-Era Kael. A ferreira estava viva.
-Por um único e doloroso segundo, enquanto ajustava o foco da lente, Valen havia prendido a respiração, torcendo contra todas as probabilidades lógicas para que fosse Sombra lá embaixo. A imagem do arpão da balista atravessando a companheira antes da Névoa engoli-los ainda assombrava suas noites. Mas ver os cabelos sujos de fuligem e o sorriso maníaco de Kael trouxe um alívio imenso. A tripulação da Coruja Eclipse estava se juntando novamente.
-— Qual é o plano, Draxor? — sussurrou Nash, impaciente, apertando o cabo da cimitarra. — Matamos os guardas e pegamos o metal?
-— Não. Vamos fazer isso limpo — Valen respondeu, virando-se para o grupo com a autoridade fria de sempre. — Runner, preciso que você cause o caos no lado leste do acampamento. Fogo nas tendas de tecido, barulho, o que for. Faça o Comandante e os guardas correrem para lá.
-Runner abriu um sorriso largo, girando uma de suas adagas. — Fogo e confusão? Deixa comigo, capitão.
-— Nash — Valen cravou os olhos no guerreiro do deserto —, você e seus Escorpiões ficam na retaguarda. Nas sombras. Se o plano der errado e precisarmos abrir caminho na força bruta, vocês entram. Até lá, invisíveis.
-Nash cruzou os braços, bufando por baixo do lenço. — Se vocês morrerem lá embaixo por tentarem ser educados, eu juro que desço e levo o Azarion de volta por cima dos seus cadáveres.
-Valen ignorou a provocação com um aceno de cabeça. Ele e Mina deslizaram pela encosta rochosa em direção à forja, camuflados pela escuridão da noite de Vaelzar.
-Não demorou muito. Cinco minutos depois, um clarão iluminou o lado leste do entreposto, seguido por um estrondo abafado e gritos de guardas.
-— Invasores nas tendas de suprimento! — berrou um soldado.
-O guerreiro Hakin, que bebia vinho perto da forja, levantou-se num salto, sacando a espada e correndo em direção ao incêndio com a maior parte da guarnição, deixando a área central quase deserta.
-Era a deixa deles.
-Valen e Mina emergiram das sombras da tenda principal, pisando em silêncio absoluto. Kael estava de costas para eles. A marca em seus braços brilhava em um tom incandescente sob a pele, e três fragmentos brutos de Azarion orbitavam ao redor dela, flutuando como pedras em gravidade zero.
-Mina engatilhou a adaga, pronta para derrubar o único guarda restante na porta da tenda, mas Valen foi mais rápido. Com um movimento fluido, seu braço mecânico apagou o homem com um golpe na nuca.
-O baque surdo do corpo caindo na areia fez Kael se virar de solavanco. Os pedaços de metal flutuante giraram no ar, assumindo o formato de lâminas pontiagudas, apontadas diretamente para os intrusos.
-Mas então, os olhos da ferreira se arregalaram. As lâminas de Azarion pararam no ar.
-— Capitão...? Mina?! — Kael sussurrou, a voz falhando, misturando incredulidade e alegria pura.
-— É bom ver você inteira, Kael — Valen disse, um sorriso raro escapando pelo canto da boca.
-Kael perdeu a concentração. Os pedaços de Azarion despencaram no chão com um baque pesado. Ela correu e deu um abraço apertado em Mina, que tentou manter a pose fria, mas acabou retribuindo com tapinhas desajeitados nas costas da amiga, antes de abraçar Valen.
-— Pelos deuses, eu achei que estava todo mundo morto! — Kael disparou a falar, limpando a fuligem do rosto, ofegante. — O navio, a tempestade... eu caí nessa areia desgraçada no meio do nada. Caminhei por horas achando que ia secar sob aquele sol. Quando esses soldados do Sultão me acharam, achei que fosse meu fim. Mas aí... eu vi isso.
-Ela apontou freneticamente para as caixas do Oásis de Zahir e para a bigorna. Seus olhos brilhavam com a obsessão de uma criança numa loja de doces.
-— Vocês não têm ideia! Esse metal, o Azarion... ele não é só resistente. Ele escuta. Ele sente, capitão! — Kael agarrou um pedaço frio do chão, e instantaneamente a marca em seu braço voltou a brilhar. O metal começou a levitar suavemente na palma da mão dela. — Quando eu toquei nisso pela primeira vez, minha marca despertou de vez. Eu sinto a ressonância do metal. Eu consigo dobrar, moldar e levitar só com a vontade. É absurdo! Eu ofereci meus serviços aos soldados só para ter acesso a isso. Eu precisava sobreviver, claro, mas... olha pra essa maravilha!
-Mina cruzou os braços, arqueando a sobrancelha. — Então você virou a fornecedora de armas do inimigo só porque achou uma pedra de estimação legal?
-— É ciência aplicada, Mina! — Kael retrucou, ofendida. — E eu estava ganhando tempo! Eu sabia que se fizesse um bom trabalho, não me matariam. E eu estava certa, vocês me acharam!
-Valen olhou para o topo do desfiladeiro. Ele sabia que Nash e os Escorpiões estavam observando cada movimento.
-— Tempo esgotado, Kael — Valen disse, o tom voltando a ser profissional e urgente. — O acampamento inteiro vai voltar para cá assim que perceberem que o incêndio foi só uma distração do Runner. Larga o metal. Nós vamos embora. Agora.
-Kael olhou para o Azarion em sua mão, depois para os caixotes cheios. Uma hesitação perigosa cruzou seu rosto. — Deixar? Capitão, isso aqui vale mais que ouro. Eu com esse metal no navio... nós seríamos invencíveis.
-No alto das dunas, escondido na escuridão, Nash observava a cena com os dentes trincados. Ele viu Kael hesitar. Viu as caixas de Azarion intactas. E a fúria do guerreiro do deserto começou a ferver. Aquele metal pertencia ao Oásis de Zahir.
-— Eles estão demorando muito — murmurou Nash para os três guerreiros ao seu lado, sacando a cimitarra de vez.
-
-#Capítulo 56 – Ondas de Choque e Feras de Areia
-
-A hesitação de Kael durou apenas um segundo, mas no deserto, um segundo é o suficiente para o caos assumir o controle.
-
-A fúria é um incêndio que não se apaga com sussurros. E, no alto da duna, Nash já estava queimando.
-Ele olhou para as caixas de Azarion. Olhou para a forasteira segurando o metal vivo como se fosse um brinquedo novo. Os dentes do guerreiro rangeram sob o lenço escuro. Aquele minério era o sangue do Oásis de Zahir, forjado com o suor dos Escorpiões, e vê-lo profanado sob as tendas do Sultão foi a faísca que faltava.
-— Esqueçam a furtividade — rosnou Nash para os três Escorpiões de elite ao seu lado.
-Ele sacou suas duas cimitarras. As lâminas, forjadas no mais puro Azarion negro, não fizeram o som metálico comum ao sair da bainha. Elas sussurraram. Era um chiado baixo, orgânico.
-Nash fechou os olhos por um milésimo de segundo e apertou os cabos. — Acordem — ele murmurou para as espadas. — Hora de comer carne de Vaelzar.
-Como se respondessem ao chamado, o metal negro pulsou.
-Nash não desceu a duna; ele despencou como uma avalanche de sombras. Antes que Valen pudesse erguer a mão para impedi-lo, o guerreiro do deserto aterrissou no centro do acampamento com o impacto de um meteoro. A areia subiu em uma nuvem densa e, no segundo seguinte, o grito estridente de um guarda cortou a noite, seguido pelo som inconfundível do berrante de alarme.
-PRRROOOOOOOOOOM!
-— Maldição, Nash! — Valen praguejou, saindo das sombras da tenda principal com o braço mecânico já zumbindo e as runas brilhando em azul.
-Mina sacou as adagas, os olhos brilhando com a adrenalina pura. — Ah, capitão, admite que assim é bem mais divertido!
-Kael, ainda com a peça bruta de Azarion flutuando sobre a mão, deu um passo para trás, fascinada com a cena que se desdobrava à sua frente.
-Cinco soldados da infantaria pesada do Sultão, atraídos pelo estrondo, cercaram Nash. Eles empunhavam lanças longas e escudos largos de bronze.
-Nash não recuou. Ele sorriu.
-— Venham, cães! — ele gritou.
-O primeiro soldado avançou com uma estocada direta ao peito. Nash não bloqueou. Ele girou o corpo, e a lâmina em sua mão direita pareceu derreter. O Azarion esticou-se, afinando em uma fração de segundo até se tornar tão fino e flexível quanto um chicote de aço. A arma contornou o escudo do soldado e cortou sua garganta antes mesmo que ele percebesse o movimento.
-— Isso, dancem comigo. Mais espesso agora! — Nash sussurrou para o metal.
-O chicote recolheu-se, engrossando violentamente enquanto Nash girava para bloquear o golpe de machado do segundo e do terceiro soldado ao mesmo tempo. A cimitarra esquerda de Nash se alargou, transformando-se em um escudo improvisado que absorveu o impacto com um estrondo.
-Os guardas arregalaram os olhos. Ninguém, nem mesmo os melhores ferreiros de Karadesh, moldava o metal daquela forma durante o combate. Era como se as lâminas fossem um simbionte, lendo os pensamentos de Nash, esticando, afinando e esmagando de acordo com a pulsação de seu sangue.
-Com um giro rápido, Nash transformou a defesa em ataque. A lâmina que agia como escudo se dividiu em duas pontas afiadas como presas de aranha, perfurando a armadura dos dois soldados simultaneamente. Ele puxou as armas de volta, o metal sibilando ao retornar ao formato de cimitarras perfeitas, e decapitou o quarto homem com um movimento em X.
-O quinto soldado, tremendo, tentou fugir.
-— Alonga. — ordenou Nash, frio.
-A espada direita disparou para frente, a lâmina se estendendo por três metros como uma lança viva, cravando-se nas costas do fugitivo e prendendo-o ao chão. Cinco mortos. Nem um arranhão em Nash.
-Logo atrás dele, os três Escorpiões de elite aterrissaram. Eles não tinham a simbiose de Nash com o Azarion, mas eram máquinas de matar. O primeiro escorpião deslizou sob o golpe de um guarda e cortou seus tendões, finalizando-o no chão. O segundo quebrou o pescoço de um arqueiro com uma joelhada brutal. O terceiro cravou uma adaga incandescente direto na viseira de um lanceiro. Três segundos, três mortos.
-Da porta da tenda da forja, Valen observava tudo com olhos clínicos. Seu cérebro tático processava a carnificina.
-Disciplina absurda. Letalidade impecável. O domínio dele sobre aquele metal desafia a física, pensou o capitão, apertando o punho mecânico. Eu achei que eram apenas rebeldes furiosos, mas Zahir tem um exército de monstros escondido na areia.
-— Capitão! — Kael chamou, os olhos vidrados em Nash. — Você viu o que ele fez com a estrutura molecular daquela lâmina?! Eu preciso conversar com ele!
-— Primeiro a gente sobrevive, Kael — retrucou Mina, lambendo os lábios enquanto olhava para a escuridão do acampamento. — E acho que a conversa vai ter que esperar.
-O fogo que Runner havia começado do lado leste iluminou a fumaça, revelando o que vinha na direção deles. O chão começou a tremer. Não era o tremor de cavalos ou de dezenas de passos desconexos. Era o compasso pesado e rítmico de chumbo batendo na pedra.
-Dez soldados da Vanguarda do Sultão emergiram das sombras, armaduras negras e escudos intertravados formando uma parede de ferro. Mas eles não atacaram. Em vez disso, abriram formação, dividindo-se ao meio.
-O silêncio engoliu o som das chamas quando a figura colossal pisou na luz.
-Ele usava uma armadura de obsidiana pontiaguda e um elmo que cobria todo o rosto, deixando apenas frestas para olhos que brilhavam com fúria. Em suas mãos, o ar parecia distorcer pelo simples peso da arma que carregava: o Malho do Opressor, uma cabeça de aço gigantesca capaz de quebrar fortalezas.
-Nash recolheu suas lâminas, o sorriso desaparecendo. Valen travou as engrenagens de seu braço esquerdo, sentindo o ar pesar.
-Hakin, o Terceiro Punho de Karadesh, havia chegado. E ele não parecia interessado em fazer prisioneiros.
-#Capítulo 57 – O Peso do Martelo e a Visão do Futuro
-O silêncio que se abateu sobre o acampamento era mais pesado que o próprio ar do deserto.
-As chamas das tendas incendiadas por Runner estalavam ao fundo, lançando uma luz trêmula e alaranjada sobre as armaduras de obsidiana dos dez soldados da Vanguarda. Eles não se moviam. Formavam uma parede de ferro e morte. E no centro deles, a figura colossal de Hakin parecia absorver a própria luz com o seu Malho do Opressor descansando contra o ombro.
-O sorriso sínico de Nash desapareceu. Ele não recuou, mas os nós dos seus dedos embranqueceram ao redor dos cabos de Azarion. Ao seu lado, Mina girou uma adaga entre os dedos, um sorriso nervoso repuxando o canto da boca enquanto a sua respiração acelerava. Kael, com a fuligem ainda no rosto, deu um passo incerto para trás, os olhos arregalados, fascinada e aterrorizada com o tamanho da arma do gigante.
-Valen Draxor não demonstrou medo. Os seus olhos castanhos varreram a formação inimiga em frações de segundo, calculando ângulos, saídas e a força esmagadora que tinham pela frente. O zumbido do seu braço mecânico pareceu ficar mais alto na quietude da noite.
-— Ajoelhem-se na areia — a voz de Hakin reverberou por trás do elmo, gutural e absoluta. — Entreguem a ferreira e o metal, e talvez eu permita que o sol de Vaelzar seque o vosso sangue antes de vos decapitar.
-Nash cuspiu no chão, erguendo o queixo. — Sujar os meus joelhos por um cão de coleira do Sultão? — o guerreiro do deserto soltou uma risada seca e sem humor. — Acho que vou passar, grandalhão. O único sangue que vai secar aqui hoje é o teu.
-Hakin não se alterou. Ele apenas apertou o cabo do martelo com as duas mãos. — Que a areia vos engula. Esmaguem-nos. Poupem apenas a garota.
-Quando a Vanguarda bateu em uníssono nos escudos e avançou, Valen deu a ordem.
-— Mina, Runner e Escorpiões! Segurem a Vanguarda, não deixem que nos flanqueiem! — gritou o capitão da Coruja Eclipse, os olhos fixos na ameaça maior. — Nash! O gigante é nosso.
-O caos irrompeu.
-Os dez soldados de armadura negra dividiram-se, avançando como uma avalanche. Dois deles miraram diretamente Kael, ignorando as ordens de capturá-la com cuidado. Quando o primeiro lanceiro cruzou a marca invisível de cinco metros de distância da ferreira, Kael ergueu as mãos.
-Ela não precisou tocar nele. A ponta de ferro da lança do soldado entortou-se violentamente para trás, rasgando a madeira da haste. O homem tropeçou, confuso, e antes que o seu parceiro pudesse sacar a espada para intervir, Kael cerrou os punhos. As lâminas e adagas dos dois soldados foram arrancadas violentamente das bainhas, orbitando Kael no ar como um redemoinho metálico e mortal. Ela estava no centro do seu próprio furacão de ferro.
-Mas a verdadeira fúria explodia no centro do acampamento.
-Nash deslizou pela areia, as suas espadas de Azarion sibilando enquanto se alongavam em chicotes negros e afiados. Ele atacou em ziguezague, tentando envolver as pernas e o pescoço de Hakin.
-O gigante não tentou desviar. Ele ergueu o Malho e desceu-o contra a areia com toda a força.
-WUUUUUUMMMM!
-Um zumbido arcano, grave e nauseante, rasgou os ouvidos de todos. O ar ao redor de Hakin pareceu dobrar-se, distorcido por uma onda de choque invisível. Quando a força colidiu com os chicotes de Azarion, a ligação de Nash com o metal vivo estilhaçou-se por um segundo. A ressonância quebrou. As lâminas foram repelidas bruscamente, engrossando e voltando ao estado rígido enquanto Nash era arremessado três metros para trás, rolando violentamente pelo chão.
-Ofegante e com a visão turva, o guerreiro do deserto tentou erguer-se, mas o chão tremeu novamente. Hakin já estava sobre ele. O gigante ergueu o Malho bem acima da cabeça, a arma pulsando com a energia escura e zumbidora, pronta para esmagar o peito de Nash.
-Na periferia da luta, Valen esmagava o elmo de um soldado da Vanguarda quando o mundo perdeu as cores.
-A sua Marca ativou-se num clarão frio e interno. O tempo esticou-se. Fantasmas translúcidos sobrepuseram-se à realidade, mostrando a Valen o que aconteceria nos próximos dois segundos. Ele viu a trajetória perfeita do martelo. Viu o peito de Nash a afundar. Viu a morte inevitável.
-Valen largou o soldado que segurava e disparou.
-Ele não pensou na própria segurança. Cruzou a distância num lampejo, deslizando de joelhos sob a sombra gigante de Hakin. No exato milésimo de segundo em que o martelo desceu para aniquilar Nash, Valen ergueu o braço esquerdo.
-CLANG!
-O impacto do Malho contra o braço mecânico de Valen gerou uma onda de choque que varreu a poeira do chão. As runas no braço de Valen brilharam num azul crítico, faíscas choveram, e os seus dentes rangeram enquanto ele suportava a força de um monstro.
-— Levanta-te, Nash! — rosnou Valen, os músculos do pescoço tensos enquanto empurrava o martelo milímetros para trás.
-Hakin arregalou os olhos. A surpresa fê-lo aliviar a pressão por um instante, abrindo a guarda.
-Foi tudo o que Nash precisou. Rodopiando do chão, ele não usou chicotes ou escudos. Projetou uma única e fina agulha de Azarion direto à fresta lateral do elmo do gigante.
-A lâmina perfurou o metal e rasgou o rosto de Hakin. Sangue espirrou quente na areia.
-O Terceiro Punho urrou, cambaleando para trás. Ele levou a mão livre ao rosto, sentindo o corte profundo. Quando olhou em volta, a realidade atingiu-o: Kael havia desarmado os seus homens na retaguarda, a linha de defesa da Vanguarda estava a ceder sob as lâminas de Mina, e, à sua frente, o homem do braço de metal e o mestre do Azarion preparavam-se para um segundo ataque combinado.
-A fúria de Hakin ferveu, mas ele não era um tolo suicida.
-Ele recuou um passo, ergueu o Malho e, desta vez, atingiu o solo não para ferir, mas para levantar uma densa e impenetrável nuvem de areia e magia distorcida.
-— Retirada! — a voz de Hakin soou engasgada com o próprio sangue. — Vanguarda, recuem para a Garganta!
-Os soldados negros, desorientados e alguns desarmados, não hesitaram. Engolidos pela tempestade de areia levantada pelo seu líder, desapareceram nas sombras do desfiladeiro.
-Quando a poeira finalmente assentou, Valen baixou o braço, o zumbido mecânico arrefecendo. Nash, limpando o sangue do queixo, olhou para as caixas de Azarion intactas e, depois, para Valen. A tensão ainda pairava no ar, mas a vitória, por agora, era deles.
-
-
-#Capítulo 58 – O Preço da Areia e o Frio das Lâminas
-A tempestade de areia e magia distorcida demorou longos minutos para se dissipar. Quando a poeira finalmente baixou, a Garganta de Areia estava mergulhada em um silêncio quebrado apenas pelo estalar das tendas que ainda queimavam. A Vanguarda de Karadesh havia desaparecido nas sombras do desfiladeiro.
-Valen Draxor abaixou o braço esquerdo. O zumbido das runas esfriou até virar um murmúrio metálico, e a luz azul se apagou. Ele soltou uma respiração pesada, sentindo o desgaste muscular no ombro de carne e osso.
-Nash não perdeu um único segundo olhando para o horizonte. Com um movimento brusco, recolheu suas cimitarras de Azarion e caminhou a passos largos na direção dos caixotes selados. Seu rosto, ainda manchado com o próprio sangue, assumiu uma expressão de pura obsessão ao arrancar a tampa de madeira da primeira caixa. Lá dentro, blocos perfeitos do metal vivo repousavam no escuro.
-Kael já estava ao lado dele, praticamente babando. A ferreira tinha os olhos arregalados, as mãos sujas de fuligem pairando sobre o minério.
-— É tão puro — sussurrou Kael, a voz tremendo de excitação. — A ressonância dessas peças... Se eu tiver uma forja decente, consigo dobrar a densidade desse metal sem perder a leveza.
-— Você não vai tocar nisso sem a minha permissão, forasteira — rosnou Nash, fechando a caixa com um baque surdo. — Isso é o sangue de Zahir.
-Antes que Kael pudesse protestar, uma mão firme de carne agarrou o ombro de Nash e o puxou para trás.
-Valen encarou o guerreiro do deserto. Os olhos castanhos do capitão da Coruja Eclipse não demonstravam alívio pela vitória, apenas uma frieza cortante e autoritária.
-— Você desobedeceu a uma ordem direta — a voz de Valen era baixa, mas carregava o peso de uma âncora. — O objetivo era um resgate furtivo. A sua impulsividade quase custou a vida da minha tripulante, a sua própria vida, e revelou a nossa posição para um dos comandantes mais letais deste continente.
-Nash se soltou do aperto com um puxão violento. — Eu recuperei o que é nosso! Você não entende, Draxor. Vocês vêm do mar, vêm das suas tavernas com cheiro de peixe. Esse metal é a única vantagem que o meu povo tem contra os cachorros do Sultão!
-— O que eu entendo — retrucou Valen, dando um passo à frente, invadindo o espaço de Nash —, é que você não faz ideia do que acabou de instigar. Karadesh não é um bando de mercenários de esquina. O poderio militar do Sultão é absoluto. Aquele gigante que quase esmagou o seu crânio era apenas um de sete comandantes. Você acabou de chutar um ninho de vespas.
-A menção do Sultão fez os olhos de Nash escurecerem. A fúria transbordou, crua e descontrolada.
-— Não me venha falar do Sultão como se ele fosse uma lenda intocável! — gritou Nash, apontando o dedo no peito de Valen. — Ele é um tirano que escraviza os Marcados! Ele arranca o nosso metal das entranhas do deserto e usa para cortar nossas gargantas. Nós vivemos escondidos na areia enquanto ele bebe vinho em taças de ouro! Se a guerra começou hoje, que seja! O Oásis de Zahir não se ajoelha mais.
-A tensão entre os dois homens era palpável, como se o ar estivesse prestes a pegar fogo. Kael recuou devagar, se escondendo atrás de Runner.
-Foi Mina quem quebrou o gelo. A assassina caminhou tranquilamente entre os dois, limpando o sangue de uma de suas adagas na túnica de um soldado morto antes de guardá-la na bainha presa à coxa.
-Nash acompanhou o movimento dela. A fúria em seus olhos se dissipou tão rápido quanto surgiu, substituída por um sorriso presunçoso e carregado de charme barato.
-— Sabe, garota das sombras — disse Nash, se encostando em uma das caixas de Azarion e cruzando os braços —, você tem um jeito letal de se mover. Gostei disso. Se a gente sobreviver a essa marcha de volta, que tal dividirmos um cantil de vinho na minha tenda?
-Mina parou. Ela virou o rosto para ele, os olhos frios e desprovidos de qualquer emoção varrendo Nash de cima a baixo.
-— Você tem mais chances de beijar o martelo daquele gigante do que a mim — respondeu Mina, a voz afiada como vidro quebrado. — Fica a dois metros de distância ou eu arranco a sua língua e uso pra limpar as minhas lâminas.
-Nash piscou, pego de surpresa pela frieza da rejeição.
-Runner, que observava a cena de perto, soltou uma gargalhada alta, incapaz de se conter. — Pelos deuses! — o garoto riu, enxugando uma lágrima imaginária. — Acho que o fora da Mina doeu mais do que a surra que você levou do Hakin, Nash.
-O guerreiro do deserto bufou, ajeitando o lenço sobre o rosto, claramente com o ego ferido. — Ela tá se fazendo de difícil. É o charme do deserto, vocês não entendem.
-Valen balançou a cabeça, exausto, mas secretamente aliviado por ver a dinâmica caótica, mas funcional, da sua equipe voltar ao normal. Ele se virou para os Escorpiões que tinham sobrevivido à batalha.
-— Amarrem as caixas aos camelos. Peguem todas as armas que conseguirem carregar — ordenou Valen, o tom de capitão de volta ao lugar. Ele olhou para Kael, esboçando um leve sorriso. — Bem-vinda de volta à tripulação, ferreira.
-Kael sorriu de orelha a orelha. — É bom estar de volta, Capitão. Especialmente com os bolsos cheios de metal mágico.
-Minutos depois, sob o céu estrelado e gelado de Vaelzar, o grupo deixou a Garganta de Areia em chamas para trás. Marchavam em direção ao Oásis de Zahir, carregando o minério mais valioso do continente.
-
-#Capítulo 59 – O Anel Dourado e as Feras na Corrente
-O sol do meio-dia castigava as cúpulas de ouro do palácio de Karadesh quando a figura colossal arrastou as botas pelos degraus de mármore branco.
-Hakin estava irreconhecível. A armadura de obsidiana, antes polida e imponente, estava amassada no peito e suja de areia. Um corte profundo e feio rasgava o lado do seu rosto, o sangue seco grudando no metal de seu elmo amassado, que ele carregava debaixo do braço. Em sua mão direita, o Malho do Opressor parecia pesar o triplo do normal.
-Ao chegar aos portões monumentais do salão principal, duas lanças se cruzaram à sua frente. Os guardas reais, vestidos com sedas vermelhas e cotas de malha, bloquearam a passagem, sem reconhecer o gigante ferido.
-— Alto lá! Ninguém entra no salão do Sultão com armas em punho, muito menos nesse estado — avisou o guarda da direita, a voz firme, embora seus olhos demonstrassem incerteza diante do tamanho do homem.
-Hakin ergueu o rosto, os olhos injetados de dor e humilhação cravando-se no soldado. — Eu sou Hakin. O Terceiro Punho de Karadesh. E se você não tirar essa lança do meu caminho, eu vou usá-la para palitar os dentes.
-O sangue sumiu do rosto dos guardas. As lanças foram recolhidas em um movimento trêmulo, e as pesadas portas de madeira entalhada foram abertas imediatamente.
-O interior do salão principal era um insulto à miséria do deserto. Pilares de mármore sustentavam um teto adornado com tapeçarias milenares, e o cheiro de incenso caro disfarçava qualquer odor de areia.
-No centro de tudo, sentado no trono elevado, estava o Sultão. Ele não disse uma palavra quando Hakin entrou. O único som que ecoava no salão gigantesco era o clique-clique metálico do Sultão girando lentamente um anel dourado e maciço em seu dedo indicador.
-Aos pés do trono, o General Tariq permanecia de braços cruzados, a armadura negra absorvendo a pouca luz que entrava. Ao longo do tapete central, os outros seis Punhos de Karadesh estavam alinhados. A elite absoluta do exército.
-Hakin caminhou até o centro da sala e ajoelhou-se. O joelho de obsidiana bateu no mármore com um estrondo seco. O giro do anel do Sultão parou.
-— O posto caiu — a voz de Hakin era áspera. — O Azarion foi levado.
-O silêncio que se seguiu foi quase sufocante.
-— Você tinha a Vanguarda. Tinha a vantagem do terreno — o General Tariq foi o primeiro a falar, a voz carregada de nojo. — Você foi avisado de que aqueles rebeldes não eram escória comum. E ainda assim, você volta rastejando?
-— O senhor estava certo, General. O perigo é maior do que pensávamos — Hakin retrucou, erguendo o rosto sangrento. — Eles não são apenas beduínos com espadas enferrujadas. Eles têm Marcados. Um forasteiro que carrega um braço de metal que quebra aço como gravetos, e uma garota capaz de arrancar nossas lâminas das mãos apenas com o pensamento. Fomos esmagados.
-— Covarde — sibilou Tariq, dando um passo à frente. — Se era para fracassar, que a areia fosse o seu túmulo. Um Punho de Karadesh não volta vivo depois de uma humilhação dessas.
-Ao lado do General, a linha dos outros guerreiros se agitou.
-Kaelen, o Primeiro Punho, cujos braços brilhavam com a fina rede de cicatrizes de sua própria Marca, deu um passo à frente, estreitando os olhos. — Você sujou nosso nome, Hakin. Nós somos o terror de Vaelzar, e você permitiu que ratos roubassem nosso metal e cortassem o seu rosto.
-Lyra, o Segundo Punho, de postura esguia e sorriso cruel, concordou, cruzando os braços. — Ele nos faz parecer fracos diante do povo. O Terceiro Punho não pode mais se sentar à nossa mesa. Exílio é o mínimo que o nome dos Sete exige.
-Tariq ergueu a mão, silenciando os subordinados, mas manteve o olhar assassino sobre o gigante ajoelhado. — Eles têm razão. Você recebeu do próprio Sultão uma das armas lendárias de Olira. Carrega o legado mágico e a força bruta de Vaelzar nas mãos... e ousa voltar de mãos vazias? — o General puxou a espada da bainha uns centímetros, o som do aço ecoando. — O exílio é uma misericórdia que você não merece.
-Hakin cerrou os dentes, esperando o veredito do Sultão, que continuava a olhar para ele com uma indiferença gélida.
-Mas antes que o monarca pudesse proferir a sentença, passos polidos e calmos ecoaram pelo salão, vindos das sombras de uma das colunas.
-Gilbert ajustou os óculos finos no rosto, caminhando com a tranquilidade de quem passeia por um jardim, e não por um tribunal de execução. O conselheiro parou entre Hakin e o General, com as mãos cruzadas às costas.
-— A emoção é inimiga da estratégia, General Tariq — disse Gilbert, a voz limpa e desprovida de qualquer alteração. — Reduzir a nossa força de elite porque o orgulho foi arranhado não é a atitude mais inteligente. Agora, mais do que nunca, precisamos dos Sete Punhos unidos. O inimigo provou ser letal. Separar nossas melhores peças do tabuleiro seria suicídio matemático.
-Kaelen bufou. — O que um forasteiro engravatado sabe sobre honra e sangue?
-— Sei que sangue derramado à toa não vence guerras — retrucou Gilbert, voltando o olhar para o Sultão. — Hakin viveu para trazer a informação de que a Coruja Eclipse e o Oásis estão fundindo forças. Eles estão confiantes. E é por isso que não devemos usar o exército nem os Sete Punhos agora.
-Gilbert deu as costas para o gigante ferido e olhou diretamente para o soberano. — Majestade... está na hora de soltar os cães.
-O General Tariq travou o maxilar. O sorriso sádico de Lyra desapareceu instantaneamente. Até mesmo Hakin, ajoelhado e sangrando, arregalou os olhos levemente. O clima no salão caiu vertiginosamente, substituído por um terror puro e silencioso.
-Eles sabiam o que aquilo significava.
-Muito longe do centro iluminado do salão, escondidos atrás das pesadas cortinas de veludo nas galerias superiores, dois jovens empregados do castelo que carregavam jarras de vinho congelaram.
-A bandeja nas mãos do garoto mais novo tremeu, fazendo as taças de cristal tilintarem baixinho. Ele olhou para a mulher ao seu lado, o rosto pálido como cera.
-— Os Lycans... — o garoto sussurrou, a voz embargada de pavor, as lágrimas já se formando nos olhos. — Pelos deuses, eles vão soltar os monstros... o deserto inteiro vai sangrar.
-
-
-Longe dali, em uma das varandas isoladas do palácio que dava vista para a escuridão do deserto, Gilbert observava as estrelas. O vento frio da noite balançava suas vestes de seda. A porta atrás dele se abriu quase sem emitir som.
-Zara, a Quarta Punho, emergiu das sombras. Sua presença era tão silenciosa e letal quanto o próprio frio de Vaelzar.
-— Você me chamou, Conselheiro? — a voz dela era controlada, quase um sopro.
-Gilbert não se virou. Ele apenas ergueu a mão esquerda, revelando um envelope de pergaminho grosso, lacrado com cera negra.
-— Preciso que você viaje para Olira antes do amanhecer — instruiu Gilbert, entregando a carta sem olhar diretamente para ela. — Entregue isso aos nossos contatos na capital. Em mãos.
-Zara pegou o envelope, arqueando uma sobrancelha perfeitamente desenhada. — As bestas não serão suficientes para lidar com os rebeldes?
-— A matemática da guerra não admite apostas únicas, Zara — Gilbert finalmente virou o rosto. Ele ajeitou os óculos, a luz das tochas refletindo no vidro e escondendo seus olhos calculistas. — Considere isso o nosso plano B. Já tentei matar esse homem uma vez e falhei. Não vou falhar novamente.
-
-
-
-
-
-
-
-
-
-
-
-
+O chão sob as botas de Valen tremeu de leve, uma vibração rítmica que fez Gilbert recuar um passo e Runner procurar instintivamente uma rota de fuga.
+E então, Brutus apareceu.
+A figura que emergiu de trás de uma pilha de entulho mineral desafiava as proporções normais. O homem tinha dois metros e doze de altura, os músculos densos como as próprias pedras que ele minerava. Usava um moicano escuro e trançado, e o seu peitoral nu estava coberto por tatuagens que formavam labirintos geométricos. Vestia calças largas e gastas, e nas costas carregava um machado de duas lâminas que parecia pesado o suficiente para partir um mastro ao meio. No ombro direito, no entanto, ele equilibrava um bloco de granito bruto do tamanho de uma pessoa adulta, segurando-o com a mesma casualidade de quem carrega uma cesta de frutas maduras.
+O gigante parou. Os seus olhos castanhos, grandes e surpreendentemente expressivos, varreram o grupo até encontrarem a ruiva. O rosto duro iluminou-se.
+— Mina! — rugiu Brutus, a voz grossa a ecoar pela pedreira enquanto abria um sorriso largo e honesto. Ele atirou a rocha colossal para o lado, fazendo o chão tremer com o baque, e caminhou na direção dela. — Você voltou!
+Mina relaxou os ombros, algo raro de se ver. Ela não sorriu abertamente, mas os seus olhos verdes suavizaram.
+Runner, que estava escondido atrás de Gilbert, espiou o gigante e depois olhou para a assassina. O sorriso do garoto rasgou o rosto.
+— Pelos deuses, ruiva. Você não me avisou que o seu namorado tinha o tamanho de uma montanha — sussurrou o ladrão, alto o suficiente para que todos ouvissem. — Que mau gosto para esconder relacionamentos.
+Mina girou nos calcanhares, a mão já fechada no cabo da adaga, o rosto a ferver de raiva.
+— Mais uma palavra, garoto, e eu vou usar essa lâmina para arrancar a sua língua e dar de comer aos corvos! — sibilou ela.
+Brutus ignorou a confusão. Ele parou diante do grupo, observando-os com uma curiosidade genuína, mas o seu olhar fixou-se por mais tempo na figura inabalável de Valen. Havia uma autoridade silenciosa no Capitão que o gigante reconheceu de imediato.
+— Esse é o chefe? — perguntou Brutus, apontando com um dedo grosso.
+Valen assentiu, dando um passo à frente.
+— Precisamos de granito negro — disse o Capitão, a voz nivelada, sem se deixar intimidar pela presença colossal. — Bom, limpo para blindagem. E barato.
+Brutus coçou a barba espessa, avaliando o homem de braço mecânico.
+— Tenho três blocos perfeitos e já cortados — respondeu o gigante, a sua voz ecoando de forma mansa. — Se estão com a Mina... eu posso fazer por metade do preço que costumo cobrar aos nobres de Kaelyndor.
+Gilbert ajeitou os óculos, a mente mercantil a desconfiar de qualquer facilidade.
+— E por que razão faria um desconto dessa magnitude? — perguntou o navegador.
+Brutus olhou para Mina, um carinho fraternal a transparecer nos seus olhos, e depois deu de ombros largos.
+— Porque ela foi a única pessoa que apareceu aqui e nunca me tratou como um monstro sem cérebro — explicou ele, com uma simplicidade desarmante. E depois, olhando para o horizonte acinzentado, completou: — E porque... eu gosto de ver pessoas que estão a sair do chão para tentarem tocar o céu.
+Runner franziu a testa, intercalando o olhar entre a assassina e o gigante.
+— Espera aí... esse cara com cara de triturador de ossos fala em metáforas? — murmurou o garoto, com um misto de respeito e confusão.
+— De vez em quando — disse Mina, mordendo o lábio para tentar conter um sorriso orgulhoso.
+O acordo foi selado num aceno de cabeça. No entanto, havia um problema logístico imediato: como transportar três blocos colossais de pedra através do terreno acidentado. Foi aí que a genialidade bruta de Kael entrou em cena.
+A ferreira não perdeu tempo. Vasculhando a lateral do barracão de Brutus, ela encontrou velhos eixos de vagonetas de mineração enferrujados e pranchas de madeira de lei descartadas.
+— Todos a trabalhar, agora! — ladrou Kael, atirando uma marreta para as mãos de Runner. — Garoto, limpa a ferrugem daquele eixo. Gilbert, calcule o centro de massa, porque se esta prancha partir no meio do caminho, eu uso os seus ossos para fazer uma nova.
+Sob os gritos de comando da ferreira, a tripulação transformou-se numa linha de montagem febril. Mina e Valen encaixavam as pranchas nas marcações exatas que Kael determinava, enquanto a própria ferreira soldava a frio as junções metálicas usando o peso do seu martelo. Em menos de duas horas, uma carroça de transporte rústica, porém estruturalmente perfeita e absurdamente resistente, estava pronta.
+Foi então que Brutus entrou em ação. Sem usar cordas ou alavancas, o gigante aproximou-se dos blocos de granito negro. Ele flexionou os joelhos, abraçou a primeira pedra maciça e, com um urro baixo, ergueu-a do chão, depositando-a com suavidade no centro da carroça improvisada. Repetiu o processo com as outras duas, mal alterando a sua respiração.
+A demonstração de força bruta não passou despercebida. Valen observava, avaliando o potencial. Gilbert anotava a capacidade de carga humana nos seus pergaminhos, fascinado.
+Kael, encostada à sua própria marreta, murmurou em voz alta:
+— Pelos fornos divinos... se nós tivéssemos esse brutamontes no convés do Coruja, metade das manobras pesadas de içamento e as recargas de artilharia seriam resolvidas com um braço só.
+Brutus, que tinha uma audição excelente apesar do tamanho, ouviu o comentário. Um sorriso iluminou o seu rosto largo perante a ideia de ser útil noutro lugar além da pedreira. Ele deu um passo na direção deles.
+— Eu posso levar a carroça para vocês — ofereceu Brutus, animado. — Um bónus de transporte. Eu puxo.
+— Não precisa, Brutus, nós damos um jeito — desconversou Mina rapidamente, tentando evitar que o gigante se envolvesse no caos que era a vida deles.
+Runner riu pelo nariz.
+— Como é que nós vamos dar um jeito, ruiva? Nós quase caímos no desfiladeiro para chegar aqui de mãos vazias. Como é que vamos passar naquela saliência de calcário a puxar toneladas de granito? A montanha vai engolir-nos.
+Brutus coçou a nuca, um tanto confuso com o dilema.
+— Desfiladeiro? Vocês vieram por cima? — O gigante riu, um som retumbante. — Não precisam de voltar por lá. Há um sistema de cavernas por dentro da montanha que corta caminho direto para as planícies inferiores do porto. É escuro e largo o suficiente para a carroça. Eu posso guiar-vos. Só... esperem um momento.
+Ele virou as costas e correu de volta para o seu barracão de metal.
+A tripulação reuniu-se ao redor da carroça carregada, aguardando. Valen mantinha-se em silêncio, os olhos fixos na porta do casebre.
+Poucos minutos depois, Brutus retornou. Ele não trazia apenas uma lanterna ou ferramentas. No ombro, o gigante carregava uma pesada bolsa de viagem feita de lona grossa, amarrada com cordas, e o seu machado de duas lâminas preso firmemente às costas.
+Mina franziu a testa, dando um passo à frente.
+— Brutus... que bolsa é essa? Para onde pensa que vai com isso tudo? — perguntou a assassina, a voz a oscilar entre a confusão e a preocupação.
+O gigante parou, olhando para ela com uma inocência que contrastava bizarramente com o seu tamanho e cicatrizes.
+— Bem... a mulher do martelo disse que eu seria muito útil no convés de vocês — explicou Brutus, apontando para Kael com um sorriso tímido. — E vocês estão a construir um navio para voar longe, não estão? Eu nunca vi o mar aberto. Achei que estava a ser convidado. A minha força pode ajudar.
+Mina abriu a boca, o instinto protetor a falar mais alto.
+— Brutus, não... ela estava apenas a fazer um comentário. Foi uma brincadeira, nós estamos a ir para uma missão suicida, você não pode simplesmente abandonar...
+A voz de Mina foi cortada por uma mão firme que pousou suavemente no seu ombro.
+Valen avançou. O Capitão olhou para o gigante. Ele viu a ingenuidade, mas também viu a lealdade inabalável e a força bruta de que precisavam para enfrentar as tempestades que a Névoa traria. O pragmatismo militar de Valen amoleceu, dando lugar à alma de um verdadeiro líder que sabe reconhecer o valor de um coração leal.
+Valen estendeu a mão direita.
+— Não foi brincadeira, Brutus — disse o Capitão, a voz soando quente e definitiva no frio da montanha. — Se você estiver disposto a trocar as pedras pelas ondas, e a carregar o peso de um navio nas costas... seja bem-vindo ao Coruja Eclipse.
+O rosto do gigante iluminou-se como o de uma criança. Ele apertou a mão de Valen, quase esmagando os ossos do Capitão sem querer, antes de agarrar as cordas da carroça improvisada com uma facilidade assustadora.
+— Vou guiar-vos pela caverna, Capitão! — anunciou Brutus, a puxar toneladas de granito como se fossem penas.
+Runner passou por Mina, dando-lhe uma cotovelada amigável.
+— Viu só? Agora a família está completa. Temos um navegador cego, um ladrão charmoso, uma ferreira raivosa, um capitão amargurado, uma assassina sem paciência... e o namorado gigante da assassina.
+Antes que Mina pudesse sacar a adaga, Runner já havia corrido para a frente, desaparecendo na escuridão reconfortante da entrada da caverna.
+#Capítulo 17 – A Escuridão Guiada e os Fantasmas da Maré
+A descida pelas entranhas da Montanha de Karak-Dûn foi engolida por uma escuridão absoluta e gelada. O ar cheirava a minerais antigos e terra úmida, um ambiente hostil para quem nascera com os olhos virados para o horizonte do mar.
+Gilbert, recusando-se a marchar às cegas, utilizou o pouco que restava de óleo das suas engrenagens de navegação, um pedaço de tecido rasgado e um fêmur de animal seco que encontrou no chão para improvisar uma tocha. A luz bruxuleante alaranjada revelou as paredes úmidas de calcário, mas as sombras pareciam querer devorar a pequena chama.
+— Fiquem perto. As correntes de ar aqui em baixo são imprevisíveis — alertou o navegador, erguendo a tocha.
+Brutus soltou uma risada profunda que fez o teto da caverna vibrar suavemente. O gigante caminhava na frente, puxando a pesada carroça carregada com toneladas de granito negro como se estivesse a levar um carrinho de mão vazio pelo parque.
+— Não precisam de se preocupar com a escuridão, engravatado — disse Brutus, o tom amigável a ecoar nas pedras. — Eu conheço estas cavernas com a palma da minha mão. As pedras conversam comigo. Dizem onde é seguro pisar e onde a terra quer desabar. É só saber escutar.
+Mina caminhava logo atrás do gigante, atenta, enquanto Runner saltitava de pedra em pedra, impressionado com a facilidade do grandalhão.
+— Você tem que me ensinar esse truque das pedras falantes, Brutus — brincou o garoto. — Seria muito útil para saber se os cofres de Sulheim estão cheios ou vazios antes de os arrombar.
+Brutus olhou por cima do ombro, sorrindo de forma inocente. — Pedras de cofre são tristes, garoto. Elas não falam muito. Ficam sufocadas com tanto ouro.
+Durante a travessia, o gigante integrou-se à tripulação com uma naturalidade espantosa. Ele ouvia atentamente as explicações pragmáticas de Gilbert sobre a estrutura geológica, trocava piadas inofensivas com Runner e, a cada buraco ou saliência mais perigosa, assegurava-se de que Kael e Mina passavam em segurança. Valen observava tudo da retaguarda. O Capitão sabia que a força física do gigante seria vital, mas o coração puro de Brutus era o verdadeiro alicerce moral de que aquele grupo de desajustados precisava.
+Em poucas horas, a escuridão úmida da montanha deu lugar a um feixe de luz cinzenta e ao cheiro inconfundível de salmoura.
+A tripulação emergiu dos túneis diretamente na orla oeste das docas baixas. A luz do dia fez todos semicerrarem os olhos.
+— Já chegámos? — Runner ofegou, olhando para os armazéns ao redor, espantado. — Pelos astros, nós cruzámos o maciço inteiro numa fração do tempo! Isso levaria dois dias por fora! Brutus, você é a minha nova pessoa favorita no mundo.
+— Obrigado, pequeno corvo — respondeu o gigante, sinceramente lisonjeado.
+Mas a celebração tática foi cortada antes de começar.
+— Ora, ora, ora. Vejam só o que as sombras da montanha vomitaram no meu cais.
+O grupo estacou. Bloqueando o caminho estreito entre os armazéns, estava uma tripulação pirata. Eram quatro. Três subordinados de aspeto letal: Garrick, um brutamontes com o rosto talhado por cicatrizes empunhando um machado curvo; Elara, uma mulher ágil que brincava com duas adagas envenenadas; e Finn, um atirador que permanecia no fundo, os dedos perigosamente próximos dos coldres.
+À frente deles, com um sorriso carregado de dentes de ouro e um casaco roxo exuberante, estava o Capitão Silas "Dente de Prata" Vance.
+Silas abriu os braços, os anéis a brilharem. — Se não é o lendário explorador dos Cinco Reinos de Getalis em carne, osso e um pouco de ferro barato... Valen Draxor! Achei que estivesse a alimentar os peixes de Sulheim.
+Runner inclinou a cabeça, olhando de Valen para o pirata.
+— Chefe... — sussurrou o garoto, a curiosidade a transbordar. — Há alguém neste continente que você não conheça ou que não o conheça? É a sua cara que está nas moedas de ouro e eu não percebi?
+Mina deu uma cotovelada nas costelas do garoto, a sua expressão fechada numa máscara de lealdade agressiva.
+— Cala a boca, Runner — murmurou ela. — O respeito que o Capitão tem é conquistado com sangue, não roubado em feiras.
+Valen não levou a mão às armas. Apenas deu um passo à frente, com a sua postura rígida de sempre.
+— Silas — cumprimentou Valen, a voz neutra. — O que faz um pirata com a cabeça a prémio passear tão tranquilamente pelos mares vigiados de Kaelyndor?
+Silas riu, um som rasgado. — Os ventos mudam, meu velho amigo. E esta é a sua nova tripulação? Um bando colorido, tenho de admitir. Você tem um navio escondido em algum buraco?
+Valen não vacilou. Discretamente, ele piscou o olho esquerdo na direção de Kael.
+A ferreira entendeu a deixa instantaneamente. Cruzou os braços fortes, sujando o colete com a fuligem das mãos.
+— Navio? Nós temos madeira podre, promessas vazias e um amontoado de dívidas — interveio Kael, com a voz carregada de impaciência. — Ainda estamos a montá-lo peça por peça no estaleiro velho. Vai demorar meses até aquela carcaça ver o sal do mar.
+Silas estreitou os olhos brilhantes para a mulher ruiva. O seu sorriso de ouro alargou-se ao reconhecê-la.
+— Pelas marés... Olhem o que temos aqui, rapazes! Uma equipa de respeito — ironizou Silas, gesticulando de forma teatral. — A lendária ferreira real da Marinha Imperial. A mulher que moldava o aço do rei, agora reduzida a montar botes furados para um contrabandista aposentado. Que queda trágica.
+Garrick e Elara começaram a rir, uma zombaria ácida e desrespeitosa que ecoou pelas paredes do armazém.
+Antes que Mina pudesse sacar as adagas para cortar gargantas, uma sombra cobriu a tripulação pirata. O sol pareceu desaparecer.
+Brutus largou a alça da carroça de granito. O baque surdo calou as risadas no mesmo instante. O gigante avançou, os seus dois metros e doze a projetarem-se sobre os subordinados de Silas. O machado de duas lâminas tremia levemente nas suas costas devido ao tensionar dos músculos.
+Brutus inclinou a cabeça, os olhos expressivos agora obscurecidos por uma sombra letal, mas a sua voz manteve-se quase inocente, o que o tornava ainda mais aterrorizante.
+— Vocês estão a zombar dos meus amigos? — perguntou Brutus. — A Mina ensinou-me que quem zomba de amigo com maldade, torna-se inimigo. E eu não gosto de inimigos. Inimigos eu esmago até eles pararem de fazer barulho. Querem ser inimigos?
+Garrick deu um passo atrás, os olhos arregalados. No fundo, Finn, o atirador, engoliu em seco e a sua mão desceu imediatamente para a coronha da sua arma de fogo de cano longo. A tensão escalou para um banho de sangue iminente.
+Valen foi mais rápido. O Capitão colocou a mão de carne no antebraço massivo de Brutus, segurando-o firmemente.
+— Calma, Brutus — ordenou Valen, a voz serena, mas com autoridade inquestionável. — Eles não são inimigos. Estão apenas de passagem. Baixa as armas, Finn, ou o meu gigante vai usar essa espingarda como palito de dentes.
+Finn hesitou, mas olhou para Silas, que levantou a mão num sinal rápido para o subordinado recuar. A tensão desceu ligeiramente, mas o clima continuava carregado.
+— Vocês têm coragem, Valen, eu reconheço isso — disse Silas, limpando a garganta e ajeitando o casaco. — Mas Kaelyndor está a mudar. Pelo que vejo, Sulheim está a dominar a região. Os cães do império estão a farejar cada canto.
+— Eu notei — confirmou Valen. — Mas vocês não parecem preocupados.
+— Porque nós não estamos sozinhos — respondeu Silas, o tom orgulhoso a aflorar. — A comissão dos piratas, o nosso clã, tem livre acesso aos mares do leste agora. Estamos numa luta armada contra o bloqueio de Sulheim. E quanto a si? Tem notícias do clã dos contrabandistas? Da velha guarda?
+Valen balançou a cabeça devagar, a expressão inescrutável.
+— Faz muito tempo que não falo com um membro do clã. Deixei essa vida para trás. Como vocês mesmos disseram, trabalho apenas como explorador agora.
+Silas riu de forma cínica, ajustando o cinto da espada.
+— E é por isso que estamos em caminhos diferentes, velho amigo. Exploradores seguem sonhos invisíveis. Os piratas seguem o ouro vivo.
+— E a Marinha Real? — perguntou Kael, a sua voz ríspida a cortar a conversa, lembrando-se do seu passado. — Sulheim está a comprá-los. Todos eles.
+— Estão a tentar — corrigiu Silas, fechando a cara. — Mas a Marinha Real vai cobrar essa submissão, ferreira. E ela cobra caro. Sulheim pode achar que tem o império nas mãos, mas os oceanos não têm dono.
+Silas tocou a aba do chapéu num cumprimento seco para Valen.
+— Se aquele seu bote alguma vez flutuar, Draxor, tente não cruzar a nossa rota de comércio. O meu clã não atira flores. Vamos, rapazes.
+A tripulação pirata deu meia-volta, desaparecendo por entre a neblina rala do porto.
+O grupo respirou fundo. Brutus coçou a cabeça, confuso. — Aquele homem cheirava muito a perfume doce. Pessoas assim não lutam bem.
+Mina guardou a adaga que estava escondida atrás das costas e virou-se para o Capitão. Os olhos verdes da assassina procuravam respostas.
+— Você não tem dívidas, não estamos a dever nada a eles... Por que mentiu sobre o Coruja Eclipse? — perguntou ela. — Podíamos tê-los intimidado.
+Valen virou-se para a carroça de granito, tocando as pedras negras que salvariam a vida deles.
+— Eu não confio em piratas, Mina. Eles falaram sobre lutar contra Sulheim hoje, mas a lealdade deles tem o peso exato do ouro que lhes oferecem. — O Capitão olhou na direção por onde Silas havia sumido. — Quando eles souberem que temos um navio com a blindagem e as armas que Kael construiu, o ouro falará muito mais alto do que qualquer velha amizade. O silêncio é o nosso melhor canhão agora.
+— Faz sentido — concordou Gilbert, ajeitando os papéis na sua bolsa. — Informação é a moeda mais perigosa de Getalis.
+Valen puxou o colarinho do casaco e apontou para o estaleiro distante.
+— Vamos. O Coruja precisa do coração de pedra que o Brutus nos trouxe. Temos dois dias antes que as frotas percebam que o fantasma do mar voltou à vida.
+
+
+#Capítulo 18 – O Ladrão do Porão e o Papelada do Império
+O interior do Coruja Eclipse cheirava a verniz recém-aplicado, alcatrão e suor. Nas entranhas do navio, a sinfonia caótica da tripulação em trabalho ecoava pelas paredes de madeira reforçada e granito negro. Sob a ditadura técnica de Kael, não havia espaço para descanso.
+Na casa das máquinas e lastros, Brutus realizava o trabalho de dez estivadores. O gigante erguia as pesadas engrenagens de bronze do sistema de âncoras como se fossem brinquedos de madeira, embora ficasse visivelmente frustrado quando Kael lhe pedia para apertar um parafuso minúsculo com os seus dedos colossais.
+No convés principal, Mina e Valen trabalhavam lado a lado na amarração dos cabos do mastro principal. A assassina puxava as cordas com uma força fluida, os músculos dos ombros tensionando-se sob a luz fraca das lanternas. Num movimento desequilibrado do navio sobre os suportes, ela escorregou, e Valen amparou-a pela cintura com o braço de carne. Por um breve segundo, o mundo pareceu parar. Os olhos verdes dela encontraram os castanhos dele, a respiração de ambos misturando-se no ar frio.
+O momento, no entanto, foi brutalmente interrompido pelo som de um livro a ser fechado com violência no convés inferior.
+— Temos uma falha crítica e inaceitável na nossa cadeia de suprimentos! — a voz de Gilbert ecoou pelo convés, soando tão indignada como se o navio estivesse a afundar.
+Valen soltou Mina, que limpou a garganta e desviou o olhar, tentando disfarçar o rubor com uma expressão carrancuda. O Capitão desceu as escadas até à cozinha improvisada do navio, seguido pelo resto da tripulação, que foi atraída pelo tom de urgência do navegador.
+Gilbert estava parado no meio da despensa, com o seu grimório de logística aberto e os óculos escorregando pelo nariz. Ele apontava acusatoriamente para uma prateleira de madeira.
+— Falando em idioma humano, velho, o que foi que quebrou? — perguntou Runner, pendurando-se de cabeça para baixo na escada de acesso.
+— A comida está a desaparecer — declarou Gilbert, com a gravidade de um juiz a proferir uma sentença de morte. — Sessenta gramas de queijo curado, três biscoitos de viagem e um naco inteiro de carne defumada evaporaram do inventário durante a madrugada. Temos um sabotador a bordo.
+Runner revirou os olhos e desceu da escada com um salto.
+— Por todos os deuses, Gilbert. Você acordou-nos para falar de queijo?
+— A logística é a espinha dorsal de qualquer expedição marítima, garoto! — rebateu o navegador, apontando a pena de escrever para o peito de Runner. — E estatisticamente falando, quando itens desaparecem num ambiente fechado, o culpado geralmente é o indivíduo com histórico comprovado de apropriação indébita.
+Runner ofendeu-se genuinamente. O garoto colocou a mão no peito, com uma expressão de pura indignação.
+— Está a acusar-me? A sério? Eu sou um ladrão profissional, Gilbert! Eu roubo ouro, joias, relógios de bolso de aristocratas de Sulheim! Eu não sujo as minhas mãos com queijo duro e carne salgada. Isso é um insulto à minha classe!
+Mina encostou-se no batente da porta, com um sorriso de canto a brincar nos lábios.
+— Não sei, não. Você tem estado com um cheiro estranho de carne defumada desde ontem, Runner — provocou a assassina.
+— Isso é porque eu estive a carregar os barris que o velho mandou, sua víbora! — defendeu-se o garoto.
+Brutus, que precisava de se curvar para caber na despensa, ergueu a mão timidamente, como um aluno na escola.
+— Fui eu que comi as cinco maçãs ontem à noite — confessou o gigante, com um olhar culpado. — A minha barriga fez um barulho estranho e eu achei que as maçãs iam ajudar. Mas eu não toquei no queijo. O queijo cheirava a meias velhas.
+Gilbert suspirou, massajando as têmporas.
+— As maçãs já estavam contabilizadas na margem de erro biológico de Brutus. Mas o queijo e a carne não. A matemática não mente.
+Valen observava a cena, com os braços cruzados, um brilho de diversão contida no olhar. Ele não interferiu. A pressão de estarem escondidos a construir uma máquina de guerra estava a cobrar o seu preço, e aquela investigação ridícula era exatamente a válvula de escape de que a tripulação precisava para não se matar antes de içarem as velas.
+— Muito bem, detetive cego. Como planeia resolver o mistério do naco de carne? — perguntou Kael, surgindo com a marreta ao ombro e o rosto sujo de graxa.
+— Com observação empírica — decretou Gilbert.
+Nos quinze minutos seguintes, a tripulação do navio mais perigoso de Kaelyndor viu-se reduzida a ficar escondida nas sombras do corredor da despensa, espiando um pedaço de biscoito que Gilbert deixara no chão como isca.
+O silêncio era absoluto. Até Brutus prendia a respiração, os olhos arregalados de antecipação.
+Foi então que um som minúsculo e arranhado ecoou na madeira. Scratch. Scratch.
+De trás de um barril de pólvora vazio, emergiu a ameaça. Não era um espião de Sulheim. Não era um sabotador. Era um rato cinzento, surpreendentemente gordo e com um ar de absoluta audácia. O roedor caminhou até ao biscoito, agarrou-o com os dentes e começou a arrastá-lo de volta para as sombras com uma determinação admirável.
+O silêncio foi quebrado por uma gargalhada explosiva.
+Runner dobrou-se ao meio de tanto rir, apontando para o navegador.
+— O mestre do crime! O grande sabotador logístico! Cuidado, Gilbert, ele vai levar o navio inteiro se você piscar os olhos! — zombou o garoto, limpando uma lágrima no canto do olho.
+Mina sacou uma das suas facas de arremesso, o olhar verde fixo no animal.
+— Quer que eu o transforme num espeto? — ofereceu ela, perfeitamente séria.
+— Não! — exclamou Brutus, enfiando-se na frente da assassina, protegendo a visão do rato. — Ele é só um bichinho com fome. Eu posso chamá-lo de Barnabé? Podemos ficar com ele?
+Gilbert estava rubro de raiva e vergonha.
+— Isso é uma falha de vedação no casco. Precisamos de exterminar a praga antes que...
+— Deixem o rato em paz — a voz de Valen soou calma e definitiva, encerrando o debate. O Capitão sorriu, um sorriso leve e raro. — Todo o bom navio precisa de um rato no porão. É um sinal de sorte. E se o Coruja Eclipse vai caçar a Névoa, nós vamos precisar de toda a sorte que conseguirmos.
+Kael bateu com o cabo da marreta no chão de madeira, o som denso reverberando por todo o convés.
+— E por falar no navio... — a ferreira ergueu o queixo, o cansaço visível no rosto, mas ofuscado por um orgulho monumental. — Terminámos.
+A palavra pairou no ar, mais pesada do que o granito de Brutus.
+O grupo esqueceu o rato instantaneamente. Eles subiram até ao convés principal. A luz do estaleiro iluminava o casco escuro, as velas dobradas com precisão milimétrica, as armas limpas e posicionadas. A madeira brilhava, as engrenagens de metal estavam untadas, e o cheiro a poder latente era inegável. O Coruja Eclipse estava vivo. Fisicamente inteiro. Pronto para dominar o mar.
+Brutus sorriu, boquiaberto. Mina e Runner partilharam um olhar de genuíno entusiasmo. Valen tocou na amurada, sentindo a vibração do navio como se fosse a extensão do seu próprio corpo.
+— Você superou-se, Kael — elogiou Valen, com um respeito profundo.
+A ferreira deu de ombros, disfarçando o sorriso orgulhoso. — Eu disse que não construía lixo, Capitão.
+O momento de glória e contemplação, no entanto, foi interrompido por um pigarro ríspido.
+Gilbert fechou o seu grimório de logística e deslizou o livro para debaixo do braço. O seu rosto, agora livre da distração do rato, assumiu uma expressão fria e pragmática.
+— A engenharia da Kael é impecável, e o suor que derramaram aqui é louvável — começou o navegador, caminhando até ao centro do convés. — O corpo da besta está pronto. Mas, neste momento, nós somos um navio fantasma não registado ancorado no quintal de um império.
+Valen virou-se para ele. — Vá direto ao ponto, Gilbert.
+— O ponto, Capitão, é que agora vem a parte mais difícil — declarou Gilbert, ajeitando os óculos. — A força do Brutus não pode esmagar isto, as lâminas da Mina não podem cortar isto, e a agilidade do Runner não serve de nada para roubar o que precisamos.
+O navegador apontou para o horizonte além das portas do estaleiro.
+— Burocracia. Se quisermos transitar pelo mar de Kalimar sem sermos bombardeados pela primeira patrulha que nos cruzar, precisamos de liberação oficial. Precisamos de selos, assinaturas de trânsito e, pior de tudo... precisamos de despistar a alfândega da Marinha Real.
+
+
+#Capítulo 19 – A Máscara de Ouro e o Selo de Tinta
+A manhã no estaleiro foi tomada por um frenesi de preparativos. O Coruja Eclipse estava finalmente inteiro, mas um navio não é nada sem a permissão para tocar a água. Valen e Gilbert ajustavam os casacos, prontos para a missão mais perigosa de todas: enfrentar a burocracia do império.
+Runner, no entanto, estava a fazer um escândalo.
+— Eu vou com vocês! — insistia o garoto, saltando na frente do Capitão. — Eu conheço as ruas, conheço as pessoas, e, se o velho ali esquecer algum papel, eu posso roubar um carimbo oficial em três segundos.
+Kael, que estava a pendurar-se no cordame principal com um balde de piche, apontou a espátula para o ladrão.
+— Você não vai a lugar nenhum, corvo torto! — gritou a ferreira. — O convés não se vai limpar sozinho e as amarras dos canhões ainda precisam de lubrificação. Pega num esfregão antes que eu te faça engolir um!
+Runner fez uma careta, virando-se para Valen com as mãos em prece.
+Valen suspirou. Ele olhou para Kael, depois para Mina — que polia as suas adagas com um sorriso sádico à espera de que o garoto fosse punido —, e finalmente para Brutus, que tentava espanar delicadamente uma viga, com medo de a quebrar.
+— Deixe-o vir, Kael — decidiu o Capitão, ajustando a gola. — Se ele ficar aqui, a Mina vai acabar por esfaqueá-lo antes do meio-dia. Vamos, garoto. Mas em silêncio.
+Runner deu um salto vitorioso no ar, e os três deixaram o estaleiro, caminhando em direção ao Centro de Registro da Marinha Real em Kaelyndor.
+O trajeto até o porto principal estava tranquilo, até que o ar mudou. O som grave e gutural de uma buzina de atracação rasgou a neblina. Gilbert parou, ajeitando os óculos. Valen estreitou os olhos.
+Um galeão colossal estava a atracar no cais nobre. Não era um navio comercial. Não era da Marinha de Kaelyndor. As velas negras e o brasão carmesim gritavam o nome de Sulheim.
+Valen parou abruptamente, o sangue a gelar nas veias. Ele agarrou o colarinho de Runner e o braço de Gilbert, puxando-os violentamente para trás de uma pilha de caixotes de carga fedorentos a peixe.
+— Para baixo. Agora. Não respirem — ordenou Valen, a voz num sussurro que não admitia contestação.
+— O que foi? — perguntou Runner, esfregando o pescoço. — É só um navio de Sulheim, nós fugimos deles o tempo todo.
+— Aquele não é um navio qualquer — murmurou Valen, os olhos castanhos fixos na prancha de desembarque que acabara de ser baixada. — Aquele é o navio de Broaken. O homem a quem roubei a bússola de Kalimar.
+Gilbert engoliu em seco, encolhendo-se ainda mais. A tripulação do Coruja ainda estava incompleta de mantimentos e de treino; enfrentar aquele monstro agora seria um massacre absoluto.
+Os passos que desceram a prancha não deixavam margem para dúvidas. A figura que liderava o desembarque era larga, imponente e possuía uma postura excessivamente reta, quase antinatural. Broaken vestia roupas de corsário finamente adornadas com veludo e ouro roubado, acompanhadas por um pesado casaco de capitão escuro, cujas bordas estavam desfiadas e esbranquiçadas pelo salitre do mar.
+O detalhe mais aterrador, no entanto, estava no seu rosto. Uma meia-máscara de ouro maciço cobria toda a lateral esquerda da face, escondendo feridas antigas. Por baixo do metal reluzente, longos bigodes grossos emolduravam um sorriso que exibia dentes amarelados e afiados. Os seus passos eram denunciados por um bater irregular e pesado contra a madeira — clanc, clanc, clanc —, causado por uma das suas botas, que era forrada e reforçada com metal bruto.
+Os homens que o seguiam eram o reflexo do capitão: implacáveis, exibindo uma postura de pura destruição e selvageria contida.
+— Ele não é do tipo que perde tempo em Kaelyndor sem um bom motivo — sussurrou Gilbert.
+O trio esgueirou-se pelas sombras, aproveitando a confusão do porto para avançar até ao prédio oficial da Marinha. Contudo, foram forçados a estacar mais uma vez. Broaken e três dos seus guardas de elite haviam parado exatamente na porta do edifício.
+Com o seu sorriso satânico intacto, Broaken virou-se para um oficial de alta patente que suava frio na entrada. O corsário enfiou a mão debaixo do casaco escuro e sacou uma grande e pesada bolsa de couro, cujo som metálico não deixava dúvidas: barras de prata. Broaken atirou a bolsa para o peito do oficial, que a agarrou a tremer, assentindo repetidamente.
+— O império a comprar o que restou da dignidade da Marinha — comentou Gilbert, com um desgosto amargo. — Sulheim já não conquista com balas de canhão. Eles compram as portas.
+Broaken deu um tapinha no rosto do oficial comprado e virou-se, afastando-se com o seu passo metálico e abrindo, ironicamente, o caminho para o Coruja Eclipse.
+Valen esperou que o som da bota de Broaken desaparecesse na névoa antes de se levantar.
+— Vamos. Rápido — disse o Capitão.
+Ao cruzarem as portas de carvalho do Centro de Registro, uma onda de memórias atingiu Valen. O cheiro de cera, pergaminho e fardas engomadas fê-lo lembrar-se de um tempo que parecia pertencer a outra vida.
+Caminharam até o grande balcão central. Um oficial alto, com uma barba rala e um uniforme perfeitamente alinhado, estava a preencher relatórios. Quando levantou os olhos e encontrou o rosto de Valen, a sua expressão endureceu como pedra.
+— O que é que te traz por aqui, desertor? — rosnou o oficial, a voz ríspida ecoando pelo saguão de mármore.
+Runner arregalou os olhos, o queixo a cair de forma cômica. O garoto olhou para Valen, completamente chocado.
+— Desertor?! — guinchou Runner, não conseguindo conter a explosão. — Espera aí! Você foi lenda das docas, explorador, contrabandista implacável e agora fuzileiro da Marinha Imperial?! O que é que falta, Capitão? Vai dizer-me que também é o rei de Getalis disfarçado e não nos contou?!
+Valen nem piscou. O rosto do oficial manteve-se severo por mais dois longos segundos, até que os seus lábios tremeram e ele desatou numa gargalhada retumbante.
+O oficial deu a volta ao balcão e puxou Valen para um abraço surpreendentemente forte, batendo-lhe nas costas.
+— Valen, seu desgraçado teimoso! Eu achei que os peixes já tinham feito um banquete contigo! — riu o homem.
+— É bom ver-te também, Vargas — respondeu Valen, permitindo-se um sorriso relaxado. Ele virou-se para um confuso Runner. — Eu nunca quis a farda, garoto. Eu alistei-me há muitos anos porque a Marinha recrutou a Kael como ferreira real. Eu conhecia os idiotas que comandavam os navios; não a ia deixar entrar sozinha num covil de lobos fardados.
+Runner piscou, tentando processar a informação. — Então você virou fuzileiro... só para proteger a mulher do martelo? Isso é a coisa mais aterrorizante e honrada que eu já ouvi.
+Vargas riu, apoiando as mãos na cintura. — Ah, as regras nunca se aplicaram a este homem. Então, o que queres de mim, Valen? Não me digas que vieste pedir perdão e a tua velha patente de volta.
+— Preciso de um favor — disse Valen, o tom voltando aos negócios. — Tenho um navio. Preciso de selos de trânsito livre pelo mar de Kalimar. O nosso objetivo é uma expedição. Exploração de tesouros desconhecidos e ilhas não mapeadas.
+Vargas olhou para ele, ergueu uma sobrancelha e soltou uma risada debochada.
+— Tesouros. Sei. — O amigo piscou o olho, não acreditando numa única palavra. — Não te vás meter em confusão de novo com o Império, Valen. A minha paciência tem limites.
+Antes que Vargas pudesse pegar nos papéis, um outro oficial — um burocrata de rosto fino e olhar desconfiado — aproximou-se.
+— Tenente Vargas, o que se passa aqui? Estes homens não têm agendamento. Precisam de preencher os formulários C-4 e aguardar a inspeção física da embarcação em trinta dias.
+Gilbert empalideceu. Trinta dias significava serem descobertos por Sulheim.
+Vargas, porém, não perdeu o sorriso. Ele interpôs-se entre o burocrata e o grupo de Valen, assumindo uma postura de liderança absoluta.
+— Eu assumo isto daqui, Alferes. Estes são contatos confidenciais do meu antigo esquadrão. Questões de segurança do porto. Pode voltar à sua mesa.
+O burocrata hesitou, mas a patente de Vargas falou mais alto. Ele assentiu e retirou-se a contragosto.
+Livre das amarras oficiais, Gilbert rapidamente puxou os documentos falsificados e os registos forjados do seu grimório, deslizando-os pelo balcão. Vargas mal olhou para as descrições; ele carimbou a folha com o selo pesado de cera vermelha da Marinha, assinou com floreados e devolveu o pacote a Gilbert.
+— Estão libertos da alfândega. Mas se afundarem, eu não conheço nenhum de vocês — brincou Vargas.
+— Nós não vamos afundar — prometeu Valen, apertando a mão do velho amigo.
+Deixaram o prédio oficial da Marinha com a documentação no bolso de Gilbert. O alívio no peito da tripulação era palpável. O sol começava finalmente a romper as nuvens de Kaelyndor, e enquanto caminhavam de forma descontraída e feliz de volta para as docas, Runner já tagarelava sobre como eles eram imbatíveis.
+O mar aberto esperava-os. O Coruja Eclipse estava finalmente livre para zarpar em direção à Névoa, onde as lendas nasciam ou morriam para sempre.
+
+#Capítulo 20 – O Retorno do Fantasma e os Cinco Reinos
+O alívio de ter o selo oficial da Marinha no bolso durou exatamente até o instante em que Valen, Gilbert e Runner pisaram novamente no convés do Coruja Eclipse.
+Valen parou abruptamente na prancha de acesso, o corpo inteiro tensionando. A sua respiração falhou por uma fração de segundo. Ali, de pé na ponta da proa, envolta pela névoa fria que começava a subir do mar, estava uma figura que não pertencia à nova tripulação.
+Mina logo se adiantou, descendo do cordame com as mãos perigosamente próximas das adagas. A postura da assassina era puramente territorial.
+— Ela disse que conhecia o capitão — relatou Mina, os olhos verdes cravados na intrusa. — Insistiu em esperar por você. Eu ia tirá-la à força, mas Kael disse para aguardar.
+Valen não respondeu a Mina. Os seus olhos castanhos estavam fixos na mulher à sua frente.
+Ela usava um capuz roxo profundo e roupas de couro escuro que pareciam absorver a parca luz do estaleiro. Quando ela virou o rosto na direção deles, o impacto foi quase físico. A sua pele era pálida como a lua cheia, emoldurada por cabelos negros como o breu que escapavam do capuz. Mas eram os seus olhos que prendiam a alma — um violeta intenso, incandescente, que parecia brilhar no escuro com uma vida predatória e sobrenatural.
+Valen relaxou os punhos lentamente. Um turbilhão de luto, culpa e alívio cruzou o seu rosto.
+— Sombra... — murmurou o Capitão.
+A mulher não sorriu.
+— Você ia mesmo partir... sem mim? — perguntou ela. A voz era baixa, arrastada, ecoando pelo convés de madeira como um lamento antigo que se recusava a ser esquecido.
+Valen deu um passo à frente, a rigidez militar a dar lugar ao fantasma do homem que ele fora outrora.
+— Eu pensei que talvez... você tivesse ido longe demais, Sombra. Longe de tudo isto.
+— Fui — respondeu ela, a voz imóvel, desprovida de qualquer afetação. — E voltei.
+Ela deslizou pelo convés sem fazer um único ruído. Não havia som de botas contra a madeira; ela movia-se como a névoa.
+— Porque se você vai... eu vou também — continuou Sombra, parando a centímetros dele. — Sempre fui a sua sombra, Valen. E sempre serei.
+Ela ergueu a mão pálida. Com uma lentidão calculada, tocou o braço de Valen. Não a prótese de ferro e engrenagens que Kael havia ajustado, mas o braço de carne, onde o sangue ainda pulsava quente.
+Ela virou levemente o rosto, os olhos violetas a varrerem a nova tripulação — Mina, Runner, Kael e Brutus.
+— Eles não sabem o que enfrentam — disse Sombra, num sussurro que todos puderam ouvir. — Mas eu sei.
+— Eles têm coragem — respondeu Valen, firme, defendendo as pessoas que ele havia acabado de recrutar.
+Sombra voltou a olhar para ele, a intensidade do violeta a perfurar a resistência do Capitão.
+— Coragem mata, Valen. O que você precisa agora... é de alguém que lembre o que te destruiu. Para que não aconteça de novo.
+Valen baixou a cabeça, sentindo o peso daquelas palavras esmagar-lhe os pulmões. Depois, assentiu. Apenas uma vez. Estava selado.
+Gilbert pigarreou, aproximando-se com um misto de respeito e cautela. O navegador tocou a aba do chapéu.
+— É bom vê-la viva, Sombra.
+Ela retribuiu com um aceno quase imperceptível de cabeça.
+Runner, Mina e Brutus fervilhavam de perguntas. A presença daquela mulher mudava a gravidade do navio, mas a aura que ela emanava era tão densa, tão desprovida de brechas ou de convites sociais, que as palavras simplesmente morriam na garganta. Sem dizer mais nada, Sombra deu as costas ao grupo e caminhou em direção à porta da cabine principal, desaparecendo na escuridão do convés inferior.
+Valen não hesitou. Seguiu-a imediatamente, fechando a porta de madeira maciça atrás de si.
+O convés principal mergulhou num silêncio atordoante, quebrado apenas pelo marulhar das ondas contra as estacas do estaleiro.
+Runner foi o primeiro a explodir.
+— Mas que diabos acabou de acontecer aqui?! — exclamou o garoto, atirando os braços para o ar e virando-se para o navegador. — Velho, quem é ela? E por que o Capitão foi atrás dela como um cachorrinho que viu um fantasma?
+Gilbert suspirou pesadamente, retirando os óculos para os limpar.
+— Sombra é... complicado — começou o navegador, escolhendo as palavras com o mesmo cuidado de quem pisa num campo minado. — Ela é uma sobrevivente da última tripulação. Aquela que o mar e Sulheim nos tomaram. Assim como eu. Mas a ligação dela com o Capitão... vai além.
+Mina cruzou os braços com força, os nós dos dedos a ficarem brancos. Ela odiou a mulher de capuz no segundo em que a viu. E odiou ainda mais o fato de o Capitão, que sempre mantivera uma postura inabalável e controlada perto dela, ter largado tudo para a seguir para o interior do navio.
+A ruiva caminhou silenciosamente até perto da porta da cabine. Inclinou a cabeça, tentando captar qualquer som, qualquer sussurro. Mas nada. Era como se a madeira tivesse engolido as vozes.
+Runner, sempre com os olhos atentos para a desgraça alheia, esgueirou-se até o lado de Mina e apoiou o cotovelo no ombro dela com um sorriso malicioso.
+— Cuidado, ruiva — sussurrou Runner, num tom provocador. — O seu posto de mulher mais letal e assustadora do navio acabou de ser ameaçado. Sem falar que aquele clima todo com o Capitão... parece que perdeu a vaga.
+Mina virou o rosto, o olhar verde a faiscar de fúria assassina.
+— Se você não tirar esse cotovelo de mim em meio segundo, garoto, eu arranco o seu braço e uso para remar este navio — rosnou ela, entredentes.
+Gilbert interrompeu o iminente homicídio. Ele bateu com o grimório na amurada e ergueu o pesado pergaminho oficial, exibindo a cera vermelha imperial.
+— Chega de distrações! — ordenou o navegador, assumindo o controle. — O selo está pronto. A burocracia está vencida. O Coruja Eclipse está oficialmente pronto para zarpar.
+Passaram-se alguns minutos longos e tensos antes que a pesada porta de madeira da cabine se abrisse novamente. Valen saiu, a postura restaurada, a máscara de Capitão firmemente no lugar. Sombra veio logo atrás, mas, em vez de se juntar ao círculo iluminado pelas lanternas do convés, ela deslizou para um canto escuro perto do mastro de mezena. Ficou imóvel. Uma verdadeira sombra a observar tudo.
+Valen caminhou até o timão e reuniu a tripulação com um aceno.
+— O navio está pronto. As provisões estão no porão, o casco está blindado e nós temos autorização de trânsito — declarou Valen, a voz a projetar-se forte e clara. — Nós zarpamos na próxima maré. O nosso primeiro trajeto será direto pelo mar aberto de Kalimar, em direção às correntes frias do leste, caçando o ponto cego nos mapas.
+Mina, ainda contrariada e com o orgulho ferido, deu um passo à frente, cruzando os braços de forma desafiadora.
+— Com todo o respeito, Capitão — começou ela, apontando com o queixo na direção do mar negro. — Como vamos saber que essa tal Névoa, essa magia toda que a bússola procura, não é só lenda de marinheiro bêbado? Nós estamos a arriscar as nossas vidas por um conto de fadas?
+Valen soltou o timão e olhou para Mina, a expressão séria e absoluta.
+— Porque, como explorador, eu já vi a magia de verdade — garantiu Valen, o tom baixo a prender a atenção de todos. — A verdade que vocês conhecem de Kalimar é pequena, Mina. Mesmo com todos os seus mistérios e esse conjunto absurdo de arquipélagos e piratas, Kalimar é apenas um dos cinco reinos de Getalis.
+O Capitão encostou-se na amurada, os olhos perdidos nas lembranças de um mundo mais vasto do que as fronteiras sujas de Kaelyndor.
+— Eu conheci os cinco reinos. Eu já naveguei além destas águas e cheguei a atracar nos grandes portos de Olira. E posso dizer-lhes: aquela região respira magia. O que para nós é lenda, para eles é o ar de cada dia. Eu garanto-lhe, a magia existe e está entre nós neste exato momento. O problema é que a verdadeira magia é tão rara e perigosa nestes mares, que as pessoas mais fracas decidiram chamá-la de lenda apenas para conseguirem dormir à noite sem medo do escuro.
+Gilbert ajeitou os óculos, os olhos a desviarem rapidamente para o canto escuro onde os olhos violetas de Sombra brilhavam solitários, e depois voltou a encarar a tripulação.
+— E às vezes... — completou o navegador, com um pragmatismo misterioso — a magia está bem debaixo do nosso nariz. Só precisamos de saber para onde olhar.
 
 
 

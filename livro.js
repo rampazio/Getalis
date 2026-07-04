@@ -30,9 +30,9 @@ A informação foi como uma faísca solitária lançada na escuridão. Valen nã
 — Mantenha o bico fechado sobre a minha presença, Vander — instruiu Valen, virando as costas para o balcão.
 Ele caminhou até o canto mais escuro e afastado da taverna, longe das janelas e do alcance da luz das lamparinas a óleo. Sentou-se numa cadeira de madeira que rangeu sob o seu peso. Pousou o braço de ferro sobre a mesa riscada e recostou-se.
 Enfiando a mão no bolso interno do seu casaco encharcado, Valen puxou um objeto que pesava muito mais do que o seu próprio tamanho. Um medalhão antigo, fosco pelo tempo e pela água salgada.
-Ele abriu a pequena tampa circular. Dentro, gravados no metal com uma precisão que agora parecia cruel, havia sete nomes. A sua antiga família. A sua tripulação.
+Ele abriu a pequena tampa circular. Dentro, gravados no metal com uma precisão que agora parecia cruel, havia oito nomes. A sua antiga família. A sua tripulação.
 Valen passou o polegar sobre o relevo das letras. Cinco daqueles nomes estavam riscados com traços firmes e profundos. Os rostos que o tempo não apagava, apenas abafava como gritos debaixo de água.
-Restavam apenas tres nomes intactos. O dela... e o de Gilbert.
+Restavam apenas tres nomes intactos. O dele, o dela... e o de Gilbert.
 Valen serviu-se de mais um copo de rum, os olhos fixos no medalhão. Ele estava sozinho no fim do mundo, afogado em luto, mas a engrenagem da vingança acabara de encontrar o seu primeiro ponto de apoio.
 #Parte 2 – Os Cães do Império
 O som da tempestade lá fora foi subitamente afogado por um estrondo muito mais violento. As pesadas portas de carvalho da Taverna do Gancho Cego foram abertas com um pontapé brutal, escancarando-se de tal forma que as dobradiças oxidadas gritaram em protesto. O vento frio invadiu o ambiente, apagando duas das lamparinas mais próximas e mergulhando parte do salão na penumbra.

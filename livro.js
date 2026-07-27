@@ -1,6 +1,11 @@
 const textoDoLivro = `
 
 
+
+
+
+
+
 #Parte 1 – Inicio
 Chovia em Kaelyndor.
 Mas não era uma chuva que lavava — era daquelas que afogavam lentamente, como promessas antigas que voltam para cobrar o que restou. O céu sobre o porto parecia um manto de chumbo a esmagar as docas, e a água que desabava ininterruptamente trazia consigo o gosto amargo da salmoura, da fuligem das caldeiras e de histórias que ninguém ousava contar em voz alta.
@@ -1875,7 +1880,7 @@ Ele não focou no rosto de Mina de imediato. A sua cabeça pendeu um pouco para 
 — Eles levaram... — murmurou Valen, com o olhar perdido na escuridão da sala. — Eles levaram... a bússola...
 
 
-Capítulo 41 – O Templo de Morzan e a Divisão de Caminhos
+#Capítulo 41 – O Templo de Morzan e a Divisão de Caminhos
 As mãos de Mina tremiam enquanto ela segurava o rosto desfigurado do Capitão. As palavras dele sobre a bússola roubada pareceram não fazer sentido para a assassina naquele momento.
 — Esquece a bússola, Valen. Pelo amor dos deuses, esquece esse pedaço de vidro! — implorou Mina, com a voz embargada, examinando os cortes espalhados pelo peito dele. — O importante é que você está vivo. Nós viemos te buscar.
 Atrás deles, Kael ofegava. A ferreira encostou na parede de pedra, o suor frio encharcando o seu rosto pálido. Ela forçou os olhos para o fundo da sala iluminada pelo braseiro e ergueu um braço trêmulo.
@@ -2223,5 +2228,22 @@ Mina tocou a própria nuca, sentindo o peso daquela responsabilidade. Ela não e
 — E quem nós vamos procurar nesse ninho de cobras, Capitão? — perguntou a assassina.
 Valen apoiou a cabeça na madeira do navio, olhando para o céu que clareava rapidamente. O olhar dele carregava a sombra de velhos acordos e dívidas de sangue.
 — Nós precisamos de Duncan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 `;
